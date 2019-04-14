@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /run/
+  - title: "Eduardo"
+    url: /run/eduardo.html
+  - title: "Jessica"
+    url: /run/jessica.html
+  - title: "Brian"
+    url: /run/brian.html
