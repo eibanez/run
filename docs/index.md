@@ -17,4 +17,4 @@ title: Running in Iowa
 ![](plots/compare-speed-with-trend.jpg)
 
 ## Time running per month
-![](plots/compare-time-by-month)
+![](plots/compare-time-by-month.jpg)
