@@ -11,10 +11,14 @@ title: Running in Iowa
 ## Distance by month
 ![](plots/compare-distance-by-month.jpg)
 
-## Pace and speed over time
+## Pace over time
 ![](plots/compare-pace-with-trend.jpg)
 
+## Speed over time
 ![](plots/compare-speed-with-trend.jpg)
 
 ## Time running per month
 ![](plots/compare-time-by-month.jpg)
+
+## Distance per run
+![](plots/compare-distance-per-run.jpg)
