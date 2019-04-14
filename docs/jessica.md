@@ -26,4 +26,4 @@ title: Jessica
 
 
 ## Total time by month
-![](plots/Jessica-distance-time_by_month.jpg)
+![](plots/Jessica-time-by-month.jpg)

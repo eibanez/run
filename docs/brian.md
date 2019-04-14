@@ -26,4 +26,4 @@ title: Brian
 
 
 ## Total time by month
-![](plots/Brian-distance-time_by_month.jpg)
+![](plots/Brian-time-by-month.jpg)

@@ -26,4 +26,4 @@ title: Eduardo
 
 
 ## Total time by month
-![](plots/Eduardo-distance-time_by_month.jpg)
+![](plots/Eduardo-time-by-month.jpg)
