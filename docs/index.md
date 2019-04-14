@@ -1,5 +1,5 @@
 ---
-title: Running in Iowa
+title: Comparisons
 ---
 
 ## Total distance
