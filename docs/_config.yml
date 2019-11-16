@@ -3,6 +3,7 @@ markdown: kramdown
 theme: minima
 header_pages:
   - index.md
+  - ann.md
   - brian.md
   - eduardo.md
   - jessica.md
