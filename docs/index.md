@@ -14,6 +14,9 @@ title: Comparisons
 ## Distance by year
 ![](plots/compare-distance-by-year-bar.jpg)
 
+## Number of days
+![](plots/compare-n-days-by-year-bar.jpg)
+
 ## Pace over time
 ![](plots/compare-pace-with-trend.jpg)
 
