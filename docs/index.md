@@ -23,9 +23,6 @@ title: Comparisons
 ## Speed over time
 ![](plots/compare-speed-with-trend.jpg)
 
-## Time running per month
-![](plots/compare-time-by-month.jpg)
-
 ## Time running per year
 ![](plots/compare-time-by-year-bar.jpg)
 
