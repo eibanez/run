@@ -17,14 +17,14 @@ title: Comparisons
 ## Number of days
 ![](plots/compare-n-days-by-year-bar.jpg)
 
+## Number of hours
+![](plots/compare-time-by-year-bar.jpg)
+
 ## Pace over time
 ![](plots/compare-pace-with-trend.jpg)
 
 ## Speed over time
 ![](plots/compare-speed-with-trend.jpg)
-
-## Time running per year
-![](plots/compare-time-by-year-bar.jpg)
 
 ## Distance per run
 ![](plots/compare-distance-per-run.jpg)
