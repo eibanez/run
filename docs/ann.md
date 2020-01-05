@@ -25,5 +25,5 @@ title: Ann
 ![](plots/Ann-distance-by-month.jpg)
 
 
-## Total time by month
+## Hours by month
 ![](plots/Ann-time-by-month.jpg)

@@ -25,5 +25,5 @@ title: Eduardo
 ![](plots/Eduardo-distance-by-month.jpg)
 
 
-## Total time by month
+## Hours by month
 ![](plots/Eduardo-time-by-month.jpg)

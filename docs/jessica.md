@@ -25,5 +25,5 @@ title: Jessica
 ![](plots/Jessica-distance-by-month.jpg)
 
 
-## Total time by month
+## Hours by month
 ![](plots/Jessica-time-by-month.jpg)

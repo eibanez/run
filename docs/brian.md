@@ -25,5 +25,5 @@ title: Brian
 ![](plots/Brian-distance-by-month.jpg)
 
 
-## Total time by month
+## Hours by month
 ![](plots/Brian-time-by-month.jpg)
