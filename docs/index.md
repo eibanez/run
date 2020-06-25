@@ -7,6 +7,7 @@ title: Comparisons
 
 ## Distance by year
 ![](plots/compare-distance-by-year.jpg)
+![](plots/compare-distance-by-year-person.jpg)
 
 ## Distance by month
 ![](plots/compare-distance-by-month.jpg)
