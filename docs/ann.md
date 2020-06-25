@@ -25,5 +25,4 @@ title: Ann
 ![](plots/Ann-distance-by-month.jpg)
 
 
-## Hours by month
-![](plots/Ann-time-by-month.jpg)
+![](plots/Ann-distance-by-year-month.jpg)

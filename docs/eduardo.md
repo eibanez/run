@@ -25,5 +25,4 @@ title: Eduardo
 ![](plots/Eduardo-distance-by-month.jpg)
 
 
-## Hours by month
-![](plots/Eduardo-time-by-month.jpg)
+![](plots/Eduardo-distance-by-year-month.jpg)
