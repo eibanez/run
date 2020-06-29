@@ -22,8 +22,5 @@ title: Comparisons
 ## Pace over time
 ![](plots/compare-pace-with-trend.jpg)
 
-## Speed over time
-![](plots/compare-speed-with-trend.jpg)
-
 ## Distance per run
 ![](plots/compare-distance-per-run.jpg)
