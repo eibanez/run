@@ -13,10 +13,6 @@ title: Ann
 ![](plots/Ann-pace-with-trend.jpg)
 
 
-## Speed
-![](plots/Ann-speed-with-trend.jpg)
-
-
 ## Distance per run
 ![](plots/Ann-distance-per-run.jpg)
 

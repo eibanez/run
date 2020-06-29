@@ -13,10 +13,6 @@ title: Jessica
 ![](plots/Jessica-pace-with-trend.jpg)
 
 
-## Speed
-![](plots/Jessica-speed-with-trend.jpg)
-
-
 ## Distance per run
 ![](plots/Jessica-distance-per-run.jpg)
 

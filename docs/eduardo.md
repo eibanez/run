@@ -13,10 +13,6 @@ title: Eduardo
 ![](plots/Eduardo-pace-with-trend.jpg)
 
 
-## Speed
-![](plots/Eduardo-speed-with-trend.jpg)
-
-
 ## Distance per run
 ![](plots/Eduardo-distance-per-run.jpg)
 
