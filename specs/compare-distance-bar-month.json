@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "data": {"url": "https://raw.githubusercontent.com/eibanez/run-test/master/data.json"},
+  "data": {"url": "data.json"},
   "height": 150,
   "width": 500,
   "mark": {"type": "bar", "tooltip": true},

@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "data": {"url": "https://raw.githubusercontent.com/eibanez/run-test/master/data.json"},
+  "data": {"url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"},
   "transform": [
     {"timeUnit": "year", "field": "start", "as": "year"},
     {"timeUnit": "dayofyear", "field": "start", "as": "dayofyear"},
