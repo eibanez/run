@@ -12,20 +12,21 @@
   "mark": {"type": "point", "tooltip": true},
   "encoding": {
     "x": {
-      "field": "start",
+      "field": "date",
       "type": "temporal",
       "axis": {"title": null}
     },
     "y": {
       "field": "pace",
       "type": "quantitative",
-      "axis": {"title": "Avg. speed (min/miles)"},
-      "scale": {"domain": [7, 12.25]}
+      "axis": {"title": "Pace (min/mile)"},
+      "scale": {"zero": false}
     },
     "color": {
       "field": "type",
       "type": "nominal",
       "sort": [],
+      "scale": {"range": ["#4BBA3E", "#528ECD", "#CD6752"]},
       "legend": {"title": null}
     }
   }

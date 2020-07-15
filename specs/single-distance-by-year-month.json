@@ -7,7 +7,7 @@
   "mark": {"type": "bar", "tooltip": true},
   "encoding": {
     "x": {
-      "field": "start",
+      "field": "date",
       "timeUnit": "year",
       "type": "nominal",
       "axis": null
@@ -19,13 +19,13 @@
       "axis": {"title": "Distance (miles)"}
     },
     "column": {
-      "field": "start",
+      "field": "date",
       "type": "temporal",
       "timeUnit": "month",
       "header": {"title": null}
     },
     "color": {
-      "field": "start",
+      "field": "date",
       "timeUnit": "year",
       "type": "nominal",
       "legend": {"title": null}

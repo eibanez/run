@@ -6,7 +6,7 @@
   "mark": {"type": "bar", "tooltip": true},
   "encoding": {
     "x": {
-      "field": "start",
+      "field": "date",
       "timeUnit": "yearmonth",
       "type": "temporal",
       "axis": {"title": null}

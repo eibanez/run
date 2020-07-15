@@ -3,9 +3,10 @@ var opts = {
   "config": {
     "style": {
       "guide-label": {"fontSize": 12.5},
-      "guide-title": {"fontSize": 13.5}
+      "guide-title": {"fontSize": 13.5, "fontStyle": "normal"}
     },
-    "header": {"labelFontSize": 14.5}
+    "header": {"labelFontSize": 14.5},
+    "legend": {"orient": "top"}
   }
 };
 

@@ -1,10 +1,9 @@
-
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "data": {"url": "data.json"},
+  "data": {"url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"},
   "facet": {
     "column": {
-      "field": "start",
+      "field": "date",
       "timeUnit": "year",
       "type": "nominal",
       "header": {"title": null}
@@ -15,7 +14,7 @@
     "width": 180,
     "encoding": {
       "x": {
-        "field": "person",
+        "field": "name",
         "type": "nominal",
         "sort": [],
         "axis": {"title": null}
@@ -27,9 +26,10 @@
         "axis": {"title": "Distance (miles)"}
       },
       "color": {
-        "field": "person",
+        "field": "name",
         "type": "nominal",
         "sort": [],
+        "scale": {"range": ["goldenrod", "firebrick", "cornflowerblue", "darkorchid", "forestgreen"]},
         "legend": null
       }
     },

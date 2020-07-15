@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "data": {"url": "data.json"},
+  "data": {"url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"},
   "transform": [
     {
       "window": [{
@@ -9,11 +9,11 @@
           "as": "total_distance"
       }],
       "sort": [
-        {"field": "start", "order": "ascending"}
+        {"field": "date", "order": "ascending"}
       ],
       "ignorePeers": false,
       "groupby": [
-        "person"
+        "name"
       ],
       "frame": [null,0]
     }
@@ -24,7 +24,7 @@
   "mark": {"type": "line", "tooltip": true},
   "encoding": {
     "x": {
-      "field": "start",
+      "field": "date",
       "type": "temporal",
       "axis": {"title": null}
     },
@@ -34,9 +34,10 @@
       "axis": {"title": "Distance (miles)"}
     },
     "color": {
-      "field": "person",
+      "field": "name",
       "type": "nominal",
       "sort": [],
+      "scale": {"range": ["goldenrod", "firebrick", "cornflowerblue", "darkorchid", "forestgreen"]},
       "legend": {"title": null}
     }
   }

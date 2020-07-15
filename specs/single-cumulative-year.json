@@ -2,8 +2,8 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {"url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"},
   "transform": [
-    {"timeUnit": "year", "field": "start", "as": "year"},
-    {"timeUnit": "dayofyear", "field": "start", "as": "dayofyear"},
+    {"timeUnit": "year", "field": "date", "as": "year"},
+    {"timeUnit": "dayofyear", "field": "date", "as": "dayofyear"},
     {
       "window": [{
           "op": "sum",
@@ -11,7 +11,7 @@
           "as": "total_distance"
       }],
       "sort": [
-        {"field": "start", "order": "ascending"}
+        {"field": "date", "order": "ascending"}
       ],
       "groupby": ["year"],
       "frame": [null,0]

@@ -12,7 +12,7 @@
   "mark": {"type": "point", "tooltip": true},
   "encoding": {
     "x": {
-      "field": "start",
+      "field": "date",
       "type": "temporal",
       "axis": {"title": null}
     },
@@ -25,6 +25,7 @@
       "field": "type",
       "type": "nominal",
       "sort": [],
+      "scale": {"range": ["#4BBA3E", "#528ECD", "#CD6752"]},
       "legend": {"title": null}
     }
   }

@@ -2,23 +2,28 @@
 title: Brian
 ---
 
-## Calendar
-<div id="single-calendar"></div>
-
-## Pace
+## Pace over time
 <div id="single-time-pace"></div>
 
 ## Distance per run
 <div id="single-time-distance"></div>
 
-## Distance by month
+## Monthly distances over time
 <div id="single-distance-by-month"></div>
+
+## Compare months across years
 <div id="single-distance-by-year-month"></div>
 
 ## Compare years
 <div id="single-cumulative-year"></div>
 
+## Runs by day of the week
+<div id="single-calendar"></div>
+
 ## Analysis of runs
+This is a fun graph. Use your mouse to highlight an area in one of the graphs. The other graphs
+will show what workouts correspond to that selection.
+
 <div id="single-crossfilter"></div>
 
 <script src="https://cdn.jsdelivr.net/npm/vega@5.12.1"></script>
