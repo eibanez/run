@@ -1619,6 +1619,17 @@
   {
     "person": "Jessica",
     "type": "Run",
+    "start": "2020-07-15",
+    "distance": 6.144055270955796,
+    "duration": "0:58:03",
+    "pace": 9.448157192597892,
+    "name": "6.14mi Run",
+    "notes": "Best run in months.",
+    "source": "MapMyRun iPhone"
+  },
+  {
+    "person": "Jessica",
+    "type": "Run",
     "start": "2020-07-13",
     "distance": 4.002369947829546,
     "duration": "0:39:53",
@@ -7680,6 +7691,28 @@
   {
     "person": "Brian",
     "type": "Run",
+    "start": "2020-07-15",
+    "distance": 1.009912510122162,
+    "duration": "0:08:59",
+    "pace": 8.89515997009155,
+    "name": "Ran 1.01 mi on 07/15/20",
+    "notes": "",
+    "source": "GARMIN 3077"
+  },
+  {
+    "person": "Brian",
+    "type": "Run",
+    "start": "2020-07-15",
+    "distance": 1.1142527694582873,
+    "duration": "0:09:00",
+    "pace": 8.077161885247547,
+    "name": "Ran 1.11 mi on 07/15/20",
+    "notes": "",
+    "source": "GARMIN 3077"
+  },
+  {
+    "person": "Brian",
+    "type": "Run",
     "start": "2020-07-14",
     "distance": 4.1041602008276685,
     "duration": "0:36:14",
@@ -11537,6 +11570,17 @@
     "name": "0:37:59 Run",
     "notes": "",
     "source": "MapMyRun Android"
+  },
+  {
+    "person": "Ann",
+    "type": "Run",
+    "start": "2020-07-15",
+    "distance": 3.097827699603564,
+    "duration": "0:25:40",
+    "pace": 8.285375803809647,
+    "name": "3.10mi Run",
+    "notes": "The best running weather!!!",
+    "source": "MapMyRun iPhone"
   },
   {
     "person": "Ann",
