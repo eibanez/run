@@ -12,9 +12,9 @@ var opts = {
 
 function load_plot(id, person) {
   vegaEmbed("#" + id, "specs/" + id + ".json", opts).then(function(result) {
-    if (person) {
-      // Filter data, keeping only the one person we want
-      result.view.remove('source_0', d => d.person != person).run();
-    }
+    //if (person) {
+    //  // Filter data, keeping only the one person we want
+    //  result.view.remove('source_0', d => d.person != person).run();
+    //}
   }).catch(console.error);;
 }
