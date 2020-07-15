@@ -1,0 +1,131 @@
+{
+  "data": {
+    "url": "https://raw.githubusercontent.com/eibanez/run-test/master/data.json"
+  },
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "transform": [
+    {"timeUnit": "yearmonth", "field": "start", "as": "date"}
+  ],
+  "spacing": 5,
+  "concat": [
+    {
+      "width": 250,
+      "height": 200,
+      "layer": [
+        {
+          "selection": {"brush": {"type": "interval", "encodings": ["x"]}},
+          "mark": "bar",
+          "encoding": {
+            "x": {
+              "field": "date",
+              "type": "temporal",
+              "axis": {"title": "Date"}
+            },
+            "y": {
+              "aggregate": "count",
+              "type": "quantitative",
+              "axis": {"title": "No. of runs"}
+            },
+            "color": {"value": "#ddd"}
+          }
+        },
+        {
+          "transform": [{"filter": {"selection": "brush"}}],
+          "mark": "bar",
+          "encoding": {
+            "x": {
+              "field": "date",
+              "type": "temporal",
+              "axis": {"title": "Date"}
+            },
+            "y": {
+              "aggregate": "count",
+              "type": "quantitative",
+              "axis": {"title": "No. of runs"}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "layer": [
+        {
+         "width": 175,
+          "selection": {"brush": {"type": "interval", "encodings": ["x"]}},
+          "mark": "bar",
+          "encoding": {
+            "x": {
+              "field": "distance",
+              "bin": {"step": 1},
+              "type": "quantitative",
+              "axis": {"title": "Distance (mi)"}
+            },
+            "y": {
+              "aggregate": "count",
+              "type": "quantitative",
+              "axis": {"title": "No. of runs"}
+            },
+            "color": {"value": "#ddd"}
+          }
+        },
+        {
+          "transform": [{"filter": {"selection": "brush"}}],
+          "mark": "bar",
+          "encoding": {
+            "x": {
+              "field": "distance",
+              "bin": {"step": 1},
+              "type": "quantitative",
+              "axis": {"title": "Distance (mi)"}
+            },
+            "y": {
+              "aggregate": "count",
+              "type": "quantitative",
+              "axis": {"title": "No. of runs"}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "layer": [
+        {
+         "width": 175,
+          "selection": {"brush": {"type": "interval", "encodings": ["x"]}},
+          "mark": "bar",
+          "encoding": {
+            "x": {
+              "field": "pace",
+              "bin": {"step": 0.5},
+              "type": "quantitative",
+              "axis": {"title": "Pace (min/mi)"}
+            },
+            "y": {
+              "aggregate": "count",
+              "type": "quantitative",
+              "axis": {"title": "No. of runs"}
+            },
+            "color": {"value": "#ddd"}
+          }
+        },
+        {
+          "transform": [{"filter": {"selection": "brush"}}],
+          "mark": "bar",
+          "encoding": {
+            "x": {
+              "field": "pace",
+              "bin": {"step": 0.5},
+              "type": "quantitative",
+              "axis": {"title": "Pace (min/mi)"}
+            },
+            "y": {
+              "aggregate": "count",
+              "type": "quantitative",
+              "axis": {"title": "No. of runs"}
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

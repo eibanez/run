@@ -1,0 +1,51 @@
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {"url": "https://raw.githubusercontent.com/eibanez/run-test/master/data.json"},
+  "facet": {
+    "column": {
+      "field": "start",
+      "timeUnit": "year",
+      "type": "nominal",
+      "header": {"title": null}
+    }
+  },
+  "spec": {
+    "height": 200,
+    "width": 180,
+    "encoding": {
+      "x": {
+        "field": "person",
+        "type": "nominal",
+        "sort": [],
+        "axis": {"title": null}
+      },
+      "y": {
+        "field": "distance",
+        "type": "quantitative",
+        "aggregate": "sum",
+        "axis": {"title": "Distance (miles)"}
+      },
+      "color": {
+        "field": "person",
+        "type": "nominal",
+        "sort": [],
+        "legend": null
+      }
+    },
+    "layer": [
+      {"mark": {"type": "bar", "tooltip": true}},
+      {
+        "mark": {"type": "text", "dy": -7},
+        "encoding": {
+          "text": {
+            "field": "distance",
+            "type": "quantitative",
+            "aggregate": "sum",
+            "format": ".0f"
+          }
+        }
+      }
+    ]
+  }
+}

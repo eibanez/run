@@ -1,0 +1,41 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {"url": "https://raw.githubusercontent.com/eibanez/run-test/master/data.json"},
+  "transform": [
+    {"timeUnit": "year", "field": "start", "as": "year"},
+    {"timeUnit": "dayofyear", "field": "start", "as": "dayofyear"},
+    {
+      "window": [{
+          "op": "sum",
+          "field": "distance",
+          "as": "total_distance"
+      }],
+      "sort": [
+        {"field": "start", "order": "ascending"}
+      ],
+      "groupby": ["year"],
+      "frame": [null,0]
+    }
+  ],
+  "width": 450,
+  "height": 250,
+  "spacing": 5,
+  "mark": {"type": "line", "tooltip": true},
+  "encoding": {
+    "x": {
+      "field": "dayofyear",
+      "type": "temporal",
+      "axis": {"title": null}
+    },
+    "y": {
+      "field": "total_distance",
+      "type": "quantitative",
+      "axis": {"title": "Distance (miles)"}
+    },
+    "color": {
+      "field": "year",
+      "type": "nominal",
+      "legend": {"title": null, "formatType": "time", "format": "%Y"}
+    }
+  }
+}

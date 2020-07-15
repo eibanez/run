@@ -1,0 +1,34 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {"url": "https://raw.githubusercontent.com/eibanez/run-test/master/data.json"},
+  "height": 250,
+  "width": 40,
+  "spacing": 2,
+  "mark": {"type": "bar", "tooltip": true},
+  "encoding": {
+    "x": {
+      "field": "start",
+      "timeUnit": "year",
+      "type": "nominal",
+      "axis": null
+    },
+    "y": {
+      "field": "distance",
+      "type": "quantitative",
+      "aggregate": "sum",
+      "axis": {"title": "Distance (miles)"}
+    },
+    "column": {
+      "field": "start",
+      "type": "temporal",
+      "timeUnit": "month",
+      "header": {"title": null}
+    },
+    "color": {
+      "field": "start",
+      "timeUnit": "year",
+      "type": "nominal",
+      "legend": {"title": null}
+    }
+  }
+}

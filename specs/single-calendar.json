@@ -1,0 +1,39 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {"url": "https://raw.githubusercontent.com/eibanez/run-test/master/data.json"},
+  "width": 450,
+  "height": 150,
+  "spacing": 5,
+  "mark": {"type": "point", "tooltip": true},
+  "encoding": {
+    "x": {
+      "field": "start",
+      "type": "temporal",
+      "timeUnit": "week",
+      "axis": {"title": "Week"}
+    },
+    "y": {
+      "field": "start",
+      "type": "ordinal",
+      "timeUnit": "day",
+      "axis": {"title": null}
+    },
+    "row": {
+      "field": "start",
+      "type": "temporal",
+      "timeUnit": "year",
+      "header": {"title": null}
+    },
+    "size": {
+      "field": "distance",
+      "type": "quantitative",
+      "legend": {"title": "Distance (miles)"}
+    },
+    "color": {
+      "field": "type",
+      "type": "nominal",
+      "sort": [],
+      "legend": {"title": "Type"}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {"url": "https://raw.githubusercontent.com/eibanez/run-test/master/data.json"},
+  "selection": {
+    "grid": {
+      "type": "interval", "bind": "scales"
+    }
+  },
+  "height": 250,
+  "width": 450,
+  "spacing": 5,
+  "mark": {"type": "point", "tooltip": true},
+  "encoding": {
+    "x": {
+      "field": "start",
+      "type": "temporal",
+      "axis": {"title": null}
+    },
+    "y": {
+      "field": "distance",
+      "type": "quantitative",
+      "axis": {"title": "Distance (miles)"}
+    },
+    "color": {
+      "field": "type",
+      "type": "nominal",
+      "sort": [],
+      "legend": {"title": null}
+    }
+  }
+}
