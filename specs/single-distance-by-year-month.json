@@ -4,7 +4,7 @@
   "height": 250,
   "width": 40,
   "spacing": 2,
-  "mark": {"type": "bar", "tooltip": true},
+  "mark": {"type": "bar", "tooltip": {"content": "data"}},
   "encoding": {
     "x": {
       "field": "date",

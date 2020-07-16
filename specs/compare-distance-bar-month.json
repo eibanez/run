@@ -3,7 +3,7 @@
   "data": {"url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"},
   "height": 150,
   "width": 500,
-  "mark": {"type": "bar", "tooltip": true},
+  "mark": {"type": "bar", "tooltip": {"content": "data"}},
   "encoding": {
     "x": {
       "field": "date",

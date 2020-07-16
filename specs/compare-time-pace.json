@@ -1,21 +1,15 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "data": {"url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"},
-  "selection": {
-    "grid": {
-      "type": "interval", "bind": "scales"
-    }
+  "data": {
+    "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
   },
+  "selection": {"grid": {"type": "interval", "bind": "scales"}},
   "height": 150,
   "width": 450,
   "spacing": 5,
-  "mark": {"type": "point", "tooltip": true},
+  "mark": {"type": "point", "tooltip": {"content": "data"}},
   "encoding": {
-    "x": {
-      "field": "date",
-      "type": "temporal",
-      "axis": {"title": null}
-    },
+    "x": {"field": "date", "type": "temporal", "axis": {"title": null}},
     "y": {
       "field": "pace",
       "type": "quantitative",

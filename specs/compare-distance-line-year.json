@@ -22,7 +22,7 @@
   ],
   "width": 450,
   "height": 250,
-  "mark": {"type": "line", "tooltip": true},
+  "mark": {"type": "line", "tooltip": {"content": "data"}},
   "encoding": {
     "x": {
       "field": "date",

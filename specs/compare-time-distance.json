@@ -9,7 +9,7 @@
   "height": 150,
   "width": 450,
   "spacing": 5,
-  "mark": {"type": "point", "tooltip": true},
+  "mark": {"type": "point", "tooltip": {"content": "data"}},
   "encoding": {
     "x": {
       "field": "date",

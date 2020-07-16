@@ -34,7 +34,7 @@
       }
     },
     "layer": [
-      {"mark": {"type": "bar", "tooltip": true}},
+      {"mark": {"type": "bar", "tooltip": {"content": "data"}}},
       {
         "mark": {"type": "text", "dy": -7},
         "encoding": {
