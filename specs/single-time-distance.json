@@ -1,32 +1,58 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "data": {"url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"},
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json", 
+  "data": {
+    "format": {
+      "parse": {
+        "date": "date:'%Y-%m-%d'"
+      }
+    }, 
+    "name": "data", 
+    "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
+  }, 
+  "encoding": {
+    "color": {
+      "field": "type", 
+      "legend": {
+        "title": null
+      }, 
+      "scale": {
+        "range": [
+          "#4BBA3E", 
+          "#528ECD", 
+          "#CD6752"
+        ]
+      }, 
+      "sort": [], 
+      "type": "nominal"
+    }, 
+    "x": {
+      "axis": {
+        "title": null
+      }, 
+      "field": "date", 
+      "type": "temporal"
+    }, 
+    "y": {
+      "axis": {
+        "title": "Distance (miles)"
+      }, 
+      "field": "distance", 
+      "type": "quantitative"
+    }
+  }, 
+  "height": 250, 
+  "mark": {
+    "tooltip": {
+      "content": "data"
+    }, 
+    "type": "point"
+  }, 
   "selection": {
     "grid": {
-      "type": "interval", "bind": "scales"
+      "bind": "scales", 
+      "type": "interval"
     }
-  },
-  "height": 250,
-  "width": 450,
-  "spacing": 5,
-  "mark": {"type": "point", "tooltip": {"content": "data"}},
-  "encoding": {
-    "x": {
-      "field": "date",
-      "type": "temporal",
-      "axis": {"title": null}
-    },
-    "y": {
-      "field": "distance",
-      "type": "quantitative",
-      "axis": {"title": "Distance (miles)"}
-    },
-    "color": {
-      "field": "type",
-      "type": "nominal",
-      "sort": [],
-      "scale": {"range": ["#4BBA3E", "#528ECD", "#CD6752"]},
-      "legend": {"title": null}
-    }
-  }
+  }, 
+  "spacing": 5, 
+  "width": 450
 }

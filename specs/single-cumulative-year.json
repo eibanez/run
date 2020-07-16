@@ -1,41 +1,80 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "data": {"url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"},
-  "transform": [
-    {"timeUnit": "year", "field": "date", "as": "year"},
-    {"timeUnit": "dayofyear", "field": "date", "as": "dayofyear"},
-    {
-      "window": [{
-          "op": "sum",
-          "field": "distance",
-          "as": "total_distance"
-      }],
-      "sort": [
-        {"field": "date", "order": "ascending"}
-      ],
-      "groupby": ["year"],
-      "frame": [null,0]
-    }
-  ],
-  "width": 450,
-  "height": 250,
-  "spacing": 5,
-  "mark": {"type": "line", "tooltip": {"content": "data"}},
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json", 
+  "data": {
+    "format": {
+      "parse": {
+        "date": "date:'%Y-%m-%d'"
+      }
+    }, 
+    "name": "data", 
+    "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
+  }, 
   "encoding": {
-    "x": {
-      "field": "dayofyear",
-      "type": "temporal",
-      "axis": {"title": null}
-    },
-    "y": {
-      "field": "total_distance",
-      "type": "quantitative",
-      "axis": {"title": "Distance (miles)"}
-    },
     "color": {
-      "field": "year",
-      "type": "nominal",
-      "legend": {"title": null, "formatType": "time", "format": "%Y"}
+      "field": "year", 
+      "legend": {
+        "format": "%Y", 
+        "formatType": "time", 
+        "title": null
+      }, 
+      "type": "nominal"
+    }, 
+    "x": {
+      "axis": {
+        "title": null
+      }, 
+      "field": "dayofyear", 
+      "type": "temporal"
+    }, 
+    "y": {
+      "axis": {
+        "title": "Distance (miles)"
+      }, 
+      "field": "total_distance", 
+      "type": "quantitative"
     }
-  }
+  }, 
+  "height": 250, 
+  "mark": {
+    "tooltip": {
+      "content": "data"
+    }, 
+    "type": "line"
+  }, 
+  "spacing": 5, 
+  "transform": [
+    {
+      "as": "year", 
+      "field": "date", 
+      "timeUnit": "year"
+    }, 
+    {
+      "as": "dayofyear", 
+      "field": "date", 
+      "timeUnit": "dayofyear"
+    }, 
+    {
+      "frame": [
+        null, 
+        0
+      ], 
+      "groupby": [
+        "year"
+      ], 
+      "sort": [
+        {
+          "field": "date", 
+          "order": "ascending"
+        }
+      ], 
+      "window": [
+        {
+          "as": "total_distance", 
+          "field": "distance", 
+          "op": "sum"
+        }
+      ]
+    }
+  ], 
+  "width": 450
 }

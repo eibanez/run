@@ -1,40 +1,70 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "data": {"url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"},
-  "width": 450,
-  "height": 150,
-  "spacing": 5,
-  "mark": {"type": "point", "tooltip": {"content": "data"}},
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json", 
+  "data": {
+    "format": {
+      "parse": {
+        "date": "date:'%Y-%m-%d'"
+      }
+    }, 
+    "name": "data", 
+    "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
+  }, 
   "encoding": {
-    "x": {
-      "field": "date",
-      "type": "temporal",
-      "timeUnit": "week",
-      "axis": {"title": "Week"}
-    },
-    "y": {
-      "field": "date",
-      "type": "ordinal",
-      "timeUnit": "day",
-      "axis": {"title": null}
-    },
-    "row": {
-      "field": "date",
-      "type": "temporal",
-      "timeUnit": "year",
-      "header": {"title": null, "labelOrient": "right"}
-    },
-    "size": {
-      "field": "distance",
-      "type": "quantitative",
-      "legend": {"title": "Distance (miles)"}
-    },
     "color": {
-      "field": "type",
-      "type": "nominal",
-      "sort": [],
-      "scale": {"range": ["#4BBA3E", "#528ECD", "#CD6752"]},
-      "legend": {"title": "Type"}
+      "field": "type", 
+      "legend": {
+        "title": "Type"
+      }, 
+      "scale": {
+        "range": [
+          "#4BBA3E", 
+          "#528ECD", 
+          "#CD6752"
+        ]
+      }, 
+      "sort": [], 
+      "type": "nominal"
+    }, 
+    "row": {
+      "field": "date", 
+      "header": {
+        "labelOrient": "right", 
+        "title": null
+      }, 
+      "timeUnit": "year", 
+      "type": "temporal"
+    }, 
+    "size": {
+      "field": "distance", 
+      "legend": {
+        "title": "Distance (miles)"
+      }, 
+      "type": "quantitative"
+    }, 
+    "x": {
+      "axis": {
+        "title": "Week"
+      }, 
+      "field": "date", 
+      "timeUnit": "week", 
+      "type": "temporal"
+    }, 
+    "y": {
+      "axis": {
+        "title": null
+      }, 
+      "field": "date", 
+      "timeUnit": "day", 
+      "type": "ordinal"
     }
-  }
+  }, 
+  "height": 150, 
+  "mark": {
+    "tooltip": {
+      "content": "data"
+    }, 
+    "type": "point"
+  }, 
+  "spacing": 5, 
+  "width": 450
 }

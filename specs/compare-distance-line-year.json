@@ -1,49 +1,88 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "data": {"url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"},
-  "transform": [
-    {"timeUnit": "year", "field": "date", "as": "year"},
-    {
-      "window": [{
-          "op": "sum",
-          "field": "distance",
-          "as": "total_distance"
-      }],
-      "sort": [
-        {"field": "date", "order": "ascending"}
-      ],
-      "ignorePeers": false,
-      "groupby": [
-        "name",
-        "year"
-      ],
-      "frame": [null,0]
-    }
-  ],
-  "width": 450,
-  "height": 250,
-  "mark": {"type": "line", "tooltip": {"content": "data"}},
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json", 
+  "data": {
+    "format": {
+      "parse": {
+        "date": "date:'%Y-%m-%d'"
+      }
+    }, 
+    "name": "data", 
+    "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
+  }, 
   "encoding": {
-    "x": {
-      "field": "date",
-      "type": "temporal",
-      "axis": {"title": null}
-    },
-    "y": {
-      "field": "total_distance",
-      "type": "quantitative",
-      "axis": {"title": "Distance (miles)"}
-    },
     "color": {
-      "field": "name",
-      "type": "nominal",
-      "sort": [],
-      "scale": {"range": ["goldenrod", "firebrick", "cornflowerblue", "darkorchid", "forestgreen"]},
-      "legend": {"title": null}
-    },
+      "field": "name", 
+      "legend": {
+        "title": null
+      }, 
+      "scale": {
+        "range": [
+          "goldenrod", 
+          "firebrick", 
+          "cornflowerblue", 
+          "darkorchid", 
+          "forestgreen"
+        ]
+      }, 
+      "sort": [], 
+      "type": "nominal"
+    }, 
     "detail": {
-      "field": "year",
+      "field": "year", 
       "type": "temporal"
+    }, 
+    "x": {
+      "axis": {
+        "title": null
+      }, 
+      "field": "date", 
+      "type": "temporal"
+    }, 
+    "y": {
+      "axis": {
+        "title": "Distance (miles)"
+      }, 
+      "field": "total_distance", 
+      "type": "quantitative"
     }
-  }
+  }, 
+  "height": 250, 
+  "mark": {
+    "tooltip": {
+      "content": "data"
+    }, 
+    "type": "line"
+  }, 
+  "transform": [
+    {
+      "as": "year", 
+      "field": "date", 
+      "timeUnit": "year"
+    }, 
+    {
+      "frame": [
+        null, 
+        0
+      ], 
+      "groupby": [
+        "name", 
+        "year"
+      ], 
+      "ignorePeers": false, 
+      "sort": [
+        {
+          "field": "date", 
+          "order": "ascending"
+        }
+      ], 
+      "window": [
+        {
+          "as": "total_distance", 
+          "field": "distance", 
+          "op": "sum"
+        }
+      ]
+    }
+  ], 
+  "width": 450
 }

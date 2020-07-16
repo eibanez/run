@@ -1,33 +1,73 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json", 
   "data": {
+    "format": {
+      "parse": {
+        "date": "date:'%Y-%m-%d'"
+      }
+    }, 
+    "name": "data", 
     "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
-  },
-  "selection": {"grid": {"type": "interval", "bind": "scales"}},
-  "height": 150,
-  "width": 450,
-  "spacing": 5,
-  "mark": {"type": "point", "tooltip": {"content": "data"}},
+  }, 
   "encoding": {
-    "x": {"field": "date", "type": "temporal", "axis": {"title": null}},
-    "y": {
-      "field": "pace",
-      "type": "quantitative",
-      "axis": {"title": "Pace (min/mile)"},
-      "scale": {"domain": [7, 12.25]}
-    },
-    "row": {
-      "field": "name",
-      "type": "nominal",
-      "sort": [],
-      "header": {"title": null, "labelOrient": "right"}
-    },
     "color": {
-      "field": "type",
-      "type": "nominal",
-      "sort": [],
-      "scale": {"range": ["#4BBA3E", "#528ECD", "#CD6752"]},
-      "legend": {"title": null}
+      "field": "type", 
+      "legend": {
+        "title": null
+      }, 
+      "scale": {
+        "range": [
+          "#4BBA3E", 
+          "#528ECD", 
+          "#CD6752"
+        ]
+      }, 
+      "sort": [], 
+      "type": "nominal"
+    }, 
+    "row": {
+      "field": "name", 
+      "header": {
+        "labelOrient": "right", 
+        "title": null
+      }, 
+      "sort": [], 
+      "type": "nominal"
+    }, 
+    "x": {
+      "axis": {
+        "title": null
+      }, 
+      "field": "date", 
+      "type": "temporal"
+    }, 
+    "y": {
+      "axis": {
+        "title": "Pace (min/mile)"
+      }, 
+      "field": "pace", 
+      "scale": {
+        "domain": [
+          7, 
+          12.25
+        ]
+      }, 
+      "type": "quantitative"
     }
-  }
+  }, 
+  "height": 150, 
+  "mark": {
+    "tooltip": {
+      "content": "data"
+    }, 
+    "type": "point"
+  }, 
+  "selection": {
+    "grid": {
+      "bind": "scales", 
+      "type": "interval"
+    }
+  }, 
+  "spacing": 5, 
+  "width": 450
 }
