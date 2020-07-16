@@ -28,38 +28,45 @@
     "tooltip": [
       {
         "field": "title", 
-        "title": "Title"
+        "type": "nominal"
       }, 
       {
         "field": "name", 
-        "title": "Name"
+        "title": "Name", 
+        "type": "nominal"
       }, 
       {
         "field": "type", 
-        "title": "Type"
+        "title": "Type", 
+        "type": "nominal"
       }, 
       {
         "field": "date", 
         "timeUnit": "yearmonthdate", 
-        "title": "Date"
+        "title": "Date", 
+        "type": "temporal"
       }, 
       {
         "field": "distance", 
         "format": ".1f", 
-        "title": "Distance"
+        "title": "Distance", 
+        "type": "quantitative"
       }, 
       {
         "field": "duration", 
-        "title": "Duration"
+        "title": "Duration", 
+        "type": "quantitative"
       }, 
       {
         "field": "pace", 
         "format": ".2f", 
-        "title": "Pace"
+        "title": "Pace", 
+        "type": "quantitative"
       }, 
       {
         "field": "source", 
-        "title": "Source"
+        "title": "Source", 
+        "type": "nominal"
       }
     ], 
     "x": {
