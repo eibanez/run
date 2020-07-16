@@ -1,9 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "data": {"url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
+  },
   "height": 150,
   "width": 500,
-  "mark": {"type": "bar", "tooltip": {"content": "data"}},
+  "mark": {"type": "bar"},
   "encoding": {
     "x": {
       "field": "date",
@@ -27,8 +29,15 @@
       "field": "name",
       "type": "nominal",
       "sort": [],
-      "scale": {"range": ["goldenrod", "firebrick", "cornflowerblue", "darkorchid", "forestgreen"]},
+      "scale": {
+        "range": ["goldenrod", "firebrick", "cornflowerblue", "darkorchid"]
+      },
       "legend": null
-    }
+    },
+    "tooltip": [
+      {"field": "name", "title": "Name"},
+      {"field": "date", "title": "Month", "timeUnit": "yearmonth"},
+      {"field": "sum_distance", "title": "Distance", "format": ".1f"}
+    ]
   }
 }
