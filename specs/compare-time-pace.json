@@ -49,7 +49,7 @@
       }, 
       {
         "field": "date", 
-        "timeUnit": "yearmonthday", 
+        "timeUnit": "yearmonthdate", 
         "title": "Date"
       }, 
       {
