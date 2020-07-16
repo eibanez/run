@@ -14,7 +14,7 @@ function load_plot(id, name) {
   vegaEmbed("#" + id, "specs/" + id + ".json", opts).then(function(result) {
     if (name) {
       // Filter data, keeping only the one person we want
-      result.view.remove('source_0', d => d.name != name).run();
+      result.view.remove('data', d => d.name != name).run();
     }
   }).catch(console.error);;
 }

@@ -34,6 +34,43 @@
       "sort": [], 
       "type": "nominal"
     }, 
+    "tooltip": [
+      {
+        "field": "title", 
+        "title": "Title"
+      }, 
+      {
+        "field": "name", 
+        "title": "Name"
+      }, 
+      {
+        "field": "type", 
+        "title": "Type"
+      }, 
+      {
+        "field": "date", 
+        "timeUnit": "yearmonthday", 
+        "title": "Date"
+      }, 
+      {
+        "field": "distance", 
+        "format": ".1f", 
+        "title": "Distance"
+      }, 
+      {
+        "field": "duration", 
+        "title": "Duration"
+      }, 
+      {
+        "field": "pace", 
+        "format": ".2f", 
+        "title": "Pace"
+      }, 
+      {
+        "field": "source", 
+        "title": "Source"
+      }
+    ], 
     "x": {
       "axis": {
         "title": null
@@ -50,12 +87,7 @@
     }
   }, 
   "height": 150, 
-  "mark": {
-    "tooltip": {
-      "content": "data"
-    }, 
-    "type": "point"
-  }, 
+  "mark": "point", 
   "selection": {
     "grid": {
       "bind": "scales", 
