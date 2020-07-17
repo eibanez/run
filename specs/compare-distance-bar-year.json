@@ -1,99 +1,99 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v4.json", 
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {
     "format": {
       "parse": {
-        "date": "date:'%Y-%m-%d'"
+        "date": "utc:'%Y-%m-%dT%H:%M:%S'"
       }
-    }, 
-    "name": "data", 
+    },
+    "name": "data",
     "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
-  }, 
+  },
   "facet": {
     "column": {
-      "field": "date", 
+      "field": "date",
       "header": {
         "title": null
-      }, 
-      "timeUnit": "year", 
+      },
+      "timeUnit": "year",
       "type": "nominal"
     }
-  }, 
+  },
   "spec": {
     "encoding": {
       "color": {
-        "field": "name", 
-        "legend": null, 
+        "field": "name",
+        "legend": null,
         "scale": {
           "range": [
-            "goldenrod", 
-            "firebrick", 
-            "cornflowerblue", 
-            "darkorchid", 
+            "goldenrod",
+            "firebrick",
+            "cornflowerblue",
+            "darkorchid",
             "forestgreen"
           ]
-        }, 
-        "sort": [], 
+        },
+        "sort": [],
         "type": "nominal"
-      }, 
+      },
       "tooltip": [
         {
-          "field": "name", 
+          "field": "name",
           "title": "Name"
-        }, 
+        },
         {
-          "field": "date", 
-          "timeUnit": "year", 
+          "field": "date",
+          "timeUnit": "year",
           "title": "Year"
-        }, 
+        },
         {
-          "field": "sum_distance", 
-          "format": ".1f", 
+          "field": "sum_distance",
+          "format": ".1f",
           "title": "Distance"
         }
-      ], 
+      ],
       "x": {
         "axis": {
           "title": null
-        }, 
-        "field": "name", 
-        "sort": [], 
+        },
+        "field": "name",
+        "sort": [],
         "type": "nominal"
-      }, 
+      },
       "y": {
-        "aggregate": "sum", 
+        "aggregate": "sum",
         "axis": {
           "title": "Distance (miles)"
-        }, 
-        "field": "distance", 
+        },
+        "field": "distance",
         "type": "quantitative"
       }
-    }, 
-    "height": 200, 
+    },
+    "height": 200,
     "layer": [
       {
         "mark": {
           "tooltip": {
             "content": "data"
-          }, 
+          },
           "type": "bar"
         }
-      }, 
+      },
       {
         "encoding": {
           "text": {
-            "aggregate": "sum", 
-            "field": "distance", 
-            "format": ".0f", 
+            "aggregate": "sum",
+            "field": "distance",
+            "format": ".0f",
             "type": "quantitative"
           }
-        }, 
+        },
         "mark": {
-          "dy": -7, 
+          "dy": -7,
           "type": "text"
         }
       }
-    ], 
+    ],
     "width": 180
   }
 }

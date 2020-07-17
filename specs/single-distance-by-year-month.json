@@ -1,53 +1,53 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v4.json", 
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {
     "format": {
       "parse": {
-        "date": "date:'%Y-%m-%d'"
+        "date": "utc:'%Y-%m-%dT%H:%M:%S'"
       }
-    }, 
-    "name": "data", 
+    },
+    "name": "data",
     "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
-  }, 
+  },
   "encoding": {
     "color": {
-      "field": "date", 
+      "field": "date",
       "legend": {
         "title": null
-      }, 
-      "timeUnit": "year", 
+      },
+      "timeUnit": "year",
       "type": "nominal"
-    }, 
+    },
     "column": {
-      "field": "date", 
+      "field": "date",
       "header": {
         "title": null
-      }, 
-      "timeUnit": "month", 
+      },
+      "timeUnit": "month",
       "type": "temporal"
-    }, 
+    },
     "x": {
-      "axis": null, 
-      "field": "date", 
-      "timeUnit": "year", 
+      "axis": null,
+      "field": "date",
+      "timeUnit": "year",
       "type": "nominal"
-    }, 
+    },
     "y": {
-      "aggregate": "sum", 
+      "aggregate": "sum",
       "axis": {
         "title": "Distance (miles)"
-      }, 
-      "field": "distance", 
+      },
+      "field": "distance",
       "type": "quantitative"
     }
-  }, 
-  "height": 250, 
+  },
+  "height": 250,
   "mark": {
     "tooltip": {
       "content": "data"
-    }, 
+    },
     "type": "bar"
-  }, 
-  "spacing": 2, 
+  },
+  "spacing": 2,
   "width": 40
 }

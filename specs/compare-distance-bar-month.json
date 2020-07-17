@@ -1,75 +1,75 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v4.json", 
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {
     "format": {
       "parse": {
-        "date": "date:'%Y-%m-%d'"
+        "date": "utc:'%Y-%m-%dT%H:%M:%S'"
       }
-    }, 
-    "name": "data", 
+    },
+    "name": "data",
     "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
-  }, 
+  },
   "encoding": {
     "color": {
-      "field": "name", 
-      "legend": null, 
+      "field": "name",
+      "legend": null,
       "scale": {
         "range": [
-          "goldenrod", 
-          "firebrick", 
-          "cornflowerblue", 
-          "darkorchid", 
+          "goldenrod",
+          "firebrick",
+          "cornflowerblue",
+          "darkorchid",
           "forestgreen"
         ]
-      }, 
-      "sort": [], 
+      },
+      "sort": [],
       "type": "nominal"
-    }, 
+    },
     "row": {
-      "field": "name", 
+      "field": "name",
       "header": {
-        "labelOrient": "right", 
+        "labelOrient": "right",
         "title": null
-      }, 
-      "sort": [], 
+      },
+      "sort": [],
       "type": "nominal"
-    }, 
+    },
     "tooltip": [
       {
-        "field": "name", 
+        "field": "name",
         "title": "Name"
-      }, 
+      },
       {
-        "field": "date", 
-        "timeUnit": "yearmonth", 
+        "field": "date",
+        "timeUnit": "yearmonth",
         "title": "Month"
-      }, 
+      },
       {
-        "field": "sum_distance", 
-        "format": ".1f", 
+        "field": "sum_distance",
+        "format": ".1f",
         "title": "Distance"
       }
-    ], 
+    ],
     "x": {
       "axis": {
         "title": null
-      }, 
-      "field": "date", 
-      "timeUnit": "yearmonth", 
+      },
+      "field": "date",
+      "timeUnit": "yearmonth",
       "type": "temporal"
-    }, 
+    },
     "y": {
-      "aggregate": "sum", 
+      "aggregate": "sum",
       "axis": {
         "title": "Distance (miles)"
-      }, 
-      "field": "distance", 
+      },
+      "field": "distance",
       "type": "quantitative"
     }
-  }, 
-  "height": 150, 
+  },
+  "height": 150,
   "mark": {
     "type": "bar"
-  }, 
+  },
   "width": 500
 }

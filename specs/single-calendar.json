@@ -1,70 +1,70 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v4.json", 
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {
     "format": {
       "parse": {
-        "date": "date:'%Y-%m-%d'"
+        "date": "utc:'%Y-%m-%dT%H:%M:%S'"
       }
-    }, 
-    "name": "data", 
+    },
+    "name": "data",
     "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
-  }, 
+  },
   "encoding": {
     "color": {
-      "field": "type", 
+      "field": "type",
       "legend": {
         "title": "Type"
-      }, 
+      },
       "scale": {
         "range": [
-          "#4BBA3E", 
-          "#528ECD", 
+          "#4BBA3E",
+          "#528ECD",
           "#CD6752"
         ]
-      }, 
-      "sort": [], 
+      },
+      "sort": [],
       "type": "nominal"
-    }, 
+    },
     "row": {
-      "field": "date", 
+      "field": "date",
       "header": {
-        "labelOrient": "right", 
+        "labelOrient": "right",
         "title": null
-      }, 
-      "timeUnit": "year", 
+      },
+      "timeUnit": "year",
       "type": "temporal"
-    }, 
+    },
     "size": {
-      "field": "distance", 
+      "field": "distance",
       "legend": {
         "title": "Distance (miles)"
-      }, 
+      },
       "type": "quantitative"
-    }, 
+    },
     "x": {
       "axis": {
         "title": "Week"
-      }, 
-      "field": "date", 
-      "timeUnit": "week", 
+      },
+      "field": "date",
+      "timeUnit": "week",
       "type": "temporal"
-    }, 
+    },
     "y": {
       "axis": {
         "title": null
-      }, 
-      "field": "date", 
-      "timeUnit": "day", 
+      },
+      "field": "date",
+      "timeUnit": "day",
       "type": "ordinal"
     }
-  }, 
-  "height": 150, 
+  },
+  "height": 150,
   "mark": {
     "tooltip": {
       "content": "data"
-    }, 
+    },
     "type": "point"
-  }, 
-  "spacing": 5, 
+  },
+  "spacing": 5,
   "width": 450
 }

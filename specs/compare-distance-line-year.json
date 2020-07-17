@@ -1,88 +1,88 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v4.json", 
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {
     "format": {
       "parse": {
-        "date": "date:'%Y-%m-%d'"
+        "date": "utc:'%Y-%m-%dT%H:%M:%S'"
       }
-    }, 
-    "name": "data", 
+    },
+    "name": "data",
     "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
-  }, 
+  },
   "encoding": {
     "color": {
-      "field": "name", 
+      "field": "name",
       "legend": {
         "title": null
-      }, 
+      },
       "scale": {
         "range": [
-          "goldenrod", 
-          "firebrick", 
-          "cornflowerblue", 
-          "darkorchid", 
+          "goldenrod",
+          "firebrick",
+          "cornflowerblue",
+          "darkorchid",
           "forestgreen"
         ]
-      }, 
-      "sort": [], 
+      },
+      "sort": [],
       "type": "nominal"
-    }, 
+    },
     "detail": {
-      "field": "year", 
+      "field": "year",
       "type": "temporal"
-    }, 
+    },
     "x": {
       "axis": {
         "title": null
-      }, 
-      "field": "date", 
+      },
+      "field": "date",
       "type": "temporal"
-    }, 
+    },
     "y": {
       "axis": {
         "title": "Distance (miles)"
-      }, 
-      "field": "total_distance", 
+      },
+      "field": "total_distance",
       "type": "quantitative"
     }
-  }, 
-  "height": 250, 
+  },
+  "height": 250,
   "mark": {
     "tooltip": {
       "content": "data"
-    }, 
+    },
     "type": "line"
-  }, 
+  },
   "transform": [
     {
-      "as": "year", 
-      "field": "date", 
+      "as": "year",
+      "field": "date",
       "timeUnit": "year"
-    }, 
+    },
     {
       "frame": [
-        null, 
+        null,
         0
-      ], 
+      ],
       "groupby": [
-        "name", 
+        "name",
         "year"
-      ], 
-      "ignorePeers": false, 
+      ],
+      "ignorePeers": false,
       "sort": [
         {
-          "field": "date", 
+          "field": "date",
           "order": "ascending"
         }
-      ], 
+      ],
       "window": [
         {
-          "as": "total_distance", 
-          "field": "distance", 
+          "as": "total_distance",
+          "field": "distance",
           "op": "sum"
         }
       ]
     }
-  ], 
+  ],
   "width": 450
 }

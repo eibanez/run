@@ -1,100 +1,100 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v4.json", 
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {
     "format": {
       "parse": {
-        "date": "date:'%Y-%m-%d'"
+        "date": "utc:'%Y-%m-%dT%H:%M:%S'"
       }
-    }, 
-    "name": "data", 
+    },
+    "name": "data",
     "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
-  }, 
+  },
   "encoding": {
     "color": {
-      "field": "type", 
+      "field": "type",
       "legend": {
         "title": null
-      }, 
+      },
       "scale": {
         "range": [
-          "#4BBA3E", 
-          "#528ECD", 
+          "#4BBA3E",
+          "#528ECD",
           "#CD6752"
         ]
-      }, 
-      "sort": [], 
+      },
+      "sort": [],
       "type": "nominal"
-    }, 
+    },
     "tooltip": [
       {
-        "field": "title", 
+        "field": "title",
         "type": "nominal"
-      }, 
+      },
       {
-        "field": "name", 
-        "title": "Name", 
+        "field": "name",
+        "title": "Name",
         "type": "nominal"
-      }, 
+      },
       {
-        "field": "type", 
-        "title": "Type", 
+        "field": "type",
+        "title": "Type",
         "type": "nominal"
-      }, 
+      },
       {
-        "field": "date", 
-        "timeUnit": "yearmonthdate", 
-        "title": "Date", 
+        "field": "date",
+        "timeUnit": "yearmonthdate",
+        "title": "Date",
         "type": "temporal"
-      }, 
+      },
       {
-        "field": "distance", 
-        "format": ".1f", 
-        "title": "Distance", 
+        "field": "distance",
+        "format": ".1f",
+        "title": "Distance",
         "type": "quantitative"
-      }, 
+      },
       {
-        "field": "duration", 
-        "title": "Duration", 
+        "field": "duration",
+        "title": "Duration",
         "type": "quantitative"
-      }, 
+      },
       {
-        "field": "pace", 
-        "format": ".2f", 
-        "title": "Pace", 
+        "field": "pace",
+        "format": ".2f",
+        "title": "Pace",
         "type": "quantitative"
-      }, 
+      },
       {
-        "field": "source", 
-        "title": "Source", 
+        "field": "source",
+        "title": "Source",
         "type": "nominal"
       }
-    ], 
+    ],
     "x": {
       "axis": {
         "title": null
-      }, 
-      "field": "date", 
+      },
+      "field": "date",
       "type": "temporal"
-    }, 
+    },
     "y": {
       "axis": {
         "title": "Pace (min/mile)"
-      }, 
-      "field": "pace", 
+      },
+      "field": "pace",
       "scale": {
         "zero": false
-      }, 
+      },
       "type": "quantitative"
     }
-  }, 
-  "height": 250, 
-  "mark": "point", 
+  },
+  "height": 250,
+  "mark": "point",
   "selection": {
     "grid": {
-      "bind": "scales", 
+      "bind": "scales",
       "type": "interval"
     }
-  }, 
-  "spacing": 5, 
+  },
+  "spacing": 5,
   "width": 450
 }
