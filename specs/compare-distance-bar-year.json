@@ -72,12 +72,7 @@
     "height": 200,
     "layer": [
       {
-        "mark": {
-          "tooltip": {
-            "content": "data"
-          },
-          "type": "bar"
-        }
+        "mark": "bar"
       },
       {
         "encoding": {
@@ -94,6 +89,6 @@
         }
       }
     ],
-    "width": 180
+    "width": 150
   }
 }
