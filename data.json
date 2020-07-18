@@ -1628,6 +1628,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "id": "4508924350",
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2020-07-18T12:45:18",
+    "distance": 3.998649938583519,
+    "duration": "0:41:14",
+    "pace": 10.31181372879563,
+    "title": "4.00mi Run",
+    "source": "MapMyRun iPhone"
+  },
+  {
     "id": "4502648314",
     "name": "Jessica",
     "type": "Run",
@@ -11614,6 +11625,17 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "id": "4506513427",
+    "name": "Ann",
+    "type": "Run",
+    "date": "2020-07-17T13:28:36",
+    "distance": 3.0280175260914413,
+    "duration": "0:25:42",
+    "pace": 8.48740133719553,
+    "title": "There’s the heat.",
+    "source": "MapMyRun iPhone"
   },
   {
     "id": "4499681530",
