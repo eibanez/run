@@ -12,13 +12,13 @@ title: Tables
 | Apr |    | 41 | 6 |
 | May |    | 47 | 5 |
 | Jun |    | 46 | 16 |
-| Jul |    | 34 | 24 |
+| Jul |    | 34 | 32 |
 | Aug |    | 20 |    |
 | Sep | 6 | 24 |    |
 | Oct | 14 | 13 |    |
 | Nov | 21 | 53 |    |
 | Dec | 5 | 33 |    |
-| Total | 46 | 351 | 107 |
+| Total | 46 | 351 | 114 |
 
 # Jessica
 
