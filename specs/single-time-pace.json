@@ -10,6 +10,12 @@
     "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
   },
   "spacing": 5,
+  "transform": [
+    {
+      "as": "url",
+      "calculate": "'https://www.mapmyfitness.com/workout/'+datum.id"
+    }
+  ],
   "vconcat": [
     {
       "encoding": {
@@ -26,6 +32,10 @@
             ]
           },
           "sort": [],
+          "type": "nominal"
+        },
+        "href": {
+          "field": "url",
           "type": "nominal"
         },
         "tooltip": [
@@ -95,6 +105,9 @@
       "selection": {
         "grid": {
           "bind": "scales",
+          "encodings": [
+            "x"
+          ],
           "type": "interval"
         }
       },
@@ -115,6 +128,10 @@
             ]
           },
           "sort": [],
+          "type": "nominal"
+        },
+        "href": {
+          "field": "url",
           "type": "nominal"
         },
         "tooltip": [
@@ -184,6 +201,9 @@
       "selection": {
         "grid": {
           "bind": "scales",
+          "encodings": [
+            "x"
+          ],
           "type": "interval"
         }
       },

@@ -2,11 +2,9 @@
 title: Jessica
 ---
 
-## Pace over time
+## Pace and distance over time
+Click on each run to go to the MapMyRun website.
 <div id="single-time-pace"></div>
-
-## Distance per run
-<div id="single-time-distance"></div>
 
 ## Monthly distances over time
 <div id="single-distance-by-month"></div>
@@ -34,7 +32,6 @@ will show what workouts correspond to that selection.
 <script type="text/javascript">
   load_plot("single-calendar", "Jessica");
   load_plot("single-time-pace", "Jessica");
-  load_plot("single-time-distance", "Jessica");
   load_plot("single-distance-by-month", "Jessica");
   load_plot("single-distance-by-year-month", "Jessica");
   load_plot("single-cumulative-year", "Jessica");

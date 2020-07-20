@@ -25,6 +25,10 @@
       "sort": [],
       "type": "nominal"
     },
+    "href": {
+      "field": "url",
+      "type": "nominal"
+    },
     "row": {
       "field": "name",
       "header": {
@@ -102,5 +106,11 @@
     }
   },
   "spacing": 5,
+  "transform": [
+    {
+      "as": "url",
+      "calculate": "'https://www.mapmyfitness.com/workout/'+datum.id"
+    }
+  ],
   "width": 475
 }
