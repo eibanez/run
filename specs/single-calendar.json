@@ -41,6 +41,50 @@
       },
       "type": "quantitative"
     },
+    "tooltip": [
+      {
+        "field": "title",
+        "type": "nominal"
+      },
+      {
+        "field": "name",
+        "title": "Name",
+        "type": "nominal"
+      },
+      {
+        "field": "type",
+        "title": "Type",
+        "type": "nominal"
+      },
+      {
+        "field": "date",
+        "timeUnit": "yearmonthdate",
+        "title": "Date",
+        "type": "temporal"
+      },
+      {
+        "field": "distance",
+        "format": ".1f",
+        "title": "Distance",
+        "type": "quantitative"
+      },
+      {
+        "field": "duration",
+        "title": "Duration",
+        "type": "nominal"
+      },
+      {
+        "field": "pace",
+        "format": ".2f",
+        "title": "Pace",
+        "type": "quantitative"
+      },
+      {
+        "field": "source",
+        "title": "Source",
+        "type": "nominal"
+      }
+    ],
     "x": {
       "axis": {
         "title": "Week"
@@ -59,12 +103,7 @@
     }
   },
   "height": 150,
-  "mark": {
-    "tooltip": {
-      "content": "data"
-    },
-    "type": "point"
-  },
+  "mark": "point",
   "spacing": 5,
   "width": 475
 }

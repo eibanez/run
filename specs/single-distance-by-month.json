@@ -10,6 +10,22 @@
     "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
   },
   "encoding": {
+    "tooltip": [
+      {
+        "field": "name",
+        "title": "Name"
+      },
+      {
+        "field": "date",
+        "timeUnit": "yearmonth",
+        "title": "Month"
+      },
+      {
+        "field": "sum_distance",
+        "format": ".1f",
+        "title": "Distance"
+      }
+    ],
     "x": {
       "axis": {
         "title": null
@@ -28,11 +44,6 @@
     }
   },
   "height": 250,
-  "mark": {
-    "tooltip": {
-      "content": "data"
-    },
-    "type": "bar"
-  },
+  "mark": "bar",
   "width": 475
 }

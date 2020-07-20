@@ -31,6 +31,56 @@
       "field": "year",
       "type": "temporal"
     },
+    "tooltip": [
+      {
+        "field": "title",
+        "type": "nominal"
+      },
+      {
+        "field": "name",
+        "title": "Name",
+        "type": "nominal"
+      },
+      {
+        "field": "total_distance",
+        "format": ".1f",
+        "title": "Total distance",
+        "type": "quantitative"
+      },
+      {
+        "field": "date",
+        "timeUnit": "yearmonthdate",
+        "title": "Date",
+        "type": "temporal"
+      },
+      {
+        "field": "type",
+        "title": "Type",
+        "type": "nominal"
+      },
+      {
+        "field": "distance",
+        "format": ".1f",
+        "title": "Distance",
+        "type": "quantitative"
+      },
+      {
+        "field": "duration",
+        "title": "Duration",
+        "type": "nominal"
+      },
+      {
+        "field": "pace",
+        "format": ".2f",
+        "title": "Pace",
+        "type": "quantitative"
+      },
+      {
+        "field": "source",
+        "title": "Source",
+        "type": "nominal"
+      }
+    ],
     "x": {
       "axis": {
         "title": null
@@ -47,12 +97,7 @@
     }
   },
   "height": 250,
-  "mark": {
-    "tooltip": {
-      "content": "data"
-    },
-    "type": "line"
-  },
+  "mark": "line",
   "transform": [
     {
       "as": "year",

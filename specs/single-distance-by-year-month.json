@@ -26,6 +26,22 @@
       "timeUnit": "month",
       "type": "temporal"
     },
+    "tooltip": [
+      {
+        "field": "name",
+        "title": "Name"
+      },
+      {
+        "field": "date",
+        "timeUnit": "yearmonth",
+        "title": "Month"
+      },
+      {
+        "field": "sum_distance",
+        "format": ".1f",
+        "title": "Distance"
+      }
+    ],
     "x": {
       "axis": null,
       "field": "date",
@@ -42,12 +58,7 @@
     }
   },
   "height": 250,
-  "mark": {
-    "tooltip": {
-      "content": "data"
-    },
-    "type": "bar"
-  },
+  "mark": "bar",
   "spacing": 2,
   "width": 40
 }

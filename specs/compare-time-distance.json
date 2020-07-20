@@ -64,7 +64,7 @@
       {
         "field": "duration",
         "title": "Duration",
-        "type": "quantitative"
+        "type": "nominal"
       },
       {
         "field": "pace",
