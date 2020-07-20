@@ -9,92 +9,185 @@
     "name": "data",
     "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
   },
-  "encoding": {
-    "color": {
-      "field": "type",
-      "legend": {
-        "title": null
-      },
-      "scale": {
-        "range": [
-          "#4BBA3E",
-          "#528ECD",
-          "#CD6752"
-        ]
-      },
-      "sort": [],
-      "type": "nominal"
-    },
-    "tooltip": [
-      {
-        "field": "title",
-        "type": "nominal"
-      },
-      {
-        "field": "name",
-        "title": "Name",
-        "type": "nominal"
-      },
-      {
-        "field": "type",
-        "title": "Type",
-        "type": "nominal"
-      },
-      {
-        "field": "date",
-        "timeUnit": "yearmonthdate",
-        "title": "Date",
-        "type": "temporal"
-      },
-      {
-        "field": "distance",
-        "format": ".1f",
-        "title": "Distance",
-        "type": "quantitative"
-      },
-      {
-        "field": "duration",
-        "title": "Duration",
-        "type": "nominal"
-      },
-      {
-        "field": "pace",
-        "format": ".2f",
-        "title": "Pace",
-        "type": "quantitative"
-      },
-      {
-        "field": "source",
-        "title": "Source",
-        "type": "nominal"
-      }
-    ],
-    "x": {
-      "axis": {
-        "title": null
-      },
-      "field": "date",
-      "type": "temporal"
-    },
-    "y": {
-      "axis": {
-        "title": "Pace (min/mile)"
-      },
-      "field": "pace",
-      "scale": {
-        "zero": false
-      },
-      "type": "quantitative"
-    }
-  },
-  "height": 250,
-  "mark": "point",
-  "selection": {
-    "grid": {
-      "bind": "scales",
-      "type": "interval"
-    }
-  },
   "spacing": 5,
-  "width": 475
+  "vconcat": [
+    {
+      "encoding": {
+        "color": {
+          "field": "type",
+          "legend": {
+            "title": null
+          },
+          "scale": {
+            "range": [
+              "#4BBA3E",
+              "#528ECD",
+              "#CD6752"
+            ]
+          },
+          "sort": [],
+          "type": "nominal"
+        },
+        "tooltip": [
+          {
+            "field": "title",
+            "type": "nominal"
+          },
+          {
+            "field": "name",
+            "title": "Name",
+            "type": "nominal"
+          },
+          {
+            "field": "type",
+            "title": "Type",
+            "type": "nominal"
+          },
+          {
+            "field": "date",
+            "timeUnit": "yearmonthdate",
+            "title": "Date",
+            "type": "temporal"
+          },
+          {
+            "field": "distance",
+            "format": ".1f",
+            "title": "Distance",
+            "type": "quantitative"
+          },
+          {
+            "field": "duration",
+            "title": "Duration",
+            "type": "nominal"
+          },
+          {
+            "field": "pace",
+            "format": ".2f",
+            "title": "Pace",
+            "type": "quantitative"
+          },
+          {
+            "field": "source",
+            "title": "Source",
+            "type": "nominal"
+          }
+        ],
+        "x": {
+          "axis": {
+            "title": null
+          },
+          "field": "date",
+          "type": "temporal"
+        },
+        "y": {
+          "axis": {
+            "title": "Pace (min/mile)"
+          },
+          "field": "pace",
+          "scale": {
+            "zero": false
+          },
+          "type": "quantitative"
+        }
+      },
+      "height": 175,
+      "mark": "point",
+      "selection": {
+        "grid": {
+          "bind": "scales",
+          "type": "interval"
+        }
+      },
+      "width": 475
+    },
+    {
+      "encoding": {
+        "color": {
+          "field": "type",
+          "legend": {
+            "title": null
+          },
+          "scale": {
+            "range": [
+              "#4BBA3E",
+              "#528ECD",
+              "#CD6752"
+            ]
+          },
+          "sort": [],
+          "type": "nominal"
+        },
+        "tooltip": [
+          {
+            "field": "title",
+            "type": "nominal"
+          },
+          {
+            "field": "name",
+            "title": "Name",
+            "type": "nominal"
+          },
+          {
+            "field": "type",
+            "title": "Type",
+            "type": "nominal"
+          },
+          {
+            "field": "date",
+            "timeUnit": "yearmonthdate",
+            "title": "Date",
+            "type": "temporal"
+          },
+          {
+            "field": "distance",
+            "format": ".1f",
+            "title": "Distance",
+            "type": "quantitative"
+          },
+          {
+            "field": "duration",
+            "title": "Duration",
+            "type": "nominal"
+          },
+          {
+            "field": "pace",
+            "format": ".2f",
+            "title": "Pace",
+            "type": "quantitative"
+          },
+          {
+            "field": "source",
+            "title": "Source",
+            "type": "nominal"
+          }
+        ],
+        "x": {
+          "axis": {
+            "title": null
+          },
+          "field": "date",
+          "type": "temporal"
+        },
+        "y": {
+          "axis": {
+            "title": "Distance (mile)"
+          },
+          "field": "distance",
+          "scale": {
+            "zero": false
+          },
+          "type": "quantitative"
+        }
+      },
+      "height": 175,
+      "mark": "point",
+      "selection": {
+        "grid": {
+          "bind": "scales",
+          "type": "interval"
+        }
+      },
+      "width": 475
+    }
+  ]
 }

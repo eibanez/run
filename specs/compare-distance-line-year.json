@@ -98,6 +98,15 @@
   },
   "height": 250,
   "mark": "line",
+  "selection": {
+    "grid": {
+      "bind": "scales",
+      "encodings": [
+        "x"
+      ],
+      "type": "interval"
+    }
+  },
   "transform": [
     {
       "as": "year",
