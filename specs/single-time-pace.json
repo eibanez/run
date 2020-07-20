@@ -77,6 +77,11 @@
             "type": "quantitative"
           },
           {
+            "field": "url",
+            "title": "URL",
+            "type": "nominal"
+          },
+          {
             "field": "source",
             "title": "Source",
             "type": "nominal"
@@ -171,6 +176,11 @@
             "format": ".2f",
             "title": "Pace",
             "type": "quantitative"
+          },
+          {
+            "field": "url",
+            "title": "URL",
+            "type": "nominal"
           },
           {
             "field": "source",
