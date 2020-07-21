@@ -90,5 +90,15 @@
       }
     ],
     "width": 150
-  }
+  },
+  "transform": [
+    {
+      "as": "year",
+      "field": "date",
+      "timeUnit": "year"
+    },
+    {
+      "filter": "year>=2018"
+    }
+  ]
 }

@@ -118,6 +118,14 @@
           "op": "sum"
         }
       ]
+    },
+    {
+      "as": "year",
+      "field": "date",
+      "timeUnit": "year"
+    },
+    {
+      "filter": "year>=2018"
     }
   ],
   "width": 475
