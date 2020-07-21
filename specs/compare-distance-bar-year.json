@@ -93,12 +93,7 @@
   },
   "transform": [
     {
-      "as": "year",
-      "field": "date",
-      "timeUnit": "year"
-    },
-    {
-      "filter": "year>=2018"
+      "filter": "year(datum.date)>=2018"
     }
   ]
 }
