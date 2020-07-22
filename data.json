@@ -1,5 +1,16 @@
 [
   {
+    "id": "4520078005",
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2020-07-22T01:59:48",
+    "distance": 5.6969441596679395,
+    "duration": "0:54:41",
+    "pace": 9.598713240068108,
+    "title": "Culver’s night 🍔🍟",
+    "source": "MapMyRun iPhone"
+  },
+  {
     "id": "4513478980",
     "name": "Eduardo",
     "type": "Run",
@@ -7742,6 +7753,17 @@
     "pace": 13.942081526805392,
     "title": "Ran 2.91 mi on 3/15/18",
     "source": "MapMyRun iPhone"
+  },
+  {
+    "id": "4517321815",
+    "name": "Brian",
+    "type": "Run",
+    "date": "2020-07-21T10:43:16",
+    "distance": 3.0040674665639333,
+    "duration": "0:25:30",
+    "pace": 8.488491115403285,
+    "title": "Ran 3.0 mi on 07/21/20",
+    "source": "GARMIN 3077"
   },
   {
     "id": "4514144350",
