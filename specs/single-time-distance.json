@@ -68,11 +68,6 @@
         "type": "quantitative"
       },
       {
-        "field": "url",
-        "title": "URL",
-        "type": "nominal"
-      },
-      {
         "field": "source",
         "title": "Source",
         "type": "nominal"
