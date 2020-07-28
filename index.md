@@ -2,6 +2,8 @@
 title: Comparisons
 ---
 
+Brian needs to run 697 more miles to match Jessica's total.
+
 ## Total distance by year
 <div id="compare-distance-bar-year"></div>
 
