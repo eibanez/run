@@ -191,7 +191,7 @@
           },
           "field": "distance",
           "scale": {
-            "zero": false
+            "zero": true
           },
           "type": "quantitative"
         }
