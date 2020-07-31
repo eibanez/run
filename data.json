@@ -11858,6 +11858,17 @@
     "source": "MapMyRun Android"
   },
   {
+    "id": "4547533876",
+    "name": "Ann",
+    "type": "Run",
+    "date": "2020-07-31T14:02:01",
+    "distance": 3.0246775177899017,
+    "duration": "0:25:03",
+    "pace": 8.281874630490776,
+    "title": "3.02mi Run",
+    "source": "MapMyRun iPhone"
+  },
+  {
     "id": "4544325223",
     "name": "Ann",
     "type": "Run",
