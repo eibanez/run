@@ -105,7 +105,6 @@
       "type": "interval"
     }
   },
-  "spacing": 5,
   "transform": [
     {
       "as": "url",

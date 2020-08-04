@@ -9,7 +9,6 @@
     "name": "data",
     "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
   },
-  "spacing": 5,
   "transform": [
     {
       "as": "url",

@@ -6,8 +6,7 @@ var opts = {
       "guide-title": {"fontSize": 13.5, "fontStyle": "normal"}
     },
     "header": {"labelFontSize": 14.5},
-    "legend": {"orient": "top"},
-    "facet": {"spacing": 5}
+    "legend": {"orient": "top"}
   }
 };
 
