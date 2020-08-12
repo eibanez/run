@@ -1705,6 +1705,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "id": "4582300633",
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2020-08-12T13:03:46",
+    "distance": 4.023940001441585,
+    "duration": "0:39:21",
+    "pace": 9.778972844004329,
+    "title": "4.02mi Run",
+    "source": "MapMyRun iPhone"
+  },
+  {
     "id": "4579073005",
     "name": "Jessica",
     "type": "Run",
@@ -7973,6 +7984,17 @@
     "pace": 13.942081526805392,
     "title": "Ran 2.91 mi on 3/15/18",
     "source": "MapMyRun iPhone"
+  },
+  {
+    "id": "4582002520",
+    "name": "Brian",
+    "type": "Run",
+    "date": "2020-08-12T11:40:27",
+    "distance": 4.006999959337368,
+    "duration": "0:37:36",
+    "pace": 9.383578832433495,
+    "title": "Ran 4.01 mi on 08/12/20",
+    "source": "GARMIN 3077"
   },
   {
     "id": "4578600190",
