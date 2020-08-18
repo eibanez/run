@@ -8019,6 +8019,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "id": "4598604259",
+    "name": "Brian",
+    "type": "Run",
+    "date": "2020-08-18T11:25:31",
+    "distance": 3.0070974740949707,
+    "duration": "0:26:32",
+    "pace": 8.823569425969115,
+    "title": "Ran 3.01 mi on 08/18/20",
+    "source": "GARMIN 3077"
+  },
+  {
     "id": "4595648935",
     "name": "Brian",
     "type": "Run",
