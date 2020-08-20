@@ -97,7 +97,10 @@
     }
   },
   "height": 250,
-  "mark": "line",
+  "mark": {
+    "type": "line",
+    "interpolate": "step"
+  },
   "selection": {
     "grid": {
       "bind": "scales",
