@@ -98,9 +98,9 @@
   },
   "height": 250,
   "mark": {
-    "type": "line",
     "interpolate": "step",
-    "point": "transparent"
+    "point": "transparent",
+    "type": "line"
   },
   "selection": {
     "grid": {
