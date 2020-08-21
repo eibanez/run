@@ -1,5 +1,16 @@
 [
   {
+    "id": "4606951333",
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2020-08-21T00:59:38",
+    "distance": 4.045980056221805,
+    "duration": "0:38:37",
+    "pace": 9.544453044765493,
+    "title": "This was really hard",
+    "source": "MapMyRun iPhone"
+  },
+  {
     "id": "4563798961",
     "name": "Eduardo",
     "type": "Run",
