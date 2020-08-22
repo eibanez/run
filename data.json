@@ -12276,6 +12276,17 @@
     "source": "MapMyRun Android"
   },
   {
+    "id": "4611223501",
+    "name": "Ann",
+    "type": "Run",
+    "date": "2020-08-22T17:33:39",
+    "distance": 3.0175975001926263,
+    "duration": "0:25:39",
+    "pace": 8.500139597266584,
+    "title": "Note to self… Do recovery runs when it’s not 1,000,000° out.",
+    "source": "MapMyRun iPhone"
+  },
+  {
     "id": "4608327694",
     "name": "Ann",
     "type": "Run",
