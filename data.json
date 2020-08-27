@@ -1716,6 +1716,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "id": "4624232476",
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2020-08-27T11:34:38",
+    "distance": 4.006319957647235,
+    "duration": "0:37:54",
+    "pace": 9.460053216083441,
+    "title": "Desperately need new shoes.",
+    "source": "MapMyRun iPhone"
+  },
+  {
     "id": "4621305628",
     "name": "Jessica",
     "type": "Run",
@@ -8127,6 +8138,17 @@
     "pace": 13.942081526805392,
     "title": "Ran 2.91 mi on 3/15/18",
     "source": "MapMyRun iPhone"
+  },
+  {
+    "id": "4624149916",
+    "name": "Brian",
+    "type": "Run",
+    "date": "2020-08-27T11:01:51",
+    "distance": 5.248793045795171,
+    "duration": "0:46:17",
+    "pace": 8.817900216205151,
+    "title": "Ran 5.25 mi on 08/27/20",
+    "source": "Garmin Connect"
   },
   {
     "id": "4618216186",
