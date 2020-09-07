@@ -1,5 +1,16 @@
 [
   {
+    "id": "4655659930",
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2020-09-07T21:28:39",
+    "distance": 3.111127732660594,
+    "duration": "0:28:56",
+    "pace": 9.299950313705038,
+    "title": "The old 5K... from the olden times",
+    "source": "MapMyRun iPhone"
+  },
+  {
     "id": "4606951333",
     "name": "Eduardo",
     "type": "Run",
