@@ -1,5 +1,16 @@
 [
   {
+    "id": "4706093977",
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2020-09-26T13:46:57",
+    "distance": 4.004779953819578,
+    "duration": "0:40:57",
+    "pace": 10.225280907367644,
+    "title": "4.00mi Run",
+    "source": "MapMyRun iPhone"
+  },
+  {
     "id": "4703391631",
     "name": "Eduardo",
     "type": "Run",
@@ -1735,6 +1746,28 @@
     "duration": "0:10:19",
     "pace": 8.634111681395297,
     "title": "Ran 1.19 mi on 09/09/18",
+    "source": "MapMyRun iPhone"
+  },
+  {
+    "id": "4706094265",
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2020-09-26T13:46:56",
+    "distance": 4.00074994380305,
+    "duration": "0:40:30",
+    "pace": 10.123102060585506,
+    "title": "Adults (and Eduardo) run",
+    "source": "MapMyRun iPhone"
+  },
+  {
+    "id": "4705897051",
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2020-09-26T13:12:10",
+    "distance": 1.1508028603029816,
+    "duration": "0:14:52",
+    "pace": 12.91851730604197,
+    "title": "Clinton’s first mile",
     "source": "MapMyRun iPhone"
   },
   {
@@ -8382,6 +8415,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "id": "4705885552",
+    "name": "Brian",
+    "type": "Run",
+    "date": "2020-09-26T11:50:30",
+    "distance": 10.139525201635454,
+    "duration": "1:33:12",
+    "pace": 9.191751896328174,
+    "title": "Ran 10.14 mi on 09/26/20",
+    "source": "Garmin Connect"
+  },
+  {
     "id": "4700747281",
     "name": "Brian",
     "type": "Run",
@@ -12879,6 +12923,17 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "id": "4706189710",
+    "name": "Ann",
+    "type": "Run",
+    "date": "2020-09-26T13:46:58",
+    "distance": 4.028550012899698,
+    "duration": "0:40:02",
+    "pace": 9.93740507258041,
+    "title": "4.03mi Run",
+    "source": "MapMyRun iPhone"
   },
   {
     "id": "4705322752",
