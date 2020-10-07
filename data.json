@@ -1,5 +1,16 @@
 [
   {
+    "id": "4739650435",
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2020-10-07T12:28:30",
+    "distance": 4.003079949594244,
+    "duration": "0:35:23",
+    "pace": 8.839027393624708,
+    "title": "Mapmyrun vs Fitbit",
+    "source": "MapMyRun iPhone"
+  },
+  {
     "id": "4729783885",
     "name": "Eduardo",
     "type": "Run",
