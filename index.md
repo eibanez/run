@@ -2,7 +2,7 @@
 title: Comparisons
 ---
 
-Brian needs to run 683 more miles to match Jessica's total. Ann needs to run 1269 more miles. Eduardo is 1971 miles behind. 
+Brian needs to run 673 more miles to match Jessica's total. Ann needs to run 1269 more miles. Eduardo is 1971 miles behind. 
 
 ## Total distance by year
 <div id="compare-distance-bar-year"></div>
