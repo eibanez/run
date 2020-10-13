@@ -1771,6 +1771,28 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "id": "4755697123",
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2020-10-12T23:16:46",
+    "distance": 0.617017533587682,
+    "duration": "0:05:51",
+    "pace": 9.481091997475108,
+    "title": "0.62mi Run",
+    "source": "MapMyRun iPhone"
+  },
+  {
+    "id": "4755672370",
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2020-10-12T22:26:12",
+    "distance": 3.729439269464501,
+    "duration": "0:34:51",
+    "pace": 9.34456830691441,
+    "title": "3.73mi Run",
+    "source": "MapMyRun iPhone"
+  },
+  {
     "id": "4751646166",
     "name": "Jessica",
     "type": "Run",
