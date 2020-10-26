@@ -3,7 +3,7 @@
   "data": {
     "format": {
       "parse": {
-        "date": "utc:'%Y-%m-%dT%H:%M:%S'"
+        "date": "utc:'%Y-%m-%d %H:%M:%S'"
       }
     },
     "name": "data",
@@ -30,6 +30,11 @@
     "tooltip": [
       {
         "field": "title",
+        "type": "nominal"
+      },
+      {
+        "field": "notes",
+        "title": "Notes",
         "type": "nominal"
       },
       {
@@ -70,11 +75,6 @@
         "format": ".2f",
         "title": "Pace",
         "type": "quantitative"
-      },
-      {
-        "field": "source",
-        "title": "Source",
-        "type": "nominal"
       }
     ],
     "x": {
