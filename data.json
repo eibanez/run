@@ -18,8 +18,7 @@
     "distance": 4.063767597232164,
     "duration": "0:35:24",
     "pace": 8.711399805131537,
-    "title": "Morning Run",
-    "notes": ""
+    "title": "Morning Run"
   },
   {
     "id": 4187736040,
@@ -40,8 +39,7 @@
     "distance": 4.0031217688698,
     "duration": "0:40:18",
     "pace": 10.068468468468467,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4187742075,
@@ -51,8 +49,7 @@
     "distance": 3.5226775630318934,
     "duration": "0:31:59",
     "pace": 9.080027081922816,
-    "title": "3.54mi Run",
-    "notes": null
+    "title": "3.54mi Run"
   },
   {
     "id": 4187745334,
@@ -1107,8 +1104,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:25:21",
     "pace": 8.450661625708884,
-    "title": "00:25:21 Treadmill, Run",
-    "notes": ""
+    "title": "00:25:21 Treadmill, Run"
   },
   {
     "id": 4189680238,
@@ -1316,8 +1312,7 @@
     "distance": 3.1300331066571223,
     "duration": "0:25:45",
     "pace": 8.227730061349694,
-    "title": "3.13mi Run Race/Event",
-    "notes": ""
+    "title": "3.13mi Run Race/Event"
   },
   {
     "id": 4189757037,
@@ -1448,8 +1443,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:28:45",
     "pace": 9.582851018220794,
-    "title": "Going for broke",
-    "notes": ""
+    "title": "Going for broke"
   },
   {
     "id": 4189796186,
@@ -1470,8 +1464,7 @@
     "distance": 2.000007456454307,
     "duration": "0:18:33",
     "pace": 9.274688796680497,
-    "title": "Boo",
-    "notes": ""
+    "title": "Boo"
   },
   {
     "id": 4190407392,
@@ -1481,8 +1474,7 @@
     "distance": 2.5000248548476893,
     "duration": "0:23:13",
     "pace": 9.28753462603878,
-    "title": "2.5",
-    "notes": ""
+    "title": "2.5"
   },
   {
     "id": 4190410013,
@@ -1492,8 +1484,7 @@
     "distance": 2.000007456454307,
     "duration": "0:19:53",
     "pace": 9.941586360266864,
-    "title": "I hate Mondays",
-    "notes": ""
+    "title": "I hate Mondays"
   },
   {
     "id": 4190412518,
@@ -1503,8 +1494,7 @@
     "distance": 2.5000248548476893,
     "duration": "0:23:56",
     "pace": 9.572591006423982,
-    "title": "Longer is not always better",
-    "notes": ""
+    "title": "Longer is not always better"
   },
   {
     "id": 4190415147,
@@ -1514,8 +1504,7 @@
     "distance": 2.000007456454307,
     "duration": "0:19:01",
     "pace": 9.50811768876285,
-    "title": "Jethro\u2019s = \u2693\ufe0f",
-    "notes": ""
+    "title": "Jethro\u2019s = \u2693\ufe0f"
   },
   {
     "id": 4190417770,
@@ -1525,8 +1514,7 @@
     "distance": 2.000007456454307,
     "duration": "0:19:51",
     "pace": 9.923196448390676,
-    "title": "Needed to work out the \ud83e\udd69\ud83c\udf2e",
-    "notes": ""
+    "title": "Needed to work out the \ud83e\udd69\ud83c\udf2e"
   },
   {
     "id": 4190420408,
@@ -1536,8 +1524,7 @@
     "distance": 2.000007456454307,
     "duration": "0:19:30",
     "pace": 9.750054525627045,
-    "title": "Froze my \ud83c\udf30\ud83c\udf30",
-    "notes": ""
+    "title": "Froze my \ud83c\udf30\ud83c\udf30"
   },
   {
     "id": 4190422908,
@@ -1547,8 +1534,7 @@
     "distance": 2.000007456454307,
     "duration": "0:19:37",
     "pace": 9.80709323583181,
-    "title": "Another before it freezes",
-    "notes": ""
+    "title": "Another before it freezes"
   },
   {
     "id": 4190425578,
@@ -1558,8 +1544,7 @@
     "distance": 2.000007456454307,
     "duration": "0:19:31",
     "pace": 9.757148053837758,
-    "title": "Another one",
-    "notes": ""
+    "title": "Another one"
   },
   {
     "id": 4190428239,
@@ -1569,8 +1554,7 @@
     "distance": 2.000007456454307,
     "duration": "0:19:37",
     "pace": 9.80709323583181,
-    "title": "Back into it \ud83d\ude29",
-    "notes": ""
+    "title": "Back into it \ud83d\ude29"
   },
   {
     "id": 4190430892,
@@ -1580,8 +1564,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:28:23",
     "pace": 9.461164021164022,
-    "title": "00:28:23 Treadmill, Run",
-    "notes": ""
+    "title": "00:28:23 Treadmill, Run"
   },
   {
     "id": 4190433559,
@@ -1646,8 +1629,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:28:17",
     "pace": 9.427908611599296,
-    "title": "A quick one",
-    "notes": ""
+    "title": "A quick one"
   },
   {
     "id": 4190459612,
@@ -1657,8 +1639,7 @@
     "distance": 3.189995426708025,
     "duration": "0:32:04",
     "pace": 10.053373313343327,
-    "title": "Broke my headphones \ud83d\udca9",
-    "notes": ""
+    "title": "Broke my headphones \ud83d\udca9"
   },
   {
     "id": 4190462522,
@@ -1756,8 +1737,7 @@
     "distance": 1.2677836435218324,
     "duration": "0:13:35",
     "pace": 10.716100679184978,
-    "title": "Ran 1.27 mi on 09/09/18",
-    "notes": null
+    "title": "Ran 1.27 mi on 09/09/18"
   },
   {
     "id": 4190506920,
@@ -1767,8 +1747,7 @@
     "distance": 1.4003221188260557,
     "duration": "0:14:31",
     "pace": 10.36814843448009,
-    "title": "Ran 1.4 mi on 09/09/18",
-    "notes": null
+    "title": "Ran 1.4 mi on 09/09/18"
   },
   {
     "id": 4190506868,
@@ -1778,8 +1757,27 @@
     "distance": 1.1959531336991966,
     "duration": "0:10:18",
     "pace": 8.613487475915223,
-    "title": "Ran 1.19 mi on 09/09/18",
-    "notes": null
+    "title": "Ran 1.19 mi on 09/09/18"
+  },
+  {
+    "id": 4251949157,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2020-10-27 21:26:27",
+    "distance": 4.201152767835839,
+    "duration": "0:37:21",
+    "pace": 8.890420947961552,
+    "title": "Afternoon Run"
+  },
+  {
+    "id": 4247554713,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2020-10-26 20:37:08",
+    "distance": 4.495185616002545,
+    "duration": "0:42:32",
+    "pace": 9.461164021164022,
+    "title": "Afternoon Run"
   },
   {
     "id": 4242509001,
@@ -1789,8 +1787,7 @@
     "distance": 3.999393541716376,
     "duration": "0:40:12",
     "pace": 10.053373313343327,
-    "title": "Terrible Morning Run",
-    "notes": ""
+    "title": "Terrible Morning Run"
   },
   {
     "id": 4237510236,
@@ -1800,8 +1797,7 @@
     "distance": 4.015176369999205,
     "duration": "0:40:55",
     "pace": 10.190881458966563,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4232892640,
@@ -1811,8 +1807,7 @@
     "distance": 4.199599339855245,
     "duration": "0:39:18",
     "pace": 9.358827634333565,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4226127291,
@@ -1822,8 +1817,7 @@
     "distance": 5.274882188021952,
     "duration": "0:47:29",
     "pace": 9.000805369127518,
-    "title": "Afternoon Run",
-    "notes": null
+    "title": "Afternoon Run"
   },
   {
     "id": 4222083709,
@@ -1833,8 +1827,7 @@
     "distance": 4.01244233675336,
     "duration": "0:38:00",
     "pace": 9.471186440677966,
-    "title": "Afternoon Run",
-    "notes": null
+    "title": "Afternoon Run"
   },
   {
     "id": 4217738285,
@@ -1844,8 +1837,7 @@
     "distance": 4.127209595959596,
     "duration": "0:37:42",
     "pace": 9.135694822888283,
-    "title": "Finished Bunga Bunga ",
-    "notes": ""
+    "title": "Finished Bunga Bunga "
   },
   {
     "id": 4213061716,
@@ -1855,8 +1847,7 @@
     "distance": 4.75224687823113,
     "duration": "0:43:23",
     "pace": 9.129475833900612,
-    "title": "Lunch Run",
-    "notes": null
+    "title": "Lunch Run"
   },
   {
     "id": 4207380396,
@@ -1866,8 +1857,7 @@
     "distance": 4.265216137755508,
     "duration": "0:41:53",
     "pace": 9.821457341633101,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4200122899,
@@ -1877,8 +1867,7 @@
     "distance": 10.006126719955459,
     "duration": "1:30:47",
     "pace": 9.073883626522328,
-    "title": "Afternoon Run",
-    "notes": ""
+    "title": "Afternoon Run"
   },
   {
     "id": 4193550540,
@@ -1899,8 +1888,7 @@
     "distance": 0.6572864471486518,
     "duration": "0:05:54",
     "pace": 8.976706827309236,
-    "title": "Evening Run",
-    "notes": null
+    "title": "Evening Run"
   },
   {
     "id": 4187438104,
@@ -1910,8 +1898,7 @@
     "distance": 3.839576871072934,
     "duration": "0:34:54",
     "pace": 9.089257878685192,
-    "title": "Afternoon Run",
-    "notes": null
+    "title": "Afternoon Run"
   },
   {
     "id": 4187727490,
@@ -1921,8 +1908,7 @@
     "distance": 6.299647558259762,
     "duration": "1:01:17",
     "pace": 9.728835690968443,
-    "title": "6.30mi Run",
-    "notes": null
+    "title": "6.30mi Run"
   },
   {
     "id": 4183410604,
@@ -1932,8 +1918,7 @@
     "distance": 4.2329669728783905,
     "duration": "0:38:36",
     "pace": 9.120163209792588,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4183410557,
@@ -1943,8 +1928,7 @@
     "distance": 2.098805476020043,
     "duration": "0:19:26",
     "pace": 9.258681394546082,
-    "title": "Evening Run",
-    "notes": null
+    "title": "Evening Run"
   },
   {
     "id": 4183410634,
@@ -1954,8 +1938,7 @@
     "distance": 5.268482064741907,
     "duration": "0:47:35",
     "pace": 9.03111111111111,
-    "title": "Evening Run",
-    "notes": null
+    "title": "Evening Run"
   },
   {
     "id": 4200769969,
@@ -1965,8 +1948,7 @@
     "distance": 4.523520142368567,
     "duration": "0:42:13",
     "pace": 9.332776617954071,
-    "title": "4.53mi Run",
-    "notes": null
+    "title": "4.53mi Run"
   },
   {
     "id": 4200767739,
@@ -1976,8 +1958,7 @@
     "distance": 6.251801976457488,
     "duration": "0:57:39",
     "pace": 9.220488140254384,
-    "title": "6.25mi Run",
-    "notes": null
+    "title": "6.25mi Run"
   },
   {
     "id": 4200765481,
@@ -2009,8 +1990,7 @@
     "distance": 4.365070488348047,
     "duration": "0:39:50",
     "pace": 9.126369513439945,
-    "title": "4.37mi Run",
-    "notes": null
+    "title": "4.37mi Run"
   },
   {
     "id": 4200758592,
@@ -2020,8 +2000,7 @@
     "distance": 5.5253569156128215,
     "duration": "0:50:33",
     "pace": 9.148158253751706,
-    "title": "5.53mi Run",
-    "notes": null
+    "title": "5.53mi Run"
   },
   {
     "id": 4200756368,
@@ -2031,8 +2010,7 @@
     "distance": 6.0038748707547915,
     "duration": "0:54:45",
     "pace": 9.120163209792588,
-    "title": "6.01mi Run",
-    "notes": null
+    "title": "6.01mi Run"
   },
   {
     "id": 4200753946,
@@ -2075,8 +2053,7 @@
     "distance": 4.005545116519526,
     "duration": "0:38:25",
     "pace": 9.589703253485878,
-    "title": "4.01mi Run",
-    "notes": null
+    "title": "4.01mi Run"
   },
   {
     "id": 4200744488,
@@ -2086,8 +2063,7 @@
     "distance": 3.2613288395768714,
     "duration": "0:31:29",
     "pace": 9.65181720043181,
-    "title": "3.26mi Run",
-    "notes": null
+    "title": "3.26mi Run"
   },
   {
     "id": 4200742171,
@@ -2097,8 +2073,7 @@
     "distance": 5.006760518571542,
     "duration": "0:47:52",
     "pace": 9.558945117605132,
-    "title": "5.01mi Run",
-    "notes": null
+    "title": "5.01mi Run"
   },
   {
     "id": 4200739821,
@@ -2108,8 +2083,7 @@
     "distance": 5.999028175455341,
     "duration": "0:56:08",
     "pace": 9.355563306592257,
-    "title": "6.00mi Run",
-    "notes": null
+    "title": "6.00mi Run"
   },
   {
     "id": 4200737231,
@@ -2119,8 +2093,7 @@
     "distance": 3.102879185556351,
     "duration": "0:31:04",
     "pace": 10.012094064949608,
-    "title": "3.10mi Run",
-    "notes": null
+    "title": "3.10mi Run"
   },
   {
     "id": 4200734730,
@@ -2130,8 +2103,7 @@
     "distance": 8.13853346456693,
     "duration": "1:16:58",
     "pace": 9.457827926657265,
-    "title": "Afternoon Run",
-    "notes": null
+    "title": "Afternoon Run"
   },
   {
     "id": 4200732200,
@@ -2141,8 +2113,7 @@
     "distance": 3.5026694106418517,
     "duration": "0:32:57",
     "pace": 9.408067344791302,
-    "title": "3.50mi Run",
-    "notes": null
+    "title": "3.50mi Run"
   },
   {
     "id": 4200729702,
@@ -2152,8 +2123,7 @@
     "distance": 6.00132724886662,
     "duration": "0:58:06",
     "pace": 9.679682425117287,
-    "title": "6.00mi Run",
-    "notes": null
+    "title": "6.00mi Run"
   },
   {
     "id": 4200727113,
@@ -2163,8 +2133,7 @@
     "distance": 4.001009106816193,
     "duration": "0:36:50",
     "pace": 9.204667124227864,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4200724463,
@@ -2185,8 +2154,7 @@
     "distance": 4.509663564781675,
     "duration": "0:41:07",
     "pace": 9.117063222297755,
-    "title": "4.51mi Run",
-    "notes": null
+    "title": "4.51mi Run"
   },
   {
     "id": 4200719187,
@@ -2196,8 +2164,7 @@
     "distance": 4.015735604072218,
     "duration": "0:37:15",
     "pace": 9.274688796680497,
-    "title": "4.02mi Run",
-    "notes": null
+    "title": "4.02mi Run"
   },
   {
     "id": 4200716368,
@@ -2207,8 +2174,7 @@
     "distance": 5.1538390797741185,
     "duration": "0:47:15",
     "pace": 9.166917293233082,
-    "title": "5.16mi Run",
-    "notes": null
+    "title": "5.16mi Run"
   },
   {
     "id": 4200713697,
@@ -2218,8 +2184,7 @@
     "distance": 8.00189393939394,
     "duration": "1:17:21",
     "pace": 9.66572972972973,
-    "title": "8.00mi Run",
-    "notes": null
+    "title": "8.00mi Run"
   },
   {
     "id": 4200710706,
@@ -2229,8 +2194,7 @@
     "distance": 3.997156605424322,
     "duration": "0:39:57",
     "pace": 9.993442622950818,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4200707973,
@@ -2240,8 +2204,7 @@
     "distance": 3.2535616996739045,
     "duration": "0:33:24",
     "pace": 10.264982778415613,
-    "title": "3.26mi Run",
-    "notes": null
+    "title": "3.26mi Run"
   },
   {
     "id": 4200707953,
@@ -2251,8 +2214,7 @@
     "distance": 4.002189712081444,
     "duration": "0:37:35",
     "pace": 9.391596638655463,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4200705301,
@@ -2273,8 +2235,7 @@
     "distance": 3.7128792849757417,
     "duration": "0:35:46",
     "pace": 9.63448275862069,
-    "title": "3.71mi Run",
-    "notes": null
+    "title": "3.71mi Run"
   },
   {
     "id": 4200699308,
@@ -2295,8 +2256,7 @@
     "distance": 3.337136125029826,
     "duration": "0:32:33",
     "pace": 9.7536,
-    "title": "3.34mi Run",
-    "notes": null
+    "title": "3.34mi Run"
   },
   {
     "id": 4200693582,
@@ -2306,8 +2266,7 @@
     "distance": 3.4976984411039527,
     "duration": "0:33:15",
     "pace": 9.504748405386252,
-    "title": "3.50mi Run",
-    "notes": null
+    "title": "3.50mi Run"
   },
   {
     "id": 4200690484,
@@ -2317,8 +2276,7 @@
     "distance": 0.7133341286884594,
     "duration": "0:07:11",
     "pace": 10.068468468468467,
-    "title": "0.72mi Run",
-    "notes": null
+    "title": "0.72mi Run"
   },
   {
     "id": 4200687562,
@@ -2328,8 +2286,7 @@
     "distance": 4.103411079296906,
     "duration": "0:38:49",
     "pace": 9.461164021164022,
-    "title": "4.11mi Run",
-    "notes": null
+    "title": "4.11mi Run"
   },
   {
     "id": 4200684555,
@@ -2339,8 +2296,7 @@
     "distance": 6.0133197128767994,
     "duration": "0:57:17",
     "pace": 9.525,
-    "title": "6.01mi Run",
-    "notes": null
+    "title": "6.01mi Run"
   },
   {
     "id": 4200681420,
@@ -2350,8 +2306,7 @@
     "distance": 3.012842499801161,
     "duration": "0:33:05",
     "pace": 10.979287760949651,
-    "title": "3.01mi Run",
-    "notes": null
+    "title": "3.01mi Run"
   },
   {
     "id": 4200678351,
@@ -2361,8 +2316,7 @@
     "distance": 5.103073053368329,
     "duration": "0:48:28",
     "pace": 9.49801699716714,
-    "title": "5.10mi Run",
-    "notes": null
+    "title": "5.10mi Run"
   },
   {
     "id": 4200675322,
@@ -2372,8 +2326,7 @@
     "distance": 4.521158931838066,
     "duration": "0:42:24",
     "pace": 9.378461538461538,
-    "title": "4.52mi Run",
-    "notes": null
+    "title": "4.52mi Run"
   },
   {
     "id": 4200672089,
@@ -2383,8 +2336,7 @@
     "distance": 4.02573968026724,
     "duration": "0:41:06",
     "pace": 10.210277883517321,
-    "title": "4.03mi Run",
-    "notes": null
+    "title": "4.03mi Run"
   },
   {
     "id": 4200669021,
@@ -2394,8 +2346,7 @@
     "distance": 3.9862204724409445,
     "duration": "0:40:05",
     "pace": 10.057142857142857,
-    "title": "3.99mi Run",
-    "notes": null
+    "title": "3.99mi Run"
   },
   {
     "id": 4200665943,
@@ -2405,8 +2356,7 @@
     "distance": 5.159493557623478,
     "duration": "0:48:51",
     "pace": 9.467843275679492,
-    "title": "5.16mi Run",
-    "notes": null
+    "title": "5.16mi Run"
   },
   {
     "id": 4200662753,
@@ -2427,8 +2377,7 @@
     "distance": 4.021949315994592,
     "duration": "0:39:12",
     "pace": 9.746511627906978,
-    "title": "4.02mi Run",
-    "notes": null
+    "title": "4.02mi Run"
   },
   {
     "id": 4200656685,
@@ -2438,8 +2387,7 @@
     "distance": 4.002935357512129,
     "duration": "0:38:33",
     "pace": 9.631023339317773,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4200653024,
@@ -2449,8 +2397,7 @@
     "distance": 5.0413708939791615,
     "duration": "0:49:46",
     "pace": 9.872064777327935,
-    "title": "5.04mi Run",
-    "notes": null
+    "title": "5.04mi Run"
   },
   {
     "id": 4200649738,
@@ -2460,8 +2407,7 @@
     "distance": 3.999517815954824,
     "duration": "0:40:21",
     "pace": 10.087401278676195,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4200646606,
@@ -2471,8 +2417,7 @@
     "distance": 4.025366857551897,
     "duration": "0:40:08",
     "pace": 9.971152416356876,
-    "title": "4.03mi Run",
-    "notes": null
+    "title": "4.03mi Run"
   },
   {
     "id": 4200643546,
@@ -2482,8 +2427,7 @@
     "distance": 7.010309790821601,
     "duration": "1:07:12",
     "pace": 9.586275911365261,
-    "title": "7.01mi Run",
-    "notes": null
+    "title": "7.01mi Run"
   },
   {
     "id": 4200640075,
@@ -2493,8 +2437,7 @@
     "distance": 1.1976929730374613,
     "duration": "0:10:42",
     "pace": 8.934843437708196,
-    "title": "1.21mi Run",
-    "notes": null
+    "title": "1.21mi Run"
   },
   {
     "id": 4200636959,
@@ -2515,8 +2458,7 @@
     "distance": 5.997474747474747,
     "duration": "0:57:46",
     "pace": 9.631023339317773,
-    "title": "6.00mi Run",
-    "notes": null
+    "title": "6.00mi Run"
   },
   {
     "id": 4200630493,
@@ -2526,8 +2468,7 @@
     "distance": 3.9977779766165593,
     "duration": "0:38:53",
     "pace": 9.725308194343727,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4200627171,
@@ -2537,8 +2478,7 @@
     "distance": 3.996473097112861,
     "duration": "0:39:26",
     "pace": 9.868432671081678,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4200623958,
@@ -2548,8 +2488,7 @@
     "distance": 8.043650083512288,
     "duration": "1:19:01",
     "pace": 9.825054945054946,
-    "title": "8.05mi Run",
-    "notes": null
+    "title": "8.05mi Run"
   },
   {
     "id": 4200620641,
@@ -2570,8 +2509,7 @@
     "distance": 5.00023612105305,
     "duration": "0:48:25",
     "pace": 9.68317689530686,
-    "title": "5.00mi Run",
-    "notes": null
+    "title": "5.00mi Run"
   },
   {
     "id": 4200613737,
@@ -2581,8 +2519,7 @@
     "distance": 4.002251849200668,
     "duration": "0:39:24",
     "pace": 9.843082568807338,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4200610253,
@@ -2592,8 +2529,7 @@
     "distance": 6.24950290304621,
     "duration": "0:58:27",
     "pace": 9.352301255230126,
-    "title": "6.25mi Run",
-    "notes": null
+    "title": "6.25mi Run"
   },
   {
     "id": 4200606894,
@@ -2603,8 +2539,7 @@
     "distance": 5.160922711365625,
     "duration": "0:48:57",
     "pace": 9.484582743988684,
-    "title": "5.16mi Run",
-    "notes": null
+    "title": "5.16mi Run"
   },
   {
     "id": 4200603597,
@@ -2614,8 +2549,7 @@
     "distance": 3.9970323311858746,
     "duration": "0:40:51",
     "pace": 10.221951219512194,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4200600300,
@@ -2647,8 +2581,7 @@
     "distance": 3.9956031774437286,
     "duration": "0:39:32",
     "pace": 9.89391368498709,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4200589874,
@@ -2658,8 +2591,7 @@
     "distance": 8.003633778732205,
     "duration": "1:16:57",
     "pace": 9.613763440860215,
-    "title": "8.01mi Run",
-    "notes": null
+    "title": "8.01mi Run"
   },
   {
     "id": 4200586539,
@@ -2669,8 +2601,7 @@
     "distance": 6.4970571860335635,
     "duration": "1:01:07",
     "pace": 9.408067344791302,
-    "title": "6.50mi Run",
-    "notes": null
+    "title": "6.50mi Run"
   },
   {
     "id": 4200583129,
@@ -2691,8 +2622,7 @@
     "distance": 4.511589815477611,
     "duration": "0:41:04",
     "pace": 9.10159484221242,
-    "title": "4.51mi Run",
-    "notes": null
+    "title": "4.51mi Run"
   },
   {
     "id": 4200576398,
@@ -2702,8 +2632,7 @@
     "distance": 3.998523622047244,
     "duration": "0:36:50",
     "pace": 9.210989010989012,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4200573057,
@@ -2713,8 +2642,7 @@
     "distance": 3.9992692674779287,
     "duration": "0:38:40",
     "pace": 9.669214131218457,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4200569613,
@@ -2724,8 +2652,7 @@
     "distance": 4.001879026485326,
     "duration": "0:36:49",
     "pace": 9.198353909465022,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4200569592,
@@ -2735,8 +2662,7 @@
     "distance": 4.036302990535274,
     "duration": "0:37:51",
     "pace": 9.378461538461538,
-    "title": "4.04mi Run",
-    "notes": null
+    "title": "4.04mi Run"
   },
   {
     "id": 4200566327,
@@ -2757,8 +2683,7 @@
     "distance": 4.068676429650838,
     "duration": "0:38:50",
     "pace": 9.545338078291815,
-    "title": "4.07mi Run",
-    "notes": null
+    "title": "4.07mi Run"
   },
   {
     "id": 4200559494,
@@ -2768,8 +2693,7 @@
     "distance": 3.001719955460113,
     "duration": "0:27:56",
     "pace": 9.306870229007632,
-    "title": "3.00mi Run",
-    "notes": null
+    "title": "3.00mi Run"
   },
   {
     "id": 4200556064,
@@ -2779,8 +2703,7 @@
     "distance": 6.253044718841962,
     "duration": "0:57:55",
     "pace": 9.261878453038674,
-    "title": "6.25mi Run",
-    "notes": null
+    "title": "6.25mi Run"
   },
   {
     "id": 4200552429,
@@ -2812,8 +2735,7 @@
     "distance": 3.2698416249105224,
     "duration": "0:30:23",
     "pace": 9.290751645306546,
-    "title": "3.27mi Run",
-    "notes": null
+    "title": "3.27mi Run"
   },
   {
     "id": 4196698817,
@@ -2823,8 +2745,7 @@
     "distance": 5.004958542114053,
     "duration": "0:46:33",
     "pace": 9.300416088765603,
-    "title": "5.01mi Run",
-    "notes": null
+    "title": "5.01mi Run"
   },
   {
     "id": 4196697170,
@@ -2834,8 +2755,7 @@
     "distance": 4.310327686311938,
     "duration": "0:39:47",
     "pace": 9.230006882312457,
-    "title": "4.31mi Run",
-    "notes": null
+    "title": "4.31mi Run"
   },
   {
     "id": 4196695546,
@@ -2856,8 +2776,7 @@
     "distance": 4.003805277181261,
     "duration": "0:37:09",
     "pace": 9.277896921480457,
-    "title": "4.01mi Run",
-    "notes": null
+    "title": "4.01mi Run"
   },
   {
     "id": 4196692115,
@@ -2867,8 +2786,7 @@
     "distance": 4.044256541795912,
     "duration": "0:38:25",
     "pace": 9.49801699716714,
-    "title": "4.05mi Run",
-    "notes": null
+    "title": "4.05mi Run"
   },
   {
     "id": 4196690471,
@@ -2878,8 +2796,7 @@
     "distance": 4.004923745327289,
     "duration": "0:37:19",
     "pace": 9.316568252865578,
-    "title": "4.01mi Run",
-    "notes": null
+    "title": "4.01mi Run"
   },
   {
     "id": 4196688713,
@@ -2889,8 +2806,7 @@
     "distance": 4.001630478008431,
     "duration": "0:38:26",
     "pace": 9.603437164339418,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4196687065,
@@ -2900,8 +2816,7 @@
     "distance": 5.001106040722182,
     "duration": "0:46:21",
     "pace": 9.268279198341396,
-    "title": "5.00mi Run",
-    "notes": null
+    "title": "5.00mi Run"
   },
   {
     "id": 4196685255,
@@ -2911,8 +2826,7 @@
     "distance": 5.021176330231448,
     "duration": "0:47:04",
     "pace": 9.375183502271932,
-    "title": "5.02mi Run",
-    "notes": null
+    "title": "5.02mi Run"
   },
   {
     "id": 4196683464,
@@ -2922,8 +2836,7 @@
     "distance": 3.0024034637715737,
     "duration": "0:29:07",
     "pace": 9.697180043383948,
-    "title": "3.01mi Run",
-    "notes": null
+    "title": "3.01mi Run"
   },
   {
     "id": 4196681807,
@@ -2933,8 +2846,7 @@
     "distance": 4.504444046766881,
     "duration": "0:42:16",
     "pace": 9.381741867785939,
-    "title": "4.51mi Run",
-    "notes": null
+    "title": "4.51mi Run"
   },
   {
     "id": 4196680151,
@@ -2944,8 +2856,7 @@
     "distance": 3.6330952238924676,
     "duration": "0:35:05",
     "pace": 9.655291576673866,
-    "title": "3.63mi Run",
-    "notes": null
+    "title": "3.63mi Run"
   },
   {
     "id": 4196678391,
@@ -2955,8 +2866,7 @@
     "distance": 3.997715839497335,
     "duration": "0:39:35",
     "pace": 9.901218161683277,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4196676703,
@@ -2966,8 +2876,7 @@
     "distance": 4.292991430048517,
     "duration": "0:40:35",
     "pace": 9.454494183997179,
-    "title": "4.29mi Run",
-    "notes": null
+    "title": "4.29mi Run"
   },
   {
     "id": 4196675087,
@@ -2977,8 +2886,7 @@
     "distance": 4.004302374135051,
     "duration": "0:37:39",
     "pace": 9.401472134595162,
-    "title": "4.01mi Run",
-    "notes": null
+    "title": "4.01mi Run"
   },
   {
     "id": 4196673506,
@@ -2999,8 +2907,7 @@
     "distance": 4.006725721784776,
     "duration": "0:37:56",
     "pace": 9.467843275679492,
-    "title": "4.01mi Run",
-    "notes": null
+    "title": "4.01mi Run"
   },
   {
     "id": 4196670012,
@@ -3010,8 +2917,7 @@
     "distance": 4.001816889366102,
     "duration": "0:39:05",
     "pace": 9.767807720320466,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4196668340,
@@ -3021,8 +2927,7 @@
     "distance": 4.003743140062038,
     "duration": "0:37:02",
     "pace": 9.249103448275863,
-    "title": "4.01mi Run",
-    "notes": null
+    "title": "4.01mi Run"
   },
   {
     "id": 4196666600,
@@ -3032,8 +2937,7 @@
     "distance": 3.0969761592300964,
     "duration": "0:29:00",
     "pace": 9.365363128491621,
-    "title": "3.10mi Run",
-    "notes": null
+    "title": "3.10mi Run"
   },
   {
     "id": 4196664916,
@@ -3087,8 +2991,7 @@
     "distance": 4.006415036188658,
     "duration": "0:38:07",
     "pace": 9.514863426747073,
-    "title": "4.01mi Run",
-    "notes": null
+    "title": "4.01mi Run"
   },
   {
     "id": 4196655599,
@@ -3098,8 +3001,7 @@
     "distance": 3.0027762864869163,
     "duration": "0:26:27",
     "pace": 8.808669950738917,
-    "title": "3.00mi Run",
-    "notes": null
+    "title": "3.00mi Run"
   },
   {
     "id": 4196653663,
@@ -3109,8 +3011,7 @@
     "distance": 4.042827388053766,
     "duration": "0:36:26",
     "pace": 9.012903225806452,
-    "title": "4.04mi Run",
-    "notes": null
+    "title": "4.04mi Run"
   },
   {
     "id": 4196651704,
@@ -3131,8 +3032,7 @@
     "distance": 4.0023139863198915,
     "duration": "0:40:13",
     "pace": 10.049606594230049,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4196647475,
@@ -3142,8 +3042,7 @@
     "distance": 3.034528354410244,
     "duration": "0:28:40",
     "pace": 9.447833744276155,
-    "title": "3.04mi Run",
-    "notes": null
+    "title": "3.04mi Run"
   },
   {
     "id": 4196645361,
@@ -3153,8 +3052,7 @@
     "distance": 5.016640320528116,
     "duration": "0:47:19",
     "pace": 9.431223628691983,
-    "title": "5.02mi Run",
-    "notes": null
+    "title": "5.02mi Run"
   },
   {
     "id": 4196643443,
@@ -3164,8 +3062,7 @@
     "distance": 3.6392467986956176,
     "duration": "0:34:16",
     "pace": 9.414671814671815,
-    "title": "3.64mi Run",
-    "notes": null
+    "title": "3.64mi Run"
   },
   {
     "id": 4196641502,
@@ -3186,8 +3083,7 @@
     "distance": 4.004985882446512,
     "duration": "0:37:29",
     "pace": 9.358827634333565,
-    "title": "4.01mi Run",
-    "notes": null
+    "title": "4.01mi Run"
   },
   {
     "id": 4196637393,
@@ -3197,8 +3093,7 @@
     "distance": 3.0050753598981945,
     "duration": "0:27:37",
     "pace": 9.188900308324769,
-    "title": "3.01mi Run",
-    "notes": null
+    "title": "3.01mi Run"
   },
   {
     "id": 4196635401,
@@ -3219,8 +3114,7 @@
     "distance": 3.9970323311858746,
     "duration": "0:37:44",
     "pace": 9.44118268215417,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4196630860,
@@ -3252,8 +3146,7 @@
     "distance": 4.1426817386463055,
     "duration": "0:39:19",
     "pace": 9.491295116772823,
-    "title": "4.14mi Run",
-    "notes": null
+    "title": "4.14mi Run"
   },
   {
     "id": 4196623896,
@@ -3263,8 +3156,7 @@
     "distance": 5.006698381452319,
     "duration": "0:46:18",
     "pace": 9.249103448275863,
-    "title": "5.01mi Run",
-    "notes": null
+    "title": "5.01mi Run"
   },
   {
     "id": 4196621761,
@@ -3274,8 +3166,7 @@
     "distance": 0.7223440109759007,
     "duration": "0:06:08",
     "pace": 8.490788224121559,
-    "title": "0.72mi Run",
-    "notes": null
+    "title": "0.72mi Run"
   },
   {
     "id": 4196619902,
@@ -3296,8 +3187,7 @@
     "distance": 0.9290742066332618,
     "duration": "0:08:35",
     "pace": 9.23954529796762,
-    "title": "0.93mi Run",
-    "notes": null
+    "title": "0.93mi Run"
   },
   {
     "id": 4196616293,
@@ -3307,8 +3197,7 @@
     "distance": 3.9983372106895727,
     "duration": "0:37:57",
     "pace": 9.491295116772823,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4196614052,
@@ -3351,8 +3240,7 @@
     "distance": 3.5006810228266922,
     "duration": "0:33:05",
     "pace": 9.451162790697673,
-    "title": "3.50mi Run",
-    "notes": null
+    "title": "3.50mi Run"
   },
   {
     "id": 4196604309,
@@ -3362,8 +3250,7 @@
     "distance": 3.001471406983218,
     "duration": "0:28:32",
     "pace": 9.50811768876285,
-    "title": "3.00mi Run",
-    "notes": null
+    "title": "3.00mi Run"
   },
   {
     "id": 4196601747,
@@ -3373,8 +3260,7 @@
     "distance": 4.031394158116599,
     "duration": "0:38:06",
     "pace": 9.451162790697673,
-    "title": "4.03mi Run",
-    "notes": null
+    "title": "4.03mi Run"
   },
   {
     "id": 4196599321,
@@ -3384,8 +3270,7 @@
     "distance": 3.9981507993319014,
     "duration": "0:35:59",
     "pace": 9.000805369127518,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4196596716,
@@ -3395,8 +3280,7 @@
     "distance": 0.9984192316869481,
     "duration": "0:09:49",
     "pace": 9.832258064516127,
-    "title": "1.00mi Run",
-    "notes": null
+    "title": "1.00mi Run"
   },
   {
     "id": 4196594368,
@@ -3406,8 +3290,7 @@
     "distance": 1.002396007317267,
     "duration": "0:09:33",
     "pace": 9.528383658969805,
-    "title": "1.00mi Run",
-    "notes": null
+    "title": "1.00mi Run"
   },
   {
     "id": 4196591789,
@@ -3417,8 +3300,7 @@
     "distance": 1.0547775988228745,
     "duration": "0:10:17",
     "pace": 9.750054525627045,
-    "title": "1.06mi Run",
-    "notes": null
+    "title": "1.06mi Run"
   },
   {
     "id": 4196589229,
@@ -3428,8 +3310,7 @@
     "distance": 6.003937007874016,
     "duration": "0:55:19",
     "pace": 9.214153211954654,
-    "title": "6.01mi Run",
-    "notes": null
+    "title": "6.01mi Run"
   },
   {
     "id": 4196586457,
@@ -3461,8 +3342,7 @@
     "distance": 5.005331364829396,
     "duration": "0:44:24",
     "pace": 8.869841269841269,
-    "title": "5.01mi Run",
-    "notes": null
+    "title": "5.01mi Run"
   },
   {
     "id": 4196578406,
@@ -3472,8 +3352,7 @@
     "distance": 3.2578491609003417,
     "duration": "0:31:04",
     "pace": 9.535158194098827,
-    "title": "3.26mi Run",
-    "notes": null
+    "title": "3.26mi Run"
   },
   {
     "id": 4196574975,
@@ -3494,8 +3373,7 @@
     "distance": 6.141943549669928,
     "duration": "0:57:05",
     "pace": 9.293970893970894,
-    "title": "6.14mi Run",
-    "notes": null
+    "title": "6.14mi Run"
   },
   {
     "id": 4196568138,
@@ -3516,8 +3394,7 @@
     "distance": 3.150414081762507,
     "duration": "0:28:08",
     "pace": 8.9288948069241,
-    "title": "3.15mi Run",
-    "notes": null
+    "title": "3.15mi Run"
   },
   {
     "id": 4196562151,
@@ -3527,8 +3404,7 @@
     "distance": 5.102700230652986,
     "duration": "0:47:16",
     "pace": 9.261878453038674,
-    "title": "5.10mi Run",
-    "notes": null
+    "title": "5.10mi Run"
   },
   {
     "id": 4196559182,
@@ -3538,8 +3414,7 @@
     "distance": 3.0081200787401574,
     "duration": "0:27:39",
     "pace": 9.192049348869087,
-    "title": "3.01mi Run",
-    "notes": null
+    "title": "3.01mi Run"
   },
   {
     "id": 4196556331,
@@ -3549,8 +3424,7 @@
     "distance": 6.008224469100453,
     "duration": "0:55:18",
     "pace": 9.204667124227864,
-    "title": "6.01mi Run",
-    "notes": null
+    "title": "6.01mi Run"
   },
   {
     "id": 4196553236,
@@ -3560,8 +3434,7 @@
     "distance": 2.998923785095045,
     "duration": "0:28:25",
     "pace": 9.47453196750265,
-    "title": "3.00mi Run",
-    "notes": null
+    "title": "3.00mi Run"
   },
   {
     "id": 4196550120,
@@ -3571,8 +3444,7 @@
     "distance": 3.013028911158832,
     "duration": "0:28:15",
     "pace": 9.375183502271932,
-    "title": "3.01mi Run",
-    "notes": null
+    "title": "3.01mi Run"
   },
   {
     "id": 4196547092,
@@ -3582,8 +3454,7 @@
     "distance": 5.026457985365465,
     "duration": "0:47:20",
     "pace": 9.417977528089889,
-    "title": "5.03mi Run",
-    "notes": null
+    "title": "5.03mi Run"
   },
   {
     "id": 4196543928,
@@ -3593,8 +3464,7 @@
     "distance": 3.5846282708979555,
     "duration": "0:32:00",
     "pace": 8.925923460898503,
-    "title": "3.59mi Run",
-    "notes": null
+    "title": "3.59mi Run"
   },
   {
     "id": 4196540601,
@@ -3615,8 +3485,7 @@
     "distance": 3.001782092579336,
     "duration": "0:29:41",
     "pace": 9.890265486725662,
-    "title": "3.00mi Run",
-    "notes": null
+    "title": "3.00mi Run"
   },
   {
     "id": 4196533925,
@@ -3626,8 +3495,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:30:00",
     "pace": 10.00089485458613,
-    "title": "00:30:00 Treadmill, Run",
-    "notes": ""
+    "title": "00:30:00 Treadmill, Run"
   },
   {
     "id": 4196529874,
@@ -3670,8 +3538,7 @@
     "distance": 4.282055297065139,
     "duration": "0:40:23",
     "pace": 9.431223628691983,
-    "title": "4.28mi Run",
-    "notes": null
+    "title": "4.28mi Run"
   },
   {
     "id": 4196520069,
@@ -3681,8 +3548,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:27:58",
     "pace": 9.323044838373306,
-    "title": "00:27:58 Treadmill, Run",
-    "notes": ""
+    "title": "00:27:58 Treadmill, Run"
   },
   {
     "id": 4196517294,
@@ -3692,8 +3558,7 @@
     "distance": 4.003370317346695,
     "duration": "0:38:59",
     "pace": 9.735898366606172,
-    "title": "4.01mi Run",
-    "notes": null
+    "title": "4.01mi Run"
   },
   {
     "id": 4196513977,
@@ -3703,8 +3568,7 @@
     "distance": 10.521367712558657,
     "duration": "1:36:04",
     "pace": 9.129475833900612,
-    "title": "10.52mi Run",
-    "notes": null
+    "title": "10.52mi Run"
   },
   {
     "id": 4196510275,
@@ -3714,8 +3578,7 @@
     "distance": 3.498133400938519,
     "duration": "0:35:19",
     "pace": 10.09499435453519,
-    "title": "3.50mi Run",
-    "notes": null
+    "title": "3.50mi Run"
   },
   {
     "id": 4196507049,
@@ -3725,8 +3588,7 @@
     "distance": 6.301200986240356,
     "duration": "1:00:22",
     "pace": 9.579428571428572,
-    "title": "6.30mi Run",
-    "notes": null
+    "title": "6.30mi Run"
   },
   {
     "id": 4196505690,
@@ -3736,8 +3598,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:24:28",
     "pace": 8.155183946488293,
-    "title": "00:24:28 Treadmill, Run",
-    "notes": ""
+    "title": "00:24:28 Treadmill, Run"
   },
   {
     "id": 4196502355,
@@ -3747,8 +3608,7 @@
     "distance": 4.150821701264615,
     "duration": "0:38:44",
     "pace": 9.332776617954071,
-    "title": "4.15mi Run",
-    "notes": null
+    "title": "4.15mi Run"
   },
   {
     "id": 4196498975,
@@ -3791,8 +3651,7 @@
     "distance": 3.1481150083512284,
     "duration": "0:27:01",
     "pace": 8.583168,
-    "title": "3.15mi Run",
-    "notes": null
+    "title": "3.15mi Run"
   },
   {
     "id": 4196487752,
@@ -3802,8 +3661,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:26:56",
     "pace": 8.976706827309236,
-    "title": "00:26:56 Treadmill, Run",
-    "notes": ""
+    "title": "00:26:56 Treadmill, Run"
   },
   {
     "id": 4196484638,
@@ -3813,8 +3671,7 @@
     "distance": 5.4766414141414135,
     "duration": "0:49:26",
     "pace": 9.025033647375505,
-    "title": "5.48mi Run",
-    "notes": null
+    "title": "5.48mi Run"
   },
   {
     "id": 4196483279,
@@ -3857,8 +3714,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:28:41",
     "pace": 9.562352941176469,
-    "title": "00:28:41 Treadmill, Run",
-    "notes": ""
+    "title": "00:28:41 Treadmill, Run"
   },
   {
     "id": 4196472326,
@@ -3890,8 +3746,7 @@
     "distance": 0.9999726596675415,
     "duration": "0:07:54",
     "pace": 7.900559646539028,
-    "title": "00:07:54 Treadmill, Run",
-    "notes": ""
+    "title": "00:07:54 Treadmill, Run"
   },
   {
     "id": 4196464526,
@@ -3934,8 +3789,7 @@
     "distance": 3.1499791219279407,
     "duration": "0:29:00",
     "pace": 9.207826982492277,
-    "title": "00:29:00 Treadmill, Run",
-    "notes": ""
+    "title": "00:29:00 Treadmill, Run"
   },
   {
     "id": 4196457579,
@@ -3945,8 +3799,7 @@
     "distance": 2.000007456454307,
     "duration": "0:19:28",
     "pace": 9.732365747460088,
-    "title": "00:19:28 Treadmill, Run",
-    "notes": ""
+    "title": "00:19:28 Treadmill, Run"
   },
   {
     "id": 4196454429,
@@ -3967,8 +3820,7 @@
     "distance": 4.4990381173944165,
     "duration": "0:41:57",
     "pace": 9.323044838373306,
-    "title": "4.50mi Run",
-    "notes": null
+    "title": "4.50mi Run"
   },
   {
     "id": 4196449538,
@@ -3978,8 +3830,7 @@
     "distance": 2.000007456454307,
     "duration": "0:16:57",
     "pace": 8.474691943127961,
-    "title": "00:16:57 Treadmill, Run",
-    "notes": ""
+    "title": "00:16:57 Treadmill, Run"
   },
   {
     "id": 4196448437,
@@ -4000,8 +3851,7 @@
     "distance": 4.000014912908614,
     "duration": "0:38:11",
     "pace": 9.545338078291815,
-    "title": "00:38:11 Treadmill, Run",
-    "notes": ""
+    "title": "00:38:11 Treadmill, Run"
   },
   {
     "id": 4193867647,
@@ -4011,8 +3861,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:25:04",
     "pace": 8.355887850467289,
-    "title": "00:25:04 Treadmill, Run",
-    "notes": ""
+    "title": "00:25:04 Treadmill, Run"
   },
   {
     "id": 4193865443,
@@ -4022,8 +3871,7 @@
     "distance": 4.999987572576155,
     "duration": "0:47:43",
     "pace": 9.541942369263607,
-    "title": "5.00mi Run",
-    "notes": ""
+    "title": "5.00mi Run"
   },
   {
     "id": 4193863293,
@@ -4033,8 +3881,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:29:04",
     "pace": 9.690173410404626,
-    "title": "3.00mi Run",
-    "notes": ""
+    "title": "3.00mi Run"
   },
   {
     "id": 4193861053,
@@ -4044,8 +3891,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:25:06",
     "pace": 8.366313162819713,
-    "title": "3.00mi Run",
-    "notes": ""
+    "title": "3.00mi Run"
   },
   {
     "id": 4193858746,
@@ -4055,8 +3901,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:28:49",
     "pace": 9.606876790830945,
-    "title": "3.00mi Run",
-    "notes": ""
+    "title": "3.00mi Run"
   },
   {
     "id": 4193856372,
@@ -4066,8 +3911,7 @@
     "distance": 4.000014912908614,
     "duration": "0:38:16",
     "pace": 9.565763195435093,
-    "title": "4.00mi Run",
-    "notes": ""
+    "title": "4.00mi Run"
   },
   {
     "id": 4193854109,
@@ -4099,8 +3943,7 @@
     "distance": 0.9999726596675415,
     "duration": "0:07:55",
     "pace": 7.916883116883117,
-    "title": "1.00mi Run",
-    "notes": ""
+    "title": "1.00mi Run"
   },
   {
     "id": 4193838557,
@@ -4110,8 +3953,7 @@
     "distance": 1.1000134216177522,
     "duration": "0:08:42",
     "pace": 7.909879091713359,
-    "title": "1.10mi Run",
-    "notes": ""
+    "title": "1.10mi Run"
   },
   {
     "id": 4193834914,
@@ -4121,8 +3963,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:25:39",
     "pace": 8.55033471469557,
-    "title": "3.00mi Run",
-    "notes": ""
+    "title": "3.00mi Run"
   },
   {
     "id": 4193827205,
@@ -4132,8 +3973,7 @@
     "distance": 5.003653662610356,
     "duration": "0:45:10",
     "pace": 9.028071356445642,
-    "title": "5.01mi Run",
-    "notes": null
+    "title": "5.01mi Run"
   },
   {
     "id": 4193816540,
@@ -4220,8 +4060,7 @@
     "distance": 4.006663584665553,
     "duration": "0:37:40",
     "pace": 9.401472134595162,
-    "title": "4.01mi Run",
-    "notes": null
+    "title": "4.01mi Run"
   },
   {
     "id": 4193795315,
@@ -4264,8 +4103,7 @@
     "distance": 4.004550922611946,
     "duration": "0:38:14",
     "pace": 9.548736205055178,
-    "title": "4.01mi Run",
-    "notes": null
+    "title": "4.01mi Run"
   },
   {
     "id": 4192874997,
@@ -4275,8 +4113,7 @@
     "distance": 4.006849996023224,
     "duration": "0:40:43",
     "pace": 10.16,
-    "title": "4.01mi Run",
-    "notes": null
+    "title": "4.01mi Run"
   },
   {
     "id": 4192871788,
@@ -4286,8 +4123,7 @@
     "distance": 2.6175882844189933,
     "duration": "0:25:09",
     "pace": 9.606876790830945,
-    "title": "2.62mi Run",
-    "notes": null
+    "title": "2.62mi Run"
   },
   {
     "id": 4192868803,
@@ -4297,8 +4133,7 @@
     "distance": 4.151256661099181,
     "duration": "0:39:01",
     "pace": 9.398177995795374,
-    "title": "4.15mi Run",
-    "notes": null
+    "title": "4.15mi Run"
   },
   {
     "id": 4192865707,
@@ -4308,8 +4143,7 @@
     "distance": 4.006042213473316,
     "duration": "0:37:22",
     "pace": 9.326286509040333,
-    "title": "4.01mi Run",
-    "notes": null
+    "title": "4.01mi Run"
   },
   {
     "id": 4192864384,
@@ -4319,8 +4153,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:25:35",
     "pace": 8.528585055643878,
-    "title": "00:25:35 Treadmill, Run",
-    "notes": ""
+    "title": "00:25:35 Treadmill, Run"
   },
   {
     "id": 4192863279,
@@ -4330,8 +4163,7 @@
     "distance": 4.000014912908614,
     "duration": "0:38:25",
     "pace": 9.603437164339418,
-    "title": "00:38:25 Treadmill, Run",
-    "notes": ""
+    "title": "00:38:25 Treadmill, Run"
   },
   {
     "id": 4192860282,
@@ -4374,8 +4206,7 @@
     "distance": 4.005669390757974,
     "duration": "0:39:26",
     "pace": 9.843082568807338,
-    "title": "4.01mi Run",
-    "notes": null
+    "title": "4.01mi Run"
   },
   {
     "id": 4192849500,
@@ -4385,8 +4216,7 @@
     "distance": 2.318833015191283,
     "duration": "0:20:58",
     "pace": 9.043290627107213,
-    "title": "2.32mi Run",
-    "notes": null
+    "title": "2.32mi Run"
   },
   {
     "id": 4192846457,
@@ -4429,8 +4259,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:25:16",
     "pace": 8.421475667189952,
-    "title": "00:25:16 Treadmill, Run",
-    "notes": ""
+    "title": "00:25:16 Treadmill, Run"
   },
   {
     "id": 4192835819,
@@ -4440,8 +4269,7 @@
     "distance": 4.101546965720194,
     "duration": "0:40:43",
     "pace": 9.926868985936343,
-    "title": "4.10mi Run",
-    "notes": null
+    "title": "4.10mi Run"
   },
   {
     "id": 4192832700,
@@ -4473,8 +4301,7 @@
     "distance": 2.193875268432355,
     "duration": "0:22:57",
     "pace": 10.461154446177847,
-    "title": "2.20mi Run",
-    "notes": null
+    "title": "2.20mi Run"
   },
   {
     "id": 4192822461,
@@ -4484,8 +4311,7 @@
     "distance": 4.675818221585938,
     "duration": "0:42:52",
     "pace": 9.166917293233082,
-    "title": "4.68mi Run",
-    "notes": null
+    "title": "4.68mi Run"
   },
   {
     "id": 4192818989,
@@ -4495,8 +4321,7 @@
     "distance": 4.995637974230494,
     "duration": "0:45:07",
     "pace": 9.03111111111111,
-    "title": "5.00mi Run",
-    "notes": null
+    "title": "5.00mi Run"
   },
   {
     "id": 4192815587,
@@ -4517,8 +4342,7 @@
     "distance": 5.250648711524696,
     "duration": "0:47:34",
     "pace": 9.05856129685917,
-    "title": "5.25mi Run",
-    "notes": null
+    "title": "5.25mi Run"
   },
   {
     "id": 4192811033,
@@ -4528,8 +4352,7 @@
     "distance": 4.000014912908614,
     "duration": "0:36:36",
     "pace": 9.151279426816785,
-    "title": "00:36:36 Treadmill, Run",
-    "notes": ""
+    "title": "00:36:36 Treadmill, Run"
   },
   {
     "id": 4192807843,
@@ -4539,8 +4362,7 @@
     "distance": 3.4990033206076516,
     "duration": "0:33:01",
     "pace": 9.43454097784031,
-    "title": "3.50mi Run",
-    "notes": null
+    "title": "3.50mi Run"
   },
   {
     "id": 4192804642,
@@ -4693,8 +4515,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:28:57",
     "pace": 9.648345323741006,
-    "title": "00:28:57 Treadmill, Run",
-    "notes": ""
+    "title": "00:28:57 Treadmill, Run"
   },
   {
     "id": 4192767926,
@@ -4726,8 +4547,7 @@
     "distance": 4.001630478008431,
     "duration": "0:39:04",
     "pace": 9.764251911175828,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4192757420,
@@ -4737,8 +4557,7 @@
     "distance": 3.099958740952835,
     "duration": "0:28:30",
     "pace": 9.195200548508742,
-    "title": "3.10mi Run",
-    "notes": null
+    "title": "3.10mi Run"
   },
   {
     "id": 4192754007,
@@ -4759,8 +4578,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:30:00",
     "pace": 10.00089485458613,
-    "title": "00:30:00 Treadmill, Run",
-    "notes": ""
+    "title": "00:30:00 Treadmill, Run"
   },
   {
     "id": 4192749568,
@@ -4770,8 +4588,7 @@
     "distance": 13.414161298019565,
     "duration": "2:03:55",
     "pace": 9.236363636363636,
-    "title": "13.42mi Run",
-    "notes": null
+    "title": "13.42mi Run"
   },
   {
     "id": 4192745958,
@@ -4781,8 +4598,7 @@
     "distance": 3.5263436530660943,
     "duration": "0:35:17",
     "pace": 10.004625139873182,
-    "title": "3.53mi Run",
-    "notes": null
+    "title": "3.53mi Run"
   },
   {
     "id": 4192742617,
@@ -4792,8 +4608,7 @@
     "distance": 3.5048442098146824,
     "duration": "0:33:37",
     "pace": 9.5931330472103,
-    "title": "3.51mi Run",
-    "notes": null
+    "title": "3.51mi Run"
   },
   {
     "id": 4192739335,
@@ -4836,8 +4651,7 @@
     "distance": 4.000014912908614,
     "duration": "0:36:18",
     "pace": 9.073883626522328,
-    "title": "00:36:18 Treadmill, Run",
-    "notes": ""
+    "title": "00:36:18 Treadmill, Run"
   },
   {
     "id": 4192729822,
@@ -4847,8 +4661,7 @@
     "distance": 4.000014912908614,
     "duration": "0:37:52",
     "pace": 9.467843275679492,
-    "title": "00:37:52 Treadmill, Run",
-    "notes": ""
+    "title": "00:37:52 Treadmill, Run"
   },
   {
     "id": 4192726748,
@@ -4891,8 +4704,7 @@
     "distance": 1.246905571462658,
     "duration": "0:11:15",
     "pace": 9.02199798183653,
-    "title": "1.25mi Run",
-    "notes": null
+    "title": "1.25mi Run"
   },
   {
     "id": 4192713399,
@@ -4924,8 +4736,7 @@
     "distance": 4.000014912908614,
     "duration": "0:38:45",
     "pace": 9.686673889490791,
-    "title": "00:38:45 Treadmill, Run",
-    "notes": ""
+    "title": "00:38:45 Treadmill, Run"
   },
   {
     "id": 4192702895,
@@ -4968,8 +4779,7 @@
     "distance": 5.002535194464328,
     "duration": "0:46:19",
     "pace": 9.258681394546082,
-    "title": "5.01mi Run",
-    "notes": null
+    "title": "5.01mi Run"
   },
   {
     "id": 4192688988,
@@ -5023,8 +4833,7 @@
     "distance": 5.002162371748986,
     "duration": "0:46:44",
     "pace": 9.342528735632184,
-    "title": "5.00mi Run",
-    "notes": null
+    "title": "5.00mi Run"
   },
   {
     "id": 4192673761,
@@ -5034,8 +4843,7 @@
     "distance": 4.999987572576155,
     "duration": "0:48:47",
     "pace": 9.757148053837758,
-    "title": "00:48:47 Treadmill, Run",
-    "notes": ""
+    "title": "00:48:47 Treadmill, Run"
   },
   {
     "id": 4192670425,
@@ -5056,8 +4864,7 @@
     "distance": 5.12239769744691,
     "duration": "0:47:48",
     "pace": 9.332776617954071,
-    "title": "5.12mi Run",
-    "notes": null
+    "title": "5.12mi Run"
   },
   {
     "id": 4192663437,
@@ -5067,8 +4874,7 @@
     "distance": 5.06349170842281,
     "duration": "0:46:27",
     "pace": 9.173187414500683,
-    "title": "5.07mi Run",
-    "notes": null
+    "title": "5.07mi Run"
   },
   {
     "id": 4192659935,
@@ -5078,8 +4884,7 @@
     "distance": 3.996473097112861,
     "duration": "0:39:22",
     "pace": 9.850312155710615,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4192656572,
@@ -5100,8 +4905,7 @@
     "distance": 4.000201324266285,
     "duration": "0:37:49",
     "pace": 9.454494183997179,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4192649509,
@@ -5111,8 +4915,7 @@
     "distance": 5.0068847928099895,
     "duration": "0:46:14",
     "pace": 9.233184165232357,
-    "title": "5.01mi Run",
-    "notes": null
+    "title": "5.01mi Run"
   },
   {
     "id": 4192645844,
@@ -5122,8 +4925,7 @@
     "distance": 4.999117652907023,
     "duration": "0:46:55",
     "pace": 9.385024492652205,
-    "title": "5.00mi Run",
-    "notes": null
+    "title": "5.00mi Run"
   },
   {
     "id": 4192642185,
@@ -5155,8 +4957,7 @@
     "distance": 5.102638093533763,
     "duration": "0:46:43",
     "pace": 9.154402730375425,
-    "title": "5.10mi Run",
-    "notes": null
+    "title": "5.10mi Run"
   },
   {
     "id": 4192633275,
@@ -5166,8 +4967,7 @@
     "distance": 5.10058756859938,
     "duration": "0:47:44",
     "pace": 9.358827634333565,
-    "title": "5.10mi Run",
-    "notes": null
+    "title": "5.10mi Run"
   },
   {
     "id": 4192629706,
@@ -5188,8 +4988,7 @@
     "distance": 4.013560804899387,
     "duration": "0:39:15",
     "pace": 9.778490703609187,
-    "title": "4.01mi Run",
-    "notes": null
+    "title": "4.01mi Run"
   },
   {
     "id": 4192622456,
@@ -5243,8 +5042,7 @@
     "distance": 5.501123439115565,
     "duration": "0:51:48",
     "pace": 9.414671814671815,
-    "title": "5.50mi Run",
-    "notes": null
+    "title": "5.50mi Run"
   },
   {
     "id": 4192604943,
@@ -5254,8 +5052,7 @@
     "distance": 4.499224528752087,
     "duration": "0:41:39",
     "pace": 9.258681394546082,
-    "title": "4.50mi Run",
-    "notes": null
+    "title": "4.50mi Run"
   },
   {
     "id": 4192601558,
@@ -5276,8 +5073,7 @@
     "distance": 3.2508898035472837,
     "duration": "0:31:57",
     "pace": 9.828655185049469,
-    "title": "3.25mi Run",
-    "notes": null
+    "title": "3.25mi Run"
   },
   {
     "id": 4192594877,
@@ -5298,8 +5094,7 @@
     "distance": 4.350592539568917,
     "duration": "0:39:05",
     "pace": 8.982719356999329,
-    "title": "4.35mi Run",
-    "notes": null
+    "title": "4.35mi Run"
   },
   {
     "id": 4192588416,
@@ -5342,8 +5137,7 @@
     "distance": 3.5065840491529467,
     "duration": "0:31:57",
     "pace": 9.110869565217392,
-    "title": "3.51mi Run",
-    "notes": null
+    "title": "3.51mi Run"
   },
   {
     "id": 4192574924,
@@ -5353,8 +5147,7 @@
     "distance": 4.312999582438559,
     "duration": "0:38:26",
     "pace": 8.91109634551495,
-    "title": "4.32mi Run",
-    "notes": null
+    "title": "4.32mi Run"
   },
   {
     "id": 4192571385,
@@ -5364,8 +5157,7 @@
     "distance": 5.003715799729579,
     "duration": "0:44:51",
     "pace": 8.964705882352941,
-    "title": "5.01mi Run",
-    "notes": null
+    "title": "5.01mi Run"
   },
   {
     "id": 4192567997,
@@ -5397,8 +5189,7 @@
     "distance": 3.1222038296349317,
     "duration": "0:29:04",
     "pace": 9.310100659493232,
-    "title": "3.13mi Run",
-    "notes": null
+    "title": "3.13mi Run"
   },
   {
     "id": 4192558460,
@@ -5408,8 +5199,7 @@
     "distance": 4.04090113735783,
     "duration": "0:36:50",
     "pace": 9.113965341488276,
-    "title": "4.04mi Run",
-    "notes": null
+    "title": "4.04mi Run"
   },
   {
     "id": 4222839801,
@@ -5419,8 +5209,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:28:44",
     "pace": 9.579428571428572,
-    "title": "00:28:44 Treadmill, Run",
-    "notes": ""
+    "title": "00:28:44 Treadmill, Run"
   },
   {
     "id": 4192551911,
@@ -5430,8 +5219,7 @@
     "distance": 4.002189712081444,
     "duration": "0:40:45",
     "pace": 10.183143507972666,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4192548673,
@@ -5441,8 +5229,7 @@
     "distance": 3.004516125825181,
     "duration": "0:28:01",
     "pace": 9.326286509040333,
-    "title": "3.01mi Run",
-    "notes": null
+    "title": "3.01mi Run"
   },
   {
     "id": 4192545391,
@@ -5463,8 +5250,7 @@
     "distance": 4.2459536307961505,
     "duration": "0:38:49",
     "pace": 9.141922290388546,
-    "title": "Ran 4.25 mi on 07/10/19",
-    "notes": null
+    "title": "Ran 4.25 mi on 07/10/19"
   },
   {
     "id": 4192539058,
@@ -5474,8 +5260,7 @@
     "distance": 5.368087866857552,
     "duration": "0:50:20",
     "pace": 9.375183502271932,
-    "title": "Ran 5.37 mi on 07/09/19",
-    "notes": null
+    "title": "Ran 5.37 mi on 07/09/19"
   },
   {
     "id": 4192535828,
@@ -5551,8 +5336,7 @@
     "distance": 5.246920484371272,
     "duration": "0:46:18",
     "pace": 8.823157894736841,
-    "title": "Ran 5.25 mi on 06/26/19",
-    "notes": null
+    "title": "Ran 5.25 mi on 06/26/19"
   },
   {
     "id": 4192514005,
@@ -5584,8 +5368,7 @@
     "distance": 4.047674083353217,
     "duration": "0:39:27",
     "pace": 9.746511627906978,
-    "title": "Ran 4.05 mi on 06/21/19",
-    "notes": null
+    "title": "Ran 4.05 mi on 06/21/19"
   },
   {
     "id": 4192504560,
@@ -5716,8 +5499,7 @@
     "distance": 4.251980931360852,
     "duration": "0:40:59",
     "pace": 9.63794466403162,
-    "title": "Ran 4.25 mi on 06/05/19",
-    "notes": null
+    "title": "Ran 4.25 mi on 06/05/19"
   },
   {
     "id": 4192469813,
@@ -5749,8 +5531,7 @@
     "distance": 12.669012964288553,
     "duration": "2:01:50",
     "pace": 9.617210469702401,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4192461906,
@@ -5782,8 +5563,7 @@
     "distance": 3.1114541080092257,
     "duration": "0:28:14",
     "pace": 9.073883626522328,
-    "title": "Ran 3.11 mi on 05/27/19",
-    "notes": null
+    "title": "Ran 3.11 mi on 05/27/19"
   },
   {
     "id": 4192454419,
@@ -5815,8 +5595,7 @@
     "distance": 6.001389385985842,
     "duration": "0:53:39",
     "pace": 8.9408,
-    "title": "Ran 6.0 mi on 05/23/19",
-    "notes": null
+    "title": "Ran 6.0 mi on 05/23/19"
   },
   {
     "id": 4192448484,
@@ -5826,8 +5605,7 @@
     "distance": 4.000014912908614,
     "duration": "0:37:48",
     "pace": 9.451162790697673,
-    "title": "00:37:48 Treadmill, Run",
-    "notes": ""
+    "title": "00:37:48 Treadmill, Run"
   },
   {
     "id": 4192446257,
@@ -5892,8 +5670,7 @@
     "distance": 3.9994556788356,
     "duration": "0:36:42",
     "pace": 9.176325692781388,
-    "title": "Ran 4.0 mi on 05/10/19",
-    "notes": null
+    "title": "Ran 4.0 mi on 05/10/19"
   },
   {
     "id": 4192432174,
@@ -5936,8 +5713,7 @@
     "distance": 3.25499085341605,
     "duration": "0:29:48",
     "pace": 9.154402730375425,
-    "title": "Ran 3.26 mi on 05/03/19",
-    "notes": null
+    "title": "Ran 3.26 mi on 05/03/19"
   },
   {
     "id": 4192423022,
@@ -5958,8 +5734,7 @@
     "distance": 3.0718106259444844,
     "duration": "0:28:40",
     "pace": 9.332776617954071,
-    "title": "Ran 3.07 mi on 04/30/19",
-    "notes": null
+    "title": "Ran 3.07 mi on 04/30/19"
   },
   {
     "id": 4192418501,
@@ -5991,8 +5766,7 @@
     "distance": 4.006042213473316,
     "duration": "0:35:42",
     "pace": 8.91109634551495,
-    "title": "Ran 4.01 mi on 04/25/19",
-    "notes": null
+    "title": "Ran 4.01 mi on 04/25/19"
   },
   {
     "id": 4192411691,
@@ -6002,8 +5776,7 @@
     "distance": 3.019801857154219,
     "duration": "0:28:14",
     "pace": 9.349041477866852,
-    "title": "Ran 3.02 mi on 04/23/19",
-    "notes": null
+    "title": "Ran 3.02 mi on 04/23/19"
   },
   {
     "id": 4192409595,
@@ -6079,8 +5852,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:27:44",
     "pace": 9.245915201654602,
-    "title": "00:27:44 Treadmill, Run",
-    "notes": ""
+    "title": "00:27:44 Treadmill, Run"
   },
   {
     "id": 4192395415,
@@ -6090,8 +5862,7 @@
     "distance": 4.246575001988387,
     "duration": "0:38:40",
     "pace": 9.10468431771894,
-    "title": "Ran 4.25 mi on 04/09/19",
-    "notes": null
+    "title": "Ran 4.25 mi on 04/09/19"
   },
   {
     "id": 4192393358,
@@ -6211,8 +5982,7 @@
     "distance": 2.5012054601129403,
     "duration": "0:21:54",
     "pace": 8.75690499510284,
-    "title": "Ran 2.5 mi on 03/21/19",
-    "notes": null
+    "title": "Ran 2.5 mi on 03/21/19"
   },
   {
     "id": 4192370933,
@@ -6222,8 +5992,7 @@
     "distance": 4.49692545534081,
     "duration": "0:42:05",
     "pace": 9.358827634333565,
-    "title": "Ran 4.5 mi on 03/20/19",
-    "notes": null
+    "title": "Ran 4.5 mi on 03/20/19"
   },
   {
     "id": 4192369015,
@@ -6233,8 +6002,7 @@
     "distance": 1.1216992762268352,
     "duration": "0:10:51",
     "pace": 9.672701045798773,
-    "title": "Ran 1.12 mi on 03/18/19",
-    "notes": null
+    "title": "Ran 1.12 mi on 03/18/19"
   },
   {
     "id": 4192367164,
@@ -6244,8 +6012,7 @@
     "distance": 3.128417541557305,
     "duration": "0:29:36",
     "pace": 9.461164021164022,
-    "title": "Ran 3.13 mi on 03/18/19",
-    "notes": null
+    "title": "Ran 3.13 mi on 03/18/19"
   },
   {
     "id": 4192365220,
@@ -6288,8 +6055,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:27:05",
     "pace": 9.028071356445642,
-    "title": "00:27:05 Treadmill, Run",
-    "notes": ""
+    "title": "00:27:05 Treadmill, Run"
   },
   {
     "id": 4192359006,
@@ -6310,8 +6076,7 @@
     "distance": 4.999987572576155,
     "duration": "0:47:47",
     "pace": 9.555539722123264,
-    "title": "00:47:47 Treadmill, Run",
-    "notes": ""
+    "title": "00:47:47 Treadmill, Run"
   },
   {
     "id": 4192356650,
@@ -6321,8 +6086,7 @@
     "distance": 3.1025684999602325,
     "duration": "0:27:12",
     "pace": 8.768355671788164,
-    "title": "Ran 3.11 mi on 03/08/19",
-    "notes": null
+    "title": "Ran 3.11 mi on 03/08/19"
   },
   {
     "id": 4192355939,
@@ -6332,8 +6096,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:27:11",
     "pace": 9.061621621621622,
-    "title": "00:27:11 Treadmill, Run",
-    "notes": ""
+    "title": "00:27:11 Treadmill, Run"
   },
   {
     "id": 4192355368,
@@ -6343,8 +6106,7 @@
     "distance": 0.9999726596675415,
     "duration": "0:07:53",
     "pace": 7.884303350970017,
-    "title": "00:07:53 Treadmill, Run",
-    "notes": ""
+    "title": "00:07:53 Treadmill, Run"
   },
   {
     "id": 4192354739,
@@ -6365,8 +6127,7 @@
     "distance": 4.000014912908614,
     "duration": "0:37:59",
     "pace": 9.494654867256635,
-    "title": "00:37:59 Treadmill, Run",
-    "notes": ""
+    "title": "00:37:59 Treadmill, Run"
   },
   {
     "id": 4192353586,
@@ -6409,8 +6170,7 @@
     "distance": 4.000014912908614,
     "duration": "0:37:18",
     "pace": 9.326286509040333,
-    "title": "00:37:18 Treadmill, Run",
-    "notes": ""
+    "title": "00:37:18 Treadmill, Run"
   },
   {
     "id": 4192351285,
@@ -6442,8 +6202,7 @@
     "distance": 4.000014912908614,
     "duration": "0:37:24",
     "pace": 9.349041477866852,
-    "title": "00:37:24 Treadmill, Run",
-    "notes": ""
+    "title": "00:37:24 Treadmill, Run"
   },
   {
     "id": 4192349440,
@@ -6453,8 +6212,7 @@
     "distance": 4.000014912908614,
     "duration": "0:37:58",
     "pace": 9.491295116772823,
-    "title": "00:37:58 Treadmill, Run",
-    "notes": ""
+    "title": "00:37:58 Treadmill, Run"
   },
   {
     "id": 4192348785,
@@ -6508,8 +6266,7 @@
     "distance": 4.000014912908614,
     "duration": "0:38:17",
     "pace": 9.569175882982519,
-    "title": "00:38:17 Treadmill, Run",
-    "notes": ""
+    "title": "00:38:17 Treadmill, Run"
   },
   {
     "id": 4192345759,
@@ -6541,8 +6298,7 @@
     "distance": 4.000014912908614,
     "duration": "0:38:08",
     "pace": 9.531769722814499,
-    "title": "00:38:08 Treadmill, Run",
-    "notes": ""
+    "title": "00:38:08 Treadmill, Run"
   },
   {
     "id": 4192343976,
@@ -6552,8 +6308,7 @@
     "distance": 2.099986081285294,
     "duration": "0:18:56",
     "pace": 9.015932773109244,
-    "title": "00:18:56 Treadmill, Run",
-    "notes": ""
+    "title": "00:18:56 Treadmill, Run"
   },
   {
     "id": 4222839259,
@@ -6585,8 +6340,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:28:55",
     "pace": 9.63794466403162,
-    "title": "00:28:55 Treadmill, Run",
-    "notes": ""
+    "title": "00:28:55 Treadmill, Run"
   },
   {
     "id": 4192339336,
@@ -6596,8 +6350,7 @@
     "distance": 4.000014912908614,
     "duration": "0:38:10",
     "pace": 9.541942369263607,
-    "title": "00:38:10 Treadmill, Run",
-    "notes": ""
+    "title": "00:38:10 Treadmill, Run"
   },
   {
     "id": 4192338735,
@@ -6607,8 +6360,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:28:39",
     "pace": 9.548736205055178,
-    "title": "00:28:39 Treadmill, Run",
-    "notes": ""
+    "title": "00:28:39 Treadmill, Run"
   },
   {
     "id": 4192338104,
@@ -6651,8 +6403,7 @@
     "distance": 4.999987572576155,
     "duration": "0:48:47",
     "pace": 9.757148053837758,
-    "title": "00:48:47 Treadmill, Run",
-    "notes": ""
+    "title": "00:48:47 Treadmill, Run"
   },
   {
     "id": 4192335720,
@@ -6662,8 +6413,7 @@
     "distance": 2.000007456454307,
     "duration": "0:18:49",
     "pace": 9.408067344791302,
-    "title": "00:18:49 Treadmill, Run",
-    "notes": ""
+    "title": "00:18:49 Treadmill, Run"
   },
   {
     "id": 4192335115,
@@ -6684,8 +6434,7 @@
     "distance": 3.1000208780720593,
     "duration": "0:29:21",
     "pace": 9.467843275679492,
-    "title": "00:29:21 Treadmill, Run",
-    "notes": ""
+    "title": "00:29:21 Treadmill, Run"
   },
   {
     "id": 4192331603,
@@ -6728,8 +6477,7 @@
     "distance": 3.1000208780720593,
     "duration": "0:30:03",
     "pace": 9.693675460787857,
-    "title": "00:30:03 Treadmill, Run",
-    "notes": ""
+    "title": "00:30:03 Treadmill, Run"
   },
   {
     "id": 4192325310,
@@ -6750,8 +6498,7 @@
     "distance": 3.594321661496858,
     "duration": "0:34:11",
     "pace": 9.511489361702129,
-    "title": "Ran 3.6 mi on 01/08/19",
-    "notes": null
+    "title": "Ran 3.6 mi on 01/08/19"
   },
   {
     "id": 4192321751,
@@ -6772,8 +6519,7 @@
     "distance": 3.098405312972242,
     "duration": "0:28:36",
     "pace": 9.230006882312457,
-    "title": "Ran 3.1 mi on 01/05/19",
-    "notes": null
+    "title": "Ran 3.1 mi on 01/05/19"
   },
   {
     "id": 4192317973,
@@ -6805,8 +6551,7 @@
     "distance": 4.008030601288476,
     "duration": "0:38:08",
     "pace": 9.514863426747073,
-    "title": "Ran 4.01 mi on 12/31/18",
-    "notes": null
+    "title": "Ran 4.01 mi on 12/31/18"
   },
   {
     "id": 4192312294,
@@ -6816,8 +6561,7 @@
     "distance": 4.0067878589040005,
     "duration": "0:37:48",
     "pace": 9.43454097784031,
-    "title": "Ran 4.01 mi on 12/29/18",
-    "notes": null
+    "title": "Ran 4.01 mi on 12/29/18"
   },
   {
     "id": 4192310483,
@@ -6827,8 +6571,7 @@
     "distance": 2.129501212916567,
     "duration": "0:22:17",
     "pace": 10.465236051502146,
-    "title": "Ran 2.13 mi on 12/28/18",
-    "notes": null
+    "title": "Ran 2.13 mi on 12/28/18"
   },
   {
     "id": 4192308816,
@@ -6882,8 +6625,7 @@
     "distance": 4.426710510617991,
     "duration": "0:41:38",
     "pace": 9.404768583450211,
-    "title": "Ran 4.43 mi on 12/21/18",
-    "notes": null
+    "title": "Ran 4.43 mi on 12/21/18"
   },
   {
     "id": 4192300158,
@@ -7069,8 +6811,7 @@
     "distance": 3.2553636761313927,
     "duration": "0:29:34",
     "pace": 9.083101930240433,
-    "title": "Ran 3.26 mi on 11/29/18",
-    "notes": null
+    "title": "Ran 3.26 mi on 11/29/18"
   },
   {
     "id": 4192274814,
@@ -7091,8 +6832,7 @@
     "distance": 3.1499791219279407,
     "duration": "0:31:50",
     "pace": 10.106405425772419,
-    "title": "00:31:50 Treadmill, Run",
-    "notes": ""
+    "title": "00:31:50 Treadmill, Run"
   },
   {
     "id": 4192272319,
@@ -7146,8 +6886,7 @@
     "distance": 0.6193206673029508,
     "duration": "0:05:40",
     "pace": 9.151279426816785,
-    "title": "Ran 0.62 mi on 11/19/18",
-    "notes": null
+    "title": "Ran 0.62 mi on 11/19/18"
   },
   {
     "id": 4192264036,
@@ -7201,8 +6940,7 @@
     "distance": 4.182760180545613,
     "duration": "0:39:26",
     "pace": 9.427908611599296,
-    "title": "Ran 4.18 mi on 11/12/18",
-    "notes": null
+    "title": "Ran 4.18 mi on 11/12/18"
   },
   {
     "id": 4222836272,
@@ -7322,8 +7060,7 @@
     "distance": 4.136033066889366,
     "duration": "0:38:54",
     "pace": 9.404768583450211,
-    "title": "Ran 4.14 mi on 10/29/18",
-    "notes": null
+    "title": "Ran 4.14 mi on 10/29/18"
   },
   {
     "id": 4191369064,
@@ -7399,8 +7136,7 @@
     "distance": 3.1015743060526524,
     "duration": "0:28:48",
     "pace": 9.284319833852544,
-    "title": "Ran 3.1 mi on 10/19/18",
-    "notes": null
+    "title": "Ran 3.1 mi on 10/19/18"
   },
   {
     "id": 4191336758,
@@ -7410,8 +7146,7 @@
     "distance": 0.6777916964924838,
     "duration": "0:06:06",
     "pace": 9.000805369127518,
-    "title": "Ran 0.68 mi on 10/18/18",
-    "notes": null
+    "title": "Ran 0.68 mi on 10/18/18"
   },
   {
     "id": 4191332180,
@@ -7597,8 +7332,7 @@
     "distance": 8.031471208144437,
     "duration": "1:19:32",
     "pace": 9.901218161683277,
-    "title": "Ran 8.03 mi",
-    "notes": ""
+    "title": "Ran 8.03 mi"
   },
   {
     "id": 4191258499,
@@ -7619,8 +7353,7 @@
     "distance": 1.1136835878469735,
     "duration": "0:11:58",
     "pace": 10.746153846153845,
-    "title": "Ran 1.11 mi on 09/23/18",
-    "notes": null
+    "title": "Ran 1.11 mi on 09/23/18"
   },
   {
     "id": 4191249305,
@@ -7641,8 +7374,7 @@
     "distance": 3.0229708502346297,
     "duration": "0:27:48",
     "pace": 9.195200548508742,
-    "title": "3.02mi Run",
-    "notes": null
+    "title": "3.02mi Run"
   },
   {
     "id": 4191240476,
@@ -7674,8 +7406,7 @@
     "distance": 3.0088035870516183,
     "duration": "0:28:29",
     "pace": 9.467843275679492,
-    "title": "Afternoon Run",
-    "notes": null
+    "title": "Afternoon Run"
   },
   {
     "id": 4191227247,
@@ -7751,8 +7482,7 @@
     "distance": 3.10070438638352,
     "duration": "0:29:58",
     "pace": 9.66572972972973,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4191196919,
@@ -7806,8 +7536,7 @@
     "distance": 3.020796051061799,
     "duration": "0:29:51",
     "pace": 9.882977155490051,
-    "title": "3.02mi Run",
-    "notes": null
+    "title": "3.02mi Run"
   },
   {
     "id": 4191175564,
@@ -7817,8 +7546,7 @@
     "distance": 4.048481865903125,
     "duration": "0:39:57",
     "pace": 9.868432671081678,
-    "title": "Ran 4.05 mi on 08/24/18",
-    "notes": null
+    "title": "Ran 4.05 mi on 08/24/18"
   },
   {
     "id": 4191170860,
@@ -7839,8 +7567,7 @@
     "distance": 3.1054268074445237,
     "duration": "0:30:33",
     "pace": 9.835863586358636,
-    "title": "Ran 3.1 mi on 08/20/18",
-    "notes": null
+    "title": "Ran 3.1 mi on 08/20/18"
   },
   {
     "id": 4200503945,
@@ -7916,8 +7643,7 @@
     "distance": 4.11080539648453,
     "duration": "0:39:33",
     "pace": 9.620659971305596,
-    "title": "Ran 4.11 mi on 08/09/18",
-    "notes": null
+    "title": "Ran 4.11 mi on 08/09/18"
   },
   {
     "id": 4191130344,
@@ -7927,8 +7653,7 @@
     "distance": 3.0396235981865902,
     "duration": "0:30:00",
     "pace": 9.868432671081678,
-    "title": "Ran 3.04 mi on 08/07/18",
-    "notes": null
+    "title": "Ran 3.04 mi on 08/07/18"
   },
   {
     "id": 4191125876,
@@ -7938,8 +7663,7 @@
     "distance": 3.0117240316551337,
     "duration": "0:30:20",
     "pace": 10.072249342846414,
-    "title": "Ran 3.01 mi on 08/05/18",
-    "notes": null
+    "title": "Ran 3.01 mi on 08/05/18"
   },
   {
     "id": 4191121678,
@@ -7949,8 +7673,7 @@
     "distance": 8.040418953312653,
     "duration": "1:21:12",
     "pace": 10.098795180722892,
-    "title": "Ran 8.04 mi on 08/04/18",
-    "notes": null
+    "title": "Ran 8.04 mi on 08/04/18"
   },
   {
     "id": 4191116826,
@@ -7960,8 +7683,7 @@
     "distance": 4.511403404119939,
     "duration": "0:42:13",
     "pace": 9.358827634333565,
-    "title": "Ran 4.51 mi on 08/02/18",
-    "notes": null
+    "title": "Ran 4.51 mi on 08/02/18"
   },
   {
     "id": 4191111987,
@@ -7971,8 +7693,7 @@
     "distance": 4.017226894933588,
     "duration": "0:38:04",
     "pace": 9.47453196750265,
-    "title": "Ran 4.02 mi on 07/31/18",
-    "notes": null
+    "title": "Ran 4.02 mi on 07/31/18"
   },
   {
     "id": 4191107273,
@@ -7982,8 +7703,7 @@
     "distance": 4.036800087489064,
     "duration": "0:39:14",
     "pace": 9.718260869565217,
-    "title": "Ran 4.04 mi on 07/29/18",
-    "notes": null
+    "title": "Ran 4.04 mi on 07/29/18"
   },
   {
     "id": 4191102814,
@@ -7993,8 +7713,7 @@
     "distance": 6.195505746440786,
     "duration": "0:57:04",
     "pace": 9.210989010989012,
-    "title": "Ran 6.2 mi on 07/27/18",
-    "notes": null
+    "title": "Ran 6.2 mi on 07/27/18"
   },
   {
     "id": 4191097880,
@@ -8004,8 +7723,7 @@
     "distance": 0.5338821283703173,
     "duration": "0:04:49",
     "pace": 9.02199798183653,
-    "title": "Ran 0.53 mi on 07/25/18",
-    "notes": null
+    "title": "Ran 0.53 mi on 07/25/18"
   },
   {
     "id": 4191093233,
@@ -8015,8 +7733,7 @@
     "distance": 3.038815815636682,
     "duration": "0:29:25",
     "pace": 9.679682425117287,
-    "title": "Ran 3.04 mi on 07/25/18",
-    "notes": null
+    "title": "Ran 3.04 mi on 07/25/18"
   },
   {
     "id": 4191088143,
@@ -8026,8 +7743,7 @@
     "distance": 4.072839616638829,
     "duration": "0:39:36",
     "pace": 9.721783254802466,
-    "title": "Ran 4.07 mi on 07/24/18",
-    "notes": null
+    "title": "Ran 4.07 mi on 07/24/18"
   },
   {
     "id": 4191082952,
@@ -8037,8 +7753,7 @@
     "distance": 4.00660144754633,
     "duration": "0:37:39",
     "pace": 9.398177995795374,
-    "title": "Ran 4.01 mi on 07/22/18",
-    "notes": null
+    "title": "Ran 4.01 mi on 07/22/18"
   },
   {
     "id": 4191077256,
@@ -8048,8 +7763,7 @@
     "distance": 3.0787699832975424,
     "duration": "0:30:52",
     "pace": 10.02706542056075,
-    "title": "Ran 3.1 mi on 07/21/18",
-    "notes": null
+    "title": "Ran 3.1 mi on 07/21/18"
   },
   {
     "id": 4191072439,
@@ -8059,8 +7773,7 @@
     "distance": 4.257200449375646,
     "duration": "0:40:00",
     "pace": 9.394886164623468,
-    "title": "Ran 4.26 mi on 07/19/18",
-    "notes": null
+    "title": "Ran 4.26 mi on 07/19/18"
   },
   {
     "id": 4191067585,
@@ -8070,8 +7783,7 @@
     "distance": 5.009494551817387,
     "duration": "0:47:21",
     "pace": 9.451162790697673,
-    "title": "Ran 5.01 mi on 07/17/18",
-    "notes": null
+    "title": "Ran 5.01 mi on 07/17/18"
   },
   {
     "id": 4191062107,
@@ -8081,8 +7793,7 @@
     "distance": 3.1006422492642964,
     "duration": "0:29:07",
     "pace": 9.391596638655463,
-    "title": "Ran 3.1 mi on 07/15/18",
-    "notes": null
+    "title": "Ran 3.1 mi on 07/15/18"
   },
   {
     "id": 4191056627,
@@ -8092,8 +7803,7 @@
     "distance": 4.466291855563509,
     "duration": "0:39:55",
     "pace": 8.937820726424524,
-    "title": "Ran 4.14 mi on 07/13/18",
-    "notes": null
+    "title": "Ran 4.14 mi on 07/13/18"
   },
   {
     "id": 4191051429,
@@ -8103,8 +7813,7 @@
     "distance": 4.107263580688778,
     "duration": "0:39:07",
     "pace": 9.525,
-    "title": "4.01mi Run",
-    "notes": null
+    "title": "4.01mi Run"
   },
   {
     "id": 4191046495,
@@ -8114,8 +7823,7 @@
     "distance": 4.011572417084228,
     "duration": "0:36:14",
     "pace": 9.03111111111111,
-    "title": "Ran 4.01 mi on 07/09/18",
-    "notes": null
+    "title": "Ran 4.01 mi on 07/09/18"
   },
   {
     "id": 4191041266,
@@ -8125,8 +7833,7 @@
     "distance": 3.2515111747395213,
     "duration": "0:32:57",
     "pace": 10.133131847374386,
-    "title": "Ran 3.25 mi on 07/07/18",
-    "notes": null
+    "title": "Ran 3.25 mi on 07/07/18"
   },
   {
     "id": 4191036309,
@@ -8136,8 +7843,7 @@
     "distance": 2.2473753280839897,
     "duration": "0:21:25",
     "pace": 9.528383658969805,
-    "title": "Ran 2.24 mi on 07/05/18",
-    "notes": null
+    "title": "Ran 2.24 mi on 07/05/18"
   },
   {
     "id": 4191031739,
@@ -8147,8 +7853,7 @@
     "distance": 4.011386005726557,
     "duration": "0:37:47",
     "pace": 9.417977528089889,
-    "title": "Ran 4.01 mi on 07/03/18",
-    "notes": null
+    "title": "Ran 4.01 mi on 07/03/18"
   },
   {
     "id": 4191027012,
@@ -8158,8 +7863,7 @@
     "distance": 4.5099121132585696,
     "duration": "0:41:53",
     "pace": 9.28753462603878,
-    "title": "Ran 4.51 mi on 07/01/18",
-    "notes": null
+    "title": "Ran 4.51 mi on 07/01/18"
   },
   {
     "id": 4191022091,
@@ -8169,8 +7873,7 @@
     "distance": 4.019650242583313,
     "duration": "0:38:10",
     "pace": 9.494654867256635,
-    "title": "Ran 4.02 mi on 06/29/18",
-    "notes": null
+    "title": "Ran 4.02 mi on 06/29/18"
   },
   {
     "id": 4191017130,
@@ -8180,8 +7883,7 @@
     "distance": 4.006166487711763,
     "duration": "0:38:55",
     "pace": 9.714741035856573,
-    "title": "Ran 4.01 mi on 06/27/18",
-    "notes": null
+    "title": "Ran 4.01 mi on 06/27/18"
   },
   {
     "id": 4191012190,
@@ -8191,8 +7893,7 @@
     "distance": 3.008741449932395,
     "duration": "0:28:27",
     "pace": 9.454494183997179,
-    "title": "Ran 3.01 mi on 06/25/18",
-    "notes": null
+    "title": "Ran 3.01 mi on 06/25/18"
   },
   {
     "id": 4191007207,
@@ -8202,8 +7903,7 @@
     "distance": 3.7807951562872826,
     "duration": "0:39:03",
     "pace": 10.328224874855602,
-    "title": "Ran 3.78 mi on 06/23/18",
-    "notes": null
+    "title": "Ran 3.78 mi on 06/23/18"
   },
   {
     "id": 4191002513,
@@ -8213,8 +7913,7 @@
     "distance": 6.0991310745247755,
     "duration": "0:58:31",
     "pace": 9.5931330472103,
-    "title": "Ran 6.1 mi on 06/21/18",
-    "notes": null
+    "title": "Ran 6.1 mi on 06/21/18"
   },
   {
     "id": 4190997352,
@@ -8224,8 +7923,7 @@
     "distance": 4.180088284418993,
     "duration": "0:40:06",
     "pace": 9.5931330472103,
-    "title": "Ran 4.18 mi on 06/19/18",
-    "notes": null
+    "title": "Ran 4.18 mi on 06/19/18"
   },
   {
     "id": 4190992293,
@@ -8235,8 +7933,7 @@
     "distance": 3.008679312813171,
     "duration": "0:29:33",
     "pace": 9.821457341633101,
-    "title": "Ran 3.01 mi on 06/17/18",
-    "notes": null
+    "title": "Ran 3.01 mi on 06/17/18"
   },
   {
     "id": 4190987374,
@@ -8246,8 +7943,7 @@
     "distance": 4.031766980831941,
     "duration": "0:39:55",
     "pace": 9.901218161683277,
-    "title": "Ran 4.03 mi on 06/15/18",
-    "notes": null
+    "title": "Ran 4.03 mi on 06/15/18"
   },
   {
     "id": 4190982140,
@@ -8257,8 +7953,7 @@
     "distance": 5.057775093454227,
     "duration": "0:49:37",
     "pace": 9.810680321872713,
-    "title": "Ran 5.06 mi on 06/13/18",
-    "notes": null
+    "title": "Ran 5.06 mi on 06/13/18"
   },
   {
     "id": 4190976760,
@@ -8268,8 +7963,7 @@
     "distance": 3.105178258967629,
     "duration": "0:30:57",
     "pace": 9.967447045707916,
-    "title": "Ran 3.1 mi on 06/11/18",
-    "notes": null
+    "title": "Ran 3.1 mi on 06/11/18"
   },
   {
     "id": 4190971690,
@@ -8279,8 +7973,7 @@
     "distance": 3.0314214984490575,
     "duration": "0:32:17",
     "pace": 10.648034934497815,
-    "title": "Ran 3.03 mi on 06/09/18",
-    "notes": null
+    "title": "Ran 3.03 mi on 06/09/18"
   },
   {
     "id": 4190966389,
@@ -8290,8 +7983,7 @@
     "distance": 4.012318062514913,
     "duration": "0:40:00",
     "pace": 9.967447045707916,
-    "title": "Ran 4.01 mi on 06/07/18",
-    "notes": null
+    "title": "Ran 4.01 mi on 06/07/18"
   },
   {
     "id": 4190961128,
@@ -8301,8 +7993,7 @@
     "distance": 3.9994556788356,
     "duration": "0:40:02",
     "pace": 10.008358208955222,
-    "title": "Ran 4.0 mi on 06/05/18",
-    "notes": null
+    "title": "Ran 4.0 mi on 06/05/18"
   },
   {
     "id": 4190955646,
@@ -8312,8 +8003,7 @@
     "distance": 3.1082229778095916,
     "duration": "0:28:07",
     "pace": 9.046340640809444,
-    "title": "Ran 3.11 mi on 06/03/18",
-    "notes": null
+    "title": "Ran 3.11 mi on 06/03/18"
   },
   {
     "id": 4190950484,
@@ -8323,8 +8013,7 @@
     "distance": 4.998993378668575,
     "duration": "0:48:33",
     "pace": 9.711223750905141,
-    "title": "Ran 5.0 mi on 06/01/18",
-    "notes": null
+    "title": "Ran 5.0 mi on 06/01/18"
   },
   {
     "id": 4190945184,
@@ -8334,8 +8023,7 @@
     "distance": 4.036800087489064,
     "duration": "0:40:54",
     "pace": 10.133131847374386,
-    "title": "Ran 4.04 mi on 05/30/18",
-    "notes": null
+    "title": "Ran 4.04 mi on 05/30/18"
   },
   {
     "id": 4190939805,
@@ -8345,8 +8033,7 @@
     "distance": 2.8187882764654417,
     "duration": "0:31:56",
     "pace": 11.327027027027027,
-    "title": "Ran 2.82 mi on 05/28/18",
-    "notes": null
+    "title": "Ran 2.82 mi on 05/28/18"
   },
   {
     "id": 4190934031,
@@ -8356,8 +8043,7 @@
     "distance": 0.6155924401495267,
     "duration": "0:06:31",
     "pace": 10.585003946329914,
-    "title": "Ran 0.61 mi on 05/25/18",
-    "notes": null
+    "title": "Ran 0.61 mi on 05/25/18"
   },
   {
     "id": 4190928636,
@@ -8367,8 +8053,7 @@
     "distance": 4.317908414857234,
     "duration": "0:44:50",
     "pace": 10.384204413472705,
-    "title": "Ran 4.32 mi on 05/25/18",
-    "notes": null
+    "title": "Ran 4.32 mi on 05/25/18"
   },
   {
     "id": 4190923331,
@@ -8378,8 +8063,7 @@
     "distance": 3.00799580450171,
     "duration": "0:31:20",
     "pace": 10.416466019417474,
-    "title": "Ran 3.01 mi on 05/23/18",
-    "notes": null
+    "title": "Ran 3.01 mi on 05/23/18"
   },
   {
     "id": 4190917862,
@@ -8389,8 +8073,7 @@
     "distance": 6.200476715978684,
     "duration": "1:04:13",
     "pace": 10.356138996138997,
-    "title": "Ran 6.2 mi on 05/21/18",
-    "notes": null
+    "title": "Ran 6.2 mi on 05/21/18"
   },
   {
     "id": 4190912636,
@@ -8400,8 +8083,7 @@
     "distance": 5.499445736896524,
     "duration": "1:01:10",
     "pace": 11.12039800995025,
-    "title": "Ran 5.5 mi on 05/19/18",
-    "notes": null
+    "title": "Ran 5.5 mi on 05/19/18"
   },
   {
     "id": 4190907028,
@@ -8411,8 +8093,7 @@
     "distance": 4.7686510777061955,
     "duration": "0:50:54",
     "pace": 10.673458018304816,
-    "title": "Ran 4.77 mi on 05/17/18",
-    "notes": null
+    "title": "Ran 4.77 mi on 05/17/18"
   },
   {
     "id": 4190900975,
@@ -8422,8 +8103,7 @@
     "distance": 4.264719040801718,
     "duration": "0:45:00",
     "pace": 10.551691581431944,
-    "title": "Ran 4.26 mi on 05/15/18",
-    "notes": null
+    "title": "Ran 4.26 mi on 05/15/18"
   },
   {
     "id": 4190894936,
@@ -8433,8 +8113,7 @@
     "distance": 3.4458760836713593,
     "duration": "0:37:51",
     "pace": 10.983783783783784,
-    "title": "Ran 3.45 mi on 05/14/18",
-    "notes": null
+    "title": "Ran 3.45 mi on 05/14/18"
   },
   {
     "id": 4190888848,
@@ -8444,8 +8123,7 @@
     "distance": 5.117675276385906,
     "duration": "0:54:45",
     "pace": 10.69900279218189,
-    "title": "Ran 5.12 mi on 05/11/18",
-    "notes": null
+    "title": "Ran 5.12 mi on 05/11/18"
   },
   {
     "id": 4190882779,
@@ -8455,8 +8133,7 @@
     "distance": 5.284202755905512,
     "duration": "0:55:46",
     "pace": 10.551691581431944,
-    "title": "Ran 5.28 mi on 05/09/18",
-    "notes": null
+    "title": "Ran 5.28 mi on 05/09/18"
   },
   {
     "id": 4190876571,
@@ -8466,8 +8143,7 @@
     "distance": 5.25704883480474,
     "duration": "0:56:14",
     "pace": 10.694736842105263,
-    "title": "Ran 5.26 mi on 05/07/18",
-    "notes": null
+    "title": "Ran 5.26 mi on 05/07/18"
   },
   {
     "id": 4190870216,
@@ -8477,8 +8153,7 @@
     "distance": 4.899636125029826,
     "duration": "0:50:22",
     "pace": 10.280720582598697,
-    "title": "Ran 4.9 mi on 05/04/18",
-    "notes": null
+    "title": "Ran 4.9 mi on 05/04/18"
   },
   {
     "id": 4190864229,
@@ -8488,8 +8163,7 @@
     "distance": 5.122646245923805,
     "duration": "0:52:37",
     "pace": 10.27284565300651,
-    "title": "Ran 5.13 mi on 05/02/18",
-    "notes": null
+    "title": "Ran 5.13 mi on 05/02/18"
   },
   {
     "id": 4190858335,
@@ -8499,8 +8173,7 @@
     "distance": 5.001354589199077,
     "duration": "0:54:26",
     "pace": 10.885714285714286,
-    "title": "Ran 5.0 mi on 04/30/18",
-    "notes": null
+    "title": "Ran 5.0 mi on 04/30/18"
   },
   {
     "id": 4190852194,
@@ -8510,8 +8183,7 @@
     "distance": 4.53321353296747,
     "duration": "0:48:40",
     "pace": 10.737550040032025,
-    "title": "Ran 4.53 mi on 04/28/18",
-    "notes": null
+    "title": "Ran 4.53 mi on 04/28/18"
   },
   {
     "id": 4190845845,
@@ -8521,8 +8193,7 @@
     "distance": 4.3407127376123436,
     "duration": "0:46:18",
     "pace": 10.66497017892644,
-    "title": "Ran 4.34 mi on 04/26/18",
-    "notes": null
+    "title": "Ran 4.34 mi on 04/26/18"
   },
   {
     "id": 4190839475,
@@ -8532,8 +8203,7 @@
     "distance": 3.8766727312495024,
     "duration": "0:42:42",
     "pace": 11.015359342915811,
-    "title": "Ran 3.88 mi on 04/24/18",
-    "notes": null
+    "title": "Ran 3.88 mi on 04/24/18"
   },
   {
     "id": 4190832827,
@@ -8543,8 +8213,7 @@
     "distance": 3.89643233516265,
     "duration": "0:43:58",
     "pace": 11.28413967185528,
-    "title": "Ran 3.9 mi on 04/20/18",
-    "notes": null
+    "title": "Ran 3.9 mi on 04/20/18"
   },
   {
     "id": 4190826133,
@@ -8554,8 +8223,7 @@
     "distance": 3.0125939513242663,
     "duration": "0:28:46",
     "pace": 9.548736205055178,
-    "title": "Ran 3.01 mi on 04/13/18",
-    "notes": null
+    "title": "Ran 3.01 mi on 04/13/18"
   },
   {
     "id": 4190819327,
@@ -8565,8 +8233,7 @@
     "distance": 2.7494432514117553,
     "duration": "0:28:13",
     "pace": 10.2610558530987,
-    "title": "Ran 2.75 mi on 04/11/18",
-    "notes": null
+    "title": "Ran 2.75 mi on 04/11/18"
   },
   {
     "id": 4190812791,
@@ -8576,8 +8243,7 @@
     "distance": 2.752798655849837,
     "duration": "0:27:55",
     "pace": 10.14079395085066,
-    "title": "Ran 2.75 mi on 04/09/18",
-    "notes": null
+    "title": "Ran 2.75 mi on 04/09/18"
   },
   {
     "id": 4190806773,
@@ -8587,8 +8253,7 @@
     "distance": 2.500584088920703,
     "duration": "0:25:10",
     "pace": 10.0646904315197,
-    "title": "Ran 2.51 mi on 04/04/18",
-    "notes": null
+    "title": "Ran 2.51 mi on 04/04/18"
   },
   {
     "id": 4190801987,
@@ -8598,8 +8263,7 @@
     "distance": 2.5079162689891037,
     "duration": "0:26:25",
     "pace": 10.535113904163396,
-    "title": "Ran 2.51 mi on 04/02/18",
-    "notes": null
+    "title": "Ran 2.51 mi on 04/02/18"
   },
   {
     "id": 4190797000,
@@ -8609,8 +8273,7 @@
     "distance": 2.2622260995784615,
     "duration": "0:23:27",
     "pace": 10.364142194744977,
-    "title": "Ran 2.26 mi on 03/30/18",
-    "notes": null
+    "title": "Ran 2.26 mi on 03/30/18"
   },
   {
     "id": 4190791265,
@@ -8620,8 +8283,7 @@
     "distance": 1.0169982303348446,
     "duration": "0:10:34",
     "pace": 10.388226181254842,
-    "title": "Ran 1.02 mi on 03/29/18",
-    "notes": null
+    "title": "Ran 1.02 mi on 03/29/18"
   },
   {
     "id": 4190784899,
@@ -8631,8 +8293,7 @@
     "distance": 1.1285343593414459,
     "duration": "0:10:51",
     "pace": 9.613763440860215,
-    "title": "Ran 1.13 mi on 03/29/18",
-    "notes": null
+    "title": "Ran 1.13 mi on 03/29/18"
   },
   {
     "id": 4190778096,
@@ -8642,8 +8303,7 @@
     "distance": 2.218295156287282,
     "duration": "0:27:03",
     "pace": 12.192,
-    "title": "Ran 2.22 mi on 3/26/18",
-    "notes": null
+    "title": "Ran 2.22 mi on 3/26/18"
   },
   {
     "id": 4190771002,
@@ -8653,8 +8313,7 @@
     "distance": 2.0114406863914738,
     "duration": "0:21:17",
     "pace": 10.580828402366864,
-    "title": "Ran 2.01 mi on 3/22/18",
-    "notes": null
+    "title": "Ran 2.01 mi on 3/22/18"
   },
   {
     "id": 4190764131,
@@ -8664,8 +8323,7 @@
     "distance": 1.0085475821204166,
     "duration": "0:10:42",
     "pace": 10.61012658227848,
-    "title": "Ran 1.01 mi on 3/20/18",
-    "notes": null
+    "title": "Ran 1.01 mi on 3/20/18"
   },
   {
     "id": 4190757067,
@@ -8675,8 +8333,7 @@
     "distance": 0.7544689016145709,
     "duration": "0:07:58",
     "pace": 10.56,
-    "title": "Ran 0.75 mi on 3/20/18",
-    "notes": null
+    "title": "Ran 0.75 mi on 3/20/18"
   },
   {
     "id": 4190750149,
@@ -8686,8 +8343,7 @@
     "distance": 1.9242001710013519,
     "duration": "0:25:17",
     "pace": 13.141793238608525,
-    "title": "Ran 1.91 mi on 3/17/18",
-    "notes": null
+    "title": "Ran 1.91 mi on 3/17/18"
   },
   {
     "id": 4190743488,
@@ -8697,8 +8353,37 @@
     "distance": 2.9133609719239644,
     "duration": "0:37:41",
     "pace": 12.932690453230473,
-    "title": "Ran 2.91 mi on 3/15/18",
-    "notes": null
+    "title": "Ran 2.91 mi on 3/15/18"
+  },
+  {
+    "id": 4253862155,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2020-10-28 10:59:41",
+    "distance": 5.006449832975424,
+    "duration": "0:44:27",
+    "pace": 8.878649453823238,
+    "title": "Morning Run"
+  },
+  {
+    "id": 4249495259,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2020-10-27 10:53:12",
+    "distance": 5.253009922055197,
+    "duration": "0:51:46",
+    "pace": 9.853930933137399,
+    "title": "Morning Run"
+  },
+  {
+    "id": 4248019956,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2020-10-26 23:08:34",
+    "distance": 5.202492444126302,
+    "duration": "0:47:01",
+    "pace": 9.037196765498653,
+    "title": "Evening Run"
   },
   {
     "id": 4236690360,
@@ -8708,8 +8393,7 @@
     "distance": 10.019175514992444,
     "duration": "1:33:39",
     "pace": 9.345783972125435,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4228168328,
@@ -8719,8 +8403,7 @@
     "distance": 5.182608565974708,
     "duration": "0:45:02",
     "pace": 8.688824101068999,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4223759888,
@@ -8730,8 +8413,7 @@
     "distance": 5.01222858506323,
     "duration": "0:43:45",
     "pace": 8.728408721119427,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4219566624,
@@ -8741,8 +8423,7 @@
     "distance": 0.834625785413187,
     "duration": "0:07:57",
     "pace": 9.525,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4219464329,
@@ -8752,8 +8433,7 @@
     "distance": 3.490676946631671,
     "duration": "0:32:25",
     "pace": 9.28753462603878,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4215511608,
@@ -8763,8 +8443,7 @@
     "distance": 5.351124433309472,
     "duration": "0:48:16",
     "pace": 9.018964357767317,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4206658150,
@@ -8774,8 +8453,7 @@
     "distance": 1.0527892110077148,
     "duration": "0:10:06",
     "pace": 9.5931330472103,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4206435176,
@@ -8785,8 +8463,7 @@
     "distance": 9.017897975821203,
     "duration": "1:20:00",
     "pace": 8.869841269841269,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4197796524,
@@ -8796,8 +8473,7 @@
     "distance": 5.2467340730136,
     "duration": "0:48:33",
     "pace": 9.25229389444636,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4193404098,
@@ -8807,8 +8483,7 @@
     "distance": 5.250400163047801,
     "duration": "0:47:35",
     "pace": 9.061621621621622,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4189084265,
@@ -8818,8 +8493,7 @@
     "distance": 5.276000656167978,
     "duration": "0:48:07",
     "pace": 9.120163209792588,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4184832261,
@@ -8829,8 +8503,7 @@
     "distance": 5.201311838861051,
     "duration": "0:47:52",
     "pace": 9.201509433962265,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4176300688,
@@ -8840,8 +8513,7 @@
     "distance": 9.999105225483177,
     "duration": "1:29:38",
     "pace": 8.964705882352941,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4171362950,
@@ -8851,8 +8523,7 @@
     "distance": 3.1261184681460272,
     "duration": "0:25:42",
     "pace": 8.220165491878639,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998083,
@@ -8862,8 +8533,7 @@
     "distance": 6.249440765926987,
     "duration": "0:54:59",
     "pace": 8.797113807805838,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169997948,
@@ -8873,8 +8543,7 @@
     "distance": 4.198108048993875,
     "duration": "0:37:41",
     "pace": 8.976706827309236,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998275,
@@ -8884,8 +8553,7 @@
     "distance": 5.249903066094011,
     "duration": "0:47:12",
     "pace": 8.991753268521622,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998400,
@@ -8895,8 +8563,7 @@
     "distance": 13.098815417959118,
     "duration": "1:57:23",
     "pace": 8.961710658202472,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169997962,
@@ -8906,8 +8573,7 @@
     "distance": 5.269103435934144,
     "duration": "0:48:12",
     "pace": 9.148158253751706,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998182,
@@ -8917,8 +8583,7 @@
     "distance": 5.200193370715024,
     "duration": "0:47:35",
     "pace": 9.151279426816785,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998145,
@@ -8928,8 +8593,7 @@
     "distance": 5.003653662610356,
     "duration": "0:46:09",
     "pace": 9.223658872077028,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998063,
@@ -8939,8 +8603,7 @@
     "distance": 5.196837966276942,
     "duration": "0:46:08",
     "pace": 8.878649453823238,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998049,
@@ -8950,8 +8613,7 @@
     "distance": 10.138727332378908,
     "duration": "1:33:11",
     "pace": 9.192049348869087,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998166,
@@ -8961,8 +8623,7 @@
     "distance": 5.517279090113736,
     "duration": "0:50:50",
     "pace": 9.214153211954654,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998033,
@@ -8972,8 +8633,7 @@
     "distance": 5.0042750338025925,
     "duration": "0:45:46",
     "pace": 9.145039209001023,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998262,
@@ -8983,8 +8643,7 @@
     "distance": 5.250089477451683,
     "duration": "0:48:07",
     "pace": 9.163785445848992,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998084,
@@ -8994,8 +8653,7 @@
     "distance": 5.099841923168694,
     "duration": "0:45:09",
     "pace": 8.852277227722773,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998094,
@@ -9005,8 +8663,7 @@
     "distance": 10.009917084228107,
     "duration": "1:28:34",
     "pace": 8.846437994722955,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998164,
@@ -9016,8 +8673,7 @@
     "distance": 3.006318102282669,
     "duration": "0:25:53",
     "pace": 8.610722311396469,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169997986,
@@ -9027,8 +8683,7 @@
     "distance": 5.005144953471725,
     "duration": "0:44:56",
     "pace": 8.976706827309236,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998036,
@@ -9038,8 +8693,7 @@
     "distance": 4.246015767915374,
     "duration": "0:37:02",
     "pace": 8.722731707317072,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998027,
@@ -9049,8 +8703,7 @@
     "distance": 3.004640400063628,
     "duration": "0:26:11",
     "pace": 8.714230019493177,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998090,
@@ -9060,8 +8713,7 @@
     "distance": 5.142778672552295,
     "duration": "0:45:34",
     "pace": 8.861050545094152,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998123,
@@ -9071,8 +8723,7 @@
     "distance": 4.248376978445876,
     "duration": "0:37:37",
     "pace": 8.855199735886432,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998241,
@@ -9082,8 +8733,7 @@
     "distance": 5.186088244651237,
     "duration": "0:46:45",
     "pace": 9.015932773109244,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998140,
@@ -9093,8 +8743,7 @@
     "distance": 3.000228664598743,
     "duration": "0:27:02",
     "pace": 9.009875713805846,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169997914,
@@ -9104,8 +8753,7 @@
     "distance": 2.1160795951642406,
     "duration": "0:18:24",
     "pace": 8.694457050243113,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169997995,
@@ -9115,8 +8763,7 @@
     "distance": 5.597933070866142,
     "duration": "0:50:03",
     "pace": 8.9408,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998249,
@@ -9126,8 +8773,7 @@
     "distance": 12.435688081603436,
     "duration": "1:55:41",
     "pace": 9.303642039542144,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169997963,
@@ -9137,8 +8783,7 @@
     "distance": 3.0060695538057742,
     "duration": "0:26:53",
     "pace": 8.94378126042014,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998158,
@@ -9148,8 +8793,7 @@
     "distance": 5.100649705718603,
     "duration": "0:46:09",
     "pace": 9.049392712550608,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998220,
@@ -9159,8 +8803,7 @@
     "distance": 3.3471402012248466,
     "duration": "0:30:22",
     "pace": 9.073883626522328,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998056,
@@ -9170,8 +8813,7 @@
     "distance": 3.350247057186033,
     "duration": "0:28:58",
     "pace": 8.646808510638298,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998285,
@@ -9181,8 +8823,7 @@
     "distance": 5.746005825976297,
     "duration": "0:50:53",
     "pace": 8.855199735886432,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169997983,
@@ -9192,8 +8833,7 @@
     "distance": 5.354666249105225,
     "duration": "0:47:25",
     "pace": 8.855199735886432,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998199,
@@ -9203,8 +8843,7 @@
     "distance": 3.111205559532331,
     "duration": "0:27:34",
     "pace": 8.861050545094152,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998160,
@@ -9214,8 +8853,7 @@
     "distance": 5.248784597947984,
     "duration": "0:46:13",
     "pace": 8.805778069599475,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998077,
@@ -9225,8 +8863,7 @@
     "distance": 2.9991101964527163,
     "duration": "0:25:58",
     "pace": 8.65797288573273,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998012,
@@ -9236,8 +8873,7 @@
     "distance": 3.515034697367374,
     "duration": "0:32:14",
     "pace": 9.170051282051283,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998043,
@@ -9247,8 +8883,7 @@
     "distance": 4.006663584665553,
     "duration": "0:34:59",
     "pace": 8.73125,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169997928,
@@ -9258,8 +8893,7 @@
     "distance": 3.3419206832100534,
     "duration": "0:29:55",
     "pace": 8.952736982643525,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998133,
@@ -9269,8 +8903,7 @@
     "distance": 5.998096118666985,
     "duration": "0:53:28",
     "pace": 8.91405782652044,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998079,
@@ -9280,8 +8913,7 @@
     "distance": 5.0040264853256975,
     "duration": "0:44:59",
     "pace": 8.988739946380697,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998006,
@@ -9291,8 +8923,7 @@
     "distance": 3.006318102282669,
     "duration": "0:26:29",
     "pace": 8.808669950738917,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169997984,
@@ -9302,8 +8933,7 @@
     "distance": 3.935143760439036,
     "duration": "0:35:33",
     "pace": 9.034152913438868,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998316,
@@ -9313,8 +8943,7 @@
     "distance": 8.396899606299213,
     "duration": "1:16:26",
     "pace": 9.10159484221242,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169997993,
@@ -9324,8 +8953,7 @@
     "distance": 2.7994014952676367,
     "duration": "0:25:45",
     "pace": 9.198353909465022,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998137,
@@ -9335,8 +8963,7 @@
     "distance": 3.4999353773960076,
     "duration": "0:31:49",
     "pace": 9.089257878685192,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169997973,
@@ -9346,8 +8973,7 @@
     "distance": 4.006166487711763,
     "duration": "0:37:36",
     "pace": 9.385024492652205,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998185,
@@ -9357,8 +8983,7 @@
     "distance": 3.5008052970651393,
     "duration": "0:30:25",
     "pace": 8.688824101068999,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169997897,
@@ -9368,8 +8993,7 @@
     "distance": 3.00650451364034,
     "duration": "0:26:23",
     "pace": 8.774092247301276,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169997977,
@@ -9379,8 +9003,7 @@
     "distance": 2.9991723335719396,
     "duration": "0:25:43",
     "pace": 8.574936061381074,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169997958,
@@ -9390,8 +9013,7 @@
     "distance": 4.998496281714786,
     "duration": "0:45:54",
     "pace": 9.182608695652174,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998015,
@@ -9401,8 +9023,7 @@
     "distance": 3.0015335441024416,
     "duration": "0:25:38",
     "pace": 8.539446036294173,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998259,
@@ -9412,8 +9033,7 @@
     "distance": 5.099531237572576,
     "duration": "0:46:16",
     "pace": 9.073883626522328,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998048,
@@ -9423,8 +9043,7 @@
     "distance": 5.153279845701105,
     "duration": "0:45:13",
     "pace": 8.774092247301276,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998032,
@@ -9434,8 +9053,7 @@
     "distance": 0.9262780362681937,
     "duration": "0:07:55",
     "pace": 8.547609942638623,
-    "title": "Afternoon Run",
-    "notes": null
+    "title": "Afternoon Run"
   },
   {
     "id": 4169998233,
@@ -9445,8 +9063,7 @@
     "distance": 4.246699276226835,
     "duration": "0:37:43",
     "pace": 8.881589403973509,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998122,
@@ -9456,8 +9073,7 @@
     "distance": 4.498975980275192,
     "duration": "0:40:22",
     "pace": 8.973703579792573,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169997965,
@@ -9467,8 +9083,7 @@
     "distance": 3.550825678040245,
     "duration": "0:31:25",
     "pace": 8.846437994722955,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998004,
@@ -9478,8 +9093,7 @@
     "distance": 5.7072944006999125,
     "duration": "0:49:04",
     "pace": 8.596923076923076,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998131,
@@ -9489,8 +9103,7 @@
     "distance": 5.225296766881412,
     "duration": "0:45:35",
     "pace": 8.722731707317072,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998007,
@@ -9500,8 +9113,7 @@
     "distance": 6.998193052572973,
     "duration": "1:04:54",
     "pace": 9.274688796680497,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998097,
@@ -9511,8 +9123,7 @@
     "distance": 3.5818321005328877,
     "duration": "0:31:27",
     "pace": 8.779836333878887,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998069,
@@ -9522,8 +9133,7 @@
     "distance": 5.099220551976457,
     "duration": "0:45:29",
     "pace": 8.919986697705353,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169997953,
@@ -9533,8 +9143,7 @@
     "distance": 3.0032733834407064,
     "duration": "0:25:30",
     "pace": 8.490788224121559,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169997954,
@@ -9544,8 +9153,7 @@
     "distance": 4.999863298337708,
     "duration": "0:44:27",
     "pace": 8.890420947961552,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998144,
@@ -9555,8 +9163,7 @@
     "distance": 5.25338274477054,
     "duration": "0:47:56",
     "pace": 9.123265306122448,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998047,
@@ -9566,8 +9173,7 @@
     "distance": 5.005517776187068,
     "duration": "0:44:06",
     "pace": 8.811563731931669,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998105,
@@ -9577,8 +9183,7 @@
     "distance": 1.008982541954983,
     "duration": "0:09:00",
     "pace": 8.919986697705353,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169997909,
@@ -9588,8 +9193,7 @@
     "distance": 1.1132486280124074,
     "duration": "0:09:00",
     "pace": 8.08390596745027,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998186,
@@ -9599,8 +9203,7 @@
     "distance": 4.1041567247275905,
     "duration": "0:36:13",
     "pace": 8.823157894736841,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169998078,
@@ -9610,8 +9213,7 @@
     "distance": 5.250835122882367,
     "duration": "0:47:46",
     "pace": 9.098507462686568,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4169997996,
@@ -9621,8 +9223,7 @@
     "distance": 3.0048268114212995,
     "duration": "0:26:03",
     "pace": 8.669166127989657,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4213028896,
@@ -9632,8 +9233,7 @@
     "distance": 2.601246222063151,
     "duration": "0:22:34",
     "pace": 8.674773609314359,
-    "title": "Ran 2.6 mi on 07/11/20",
-    "notes": null
+    "title": "Ran 2.6 mi on 07/11/20"
   },
   {
     "id": 4213021907,
@@ -9643,8 +9243,7 @@
     "distance": 5.248473912351865,
     "duration": "0:46:36",
     "pace": 8.878649453823238,
-    "title": "Ran 5.25 mi on 07/10/20",
-    "notes": null
+    "title": "Ran 5.25 mi on 07/10/20"
   },
   {
     "id": 4213015498,
@@ -9654,8 +9253,7 @@
     "distance": 5.653421518332935,
     "duration": "0:52:21",
     "pace": 9.258681394546082,
-    "title": "Ran 9100.9 mi on 07/08/20",
-    "notes": null
+    "title": "Ran 9100.9 mi on 07/08/20"
   },
   {
     "id": 4213009100,
@@ -9665,8 +9263,7 @@
     "distance": 5.005269227710173,
     "duration": "0:45:39",
     "pace": 9.120163209792588,
-    "title": "Ran 8055.2 mi on 07/07/20",
-    "notes": null
+    "title": "Ran 8055.2 mi on 07/07/20"
   },
   {
     "id": 4213002799,
@@ -9676,8 +9273,7 @@
     "distance": 3.0013471327447703,
     "duration": "0:26:26",
     "pace": 8.805778069599475,
-    "title": "Ran 3.0 mi on 07/06/20",
-    "notes": null
+    "title": "Ran 3.0 mi on 07/06/20"
   },
   {
     "id": 4212996299,
@@ -9687,8 +9283,7 @@
     "distance": 2.998426688141255,
     "duration": "0:26:13",
     "pace": 8.742633637548892,
-    "title": "Ran 3.0 mi on 07/03/20",
-    "notes": null
+    "title": "Ran 3.0 mi on 07/03/20"
   },
   {
     "id": 4212989955,
@@ -9698,8 +9293,7 @@
     "distance": 5.747248568360773,
     "duration": "0:51:07",
     "pace": 8.893368700265253,
-    "title": "Ran 5.75 mi on 07/02/20",
-    "notes": null
+    "title": "Ran 5.75 mi on 07/02/20"
   },
   {
     "id": 4212983099,
@@ -9709,8 +9303,7 @@
     "distance": 3.9988964447625865,
     "duration": "0:35:23",
     "pace": 8.849356647970966,
-    "title": "Ran 4.01 mi on 06/30/20",
-    "notes": null
+    "title": "Ran 4.01 mi on 06/30/20"
   },
   {
     "id": 4212976288,
@@ -9720,8 +9313,7 @@
     "distance": 3.0009121729102044,
     "duration": "0:25:46",
     "pace": 8.585915492957746,
-    "title": "Ran 3.0 mi on 06/26/20",
-    "notes": null
+    "title": "Ran 3.0 mi on 06/26/20"
   },
   {
     "id": 4212969585,
@@ -9731,8 +9323,7 @@
     "distance": 6.00250785413187,
     "duration": "0:51:48",
     "pace": 8.63011583011583,
-    "title": "Ran 6.0 mi on 06/25/20",
-    "notes": null
+    "title": "Ran 6.0 mi on 06/25/20"
   },
   {
     "id": 4212962744,
@@ -9742,8 +9333,7 @@
     "distance": 2.4759777897081046,
     "duration": "0:24:13",
     "pace": 9.782056892778995,
-    "title": "Ran 2.48 mi on 06/24/20",
-    "notes": null
+    "title": "Ran 2.48 mi on 06/24/20"
   },
   {
     "id": 4212956058,
@@ -9753,8 +9343,7 @@
     "distance": 4.102541159627774,
     "duration": "0:34:44",
     "pace": 8.466666666666665,
-    "title": "Ran 4.1 mi on 06/23/20",
-    "notes": null
+    "title": "Ran 4.1 mi on 06/23/20"
   },
   {
     "id": 4212951154,
@@ -9764,8 +9353,7 @@
     "distance": 3.0038326175137198,
     "duration": "0:25:45",
     "pace": 8.572195589645254,
-    "title": "Ran 3.01 mi on 06/22/20",
-    "notes": null
+    "title": "Ran 3.01 mi on 06/22/20"
   },
   {
     "id": 4212947019,
@@ -9775,8 +9363,7 @@
     "distance": 3.9890166428060128,
     "duration": "0:35:44",
     "pace": 8.958717434869738,
-    "title": "Ran 4.0 mi on 06/21/20",
-    "notes": null
+    "title": "Ran 4.0 mi on 06/21/20"
   },
   {
     "id": 4212942857,
@@ -9786,8 +9373,7 @@
     "distance": 3.004640400063628,
     "duration": "0:25:20",
     "pace": 8.432065388242691,
-    "title": "Ran 3.01 mi on 06/20/20",
-    "notes": null
+    "title": "Ran 3.01 mi on 06/20/20"
   },
   {
     "id": 4212937209,
@@ -9797,8 +9383,7 @@
     "distance": 3.4455032609560168,
     "duration": "0:30:40",
     "pace": 8.899270072992701,
-    "title": "Ran 3.45 mi on 06/18/20",
-    "notes": null
+    "title": "Ran 3.45 mi on 06/18/20"
   },
   {
     "id": 4212929979,
@@ -9808,8 +9393,7 @@
     "distance": 4.248687664041995,
     "duration": "0:37:18",
     "pace": 8.779836333878887,
-    "title": "Ran 4.25 mi on 06/17/20",
-    "notes": null
+    "title": "Ran 4.25 mi on 06/17/20"
   },
   {
     "id": 4212922814,
@@ -9819,8 +9403,7 @@
     "distance": 5.025090968742544,
     "duration": "0:44:04",
     "pace": 8.768355671788164,
-    "title": "Ran 5.03 mi on 06/15/20",
-    "notes": null
+    "title": "Ran 5.03 mi on 06/15/20"
   },
   {
     "id": 4212915641,
@@ -9830,8 +9413,7 @@
     "distance": 5.137186331822158,
     "duration": "0:45:25",
     "pace": 8.840606460118655,
-    "title": "Ran 5.14 mi on 06/14/20",
-    "notes": null
+    "title": "Ran 5.14 mi on 06/14/20"
   },
   {
     "id": 4212908462,
@@ -9841,8 +9423,7 @@
     "distance": 2.7255825976298413,
     "duration": "0:23:26",
     "pace": 8.596923076923076,
-    "title": "Ran 2.73 mi on 06/12/20",
-    "notes": null
+    "title": "Ran 2.73 mi on 06/12/20"
   },
   {
     "id": 4212901312,
@@ -9852,8 +9433,7 @@
     "distance": 5.7446388093533765,
     "duration": "0:50:55",
     "pace": 8.863978849966953,
-    "title": "Ran 5.75 mi on 06/11/20",
-    "notes": null
+    "title": "Ran 5.75 mi on 06/11/20"
   },
   {
     "id": 4212893999,
@@ -9863,8 +9443,7 @@
     "distance": 1.08466555316949,
     "duration": "0:08:56",
     "pace": 8.235308566165182,
-    "title": "Ran 1.08 mi on 06/09/20",
-    "notes": null
+    "title": "Ran 1.08 mi on 06/09/20"
   },
   {
     "id": 4201177282,
@@ -9874,8 +9453,7 @@
     "distance": 3.396912033723057,
     "duration": "0:29:41",
     "pace": 8.736938110749186,
-    "title": "Ran 3.4 mi on 06/08/20",
-    "notes": null
+    "title": "Ran 3.4 mi on 06/08/20"
   },
   {
     "id": 4201174158,
@@ -9885,8 +9463,7 @@
     "distance": 5.003529388371907,
     "duration": "0:43:38",
     "pace": 8.719895968790638,
-    "title": "Ran 5.01 mi on 06/07/20",
-    "notes": null
+    "title": "Ran 5.01 mi on 06/07/20"
   },
   {
     "id": 4201171016,
@@ -9896,8 +9473,7 @@
     "distance": 5.1534041199395535,
     "duration": "0:43:52",
     "pace": 8.51234528721041,
-    "title": "Ran 5.16 mi on 06/05/20",
-    "notes": null
+    "title": "Ran 5.16 mi on 06/05/20"
   },
   {
     "id": 4201167936,
@@ -9907,8 +9483,7 @@
     "distance": 4.004799471088841,
     "duration": "0:35:34",
     "pace": 8.881589403973509,
-    "title": "Ran 4.01 mi on 06/03/20",
-    "notes": null
+    "title": "Ran 4.01 mi on 06/03/20"
   },
   {
     "id": 4201164855,
@@ -9918,8 +9493,7 @@
     "distance": 4.248625526922771,
     "duration": "0:36:09",
     "pace": 8.509644670050761,
-    "title": "Ran 4.25 mi on 06/02/20",
-    "notes": null
+    "title": "Ran 4.25 mi on 06/02/20"
   },
   {
     "id": 4201161718,
@@ -9929,8 +9503,7 @@
     "distance": 5.20578571144516,
     "duration": "0:44:41",
     "pace": 8.583168,
-    "title": "Ran 5.21 mi on 06/01/20",
-    "notes": null
+    "title": "Ran 5.21 mi on 06/01/20"
   },
   {
     "id": 4201158404,
@@ -9940,8 +9513,7 @@
     "distance": 7.65989123518651,
     "duration": "1:07:12",
     "pace": 8.774092247301276,
-    "title": "Ran 7.66 mi on 05/30/20",
-    "notes": null
+    "title": "Ran 7.66 mi on 05/30/20"
   },
   {
     "id": 4201155289,
@@ -9951,8 +9523,7 @@
     "distance": 2.002430804104032,
     "duration": "0:19:00",
     "pace": 9.487937743190662,
-    "title": "Ran 2.0 mi on 05/29/20",
-    "notes": null
+    "title": "Ran 2.0 mi on 05/29/20"
   },
   {
     "id": 4201151950,
@@ -9962,8 +9533,7 @@
     "distance": 3.0029626978445876,
     "duration": "0:25:33",
     "pace": 8.506945765937203,
-    "title": "Ran 3.01 mi on 05/28/20",
-    "notes": null
+    "title": "Ran 3.01 mi on 05/28/20"
   },
   {
     "id": 4201148568,
@@ -9973,8 +9543,7 @@
     "distance": 5.00023612105305,
     "duration": "0:44:22",
     "pace": 8.872775388686735,
-    "title": "Ran 5.0 mi on 05/27/20",
-    "notes": null
+    "title": "Ran 5.0 mi on 05/27/20"
   },
   {
     "id": 4201145158,
@@ -9984,8 +9553,7 @@
     "distance": 7.122405153901217,
     "duration": "1:02:56",
     "pace": 8.834782608695651,
-    "title": "Ran 7.12 mi on 05/25/20",
-    "notes": null
+    "title": "Ran 7.12 mi on 05/25/20"
   },
   {
     "id": 4201142039,
@@ -9995,8 +9563,7 @@
     "distance": 2.9973703571144514,
     "duration": "0:25:50",
     "pace": 8.619023136246787,
-    "title": "Ran 3.0 mi on 05/22/20",
-    "notes": null
+    "title": "Ran 3.0 mi on 05/22/20"
   },
   {
     "id": 4201138798,
@@ -10006,8 +9573,7 @@
     "distance": 3.0025277380100217,
     "duration": "0:24:02",
     "pace": 8.004297224709042,
-    "title": "Ran 3.0 mi on 05/21/20",
-    "notes": null
+    "title": "Ran 3.0 mi on 05/21/20"
   },
   {
     "id": 4201135546,
@@ -10017,8 +9583,7 @@
     "distance": 4.402104211405392,
     "duration": "0:38:39",
     "pace": 8.779836333878887,
-    "title": "Ran 4.4 mi on 05/20/20",
-    "notes": null
+    "title": "Ran 4.4 mi on 05/20/20"
   },
   {
     "id": 4201132306,
@@ -10028,8 +9593,7 @@
     "distance": 3.534483615684403,
     "duration": "0:29:44",
     "pace": 8.413550815558343,
-    "title": "Ran 3.54 mi on 05/19/20",
-    "notes": null
+    "title": "Ran 3.54 mi on 05/19/20"
   },
   {
     "id": 4201129169,
@@ -10039,8 +9603,7 @@
     "distance": 5.003840073968027,
     "duration": "0:43:35",
     "pace": 8.708571428571428,
-    "title": "Ran 5.01 mi on 05/18/20",
-    "notes": null
+    "title": "Ran 5.01 mi on 05/18/20"
   },
   {
     "id": 4201125671,
@@ -10050,8 +9613,7 @@
     "distance": 5.198577805615207,
     "duration": "0:43:52",
     "pace": 8.437370242214534,
-    "title": "Ran 5.2 mi on 05/15/20",
-    "notes": null
+    "title": "Ran 5.2 mi on 05/15/20"
   },
   {
     "id": 4201120985,
@@ -10061,8 +9623,7 @@
     "distance": 3.550825678040245,
     "duration": "0:30:25",
     "pace": 8.566719897796231,
-    "title": "Ran 3.55 mi on 05/14/20",
-    "notes": null
+    "title": "Ran 3.55 mi on 05/14/20"
   },
   {
     "id": 4201116840,
@@ -10072,8 +9633,7 @@
     "distance": 5.0030944285373415,
     "duration": "0:41:43",
     "pace": 8.337705937208579,
-    "title": "Ran 5.0 mi on 05/12/20",
-    "notes": null
+    "title": "Ran 5.0 mi on 05/12/20"
   },
   {
     "id": 4201113018,
@@ -10083,8 +9643,7 @@
     "distance": 7.499826016066173,
     "duration": "1:07:05",
     "pace": 8.94378126042014,
-    "title": "Ran 7.5 mi on 05/09/20",
-    "notes": null
+    "title": "Ran 7.5 mi on 05/09/20"
   },
   {
     "id": 4201109684,
@@ -10094,8 +9653,7 @@
     "distance": 2.0065939910920227,
     "duration": "0:18:09",
     "pace": 9.046340640809444,
-    "title": "Ran 2.01 mi on 05/07/20",
-    "notes": null
+    "title": "Ran 2.01 mi on 05/07/20"
   },
   {
     "id": 4201106633,
@@ -10105,8 +9663,7 @@
     "distance": 5.00390221108725,
     "duration": "0:42:59",
     "pace": 8.588664745437079,
-    "title": "Ran 5.01 mi on 05/06/20",
-    "notes": null
+    "title": "Ran 5.01 mi on 05/06/20"
   },
   {
     "id": 4201103393,
@@ -10116,8 +9673,7 @@
     "distance": 2.24488984331504,
     "duration": "0:22:40",
     "pace": 10.098795180722892,
-    "title": "Ran 2.24 mi on 05/03/20",
-    "notes": null
+    "title": "Ran 2.24 mi on 05/03/20"
   },
   {
     "id": 4201100118,
@@ -10127,8 +9683,7 @@
     "distance": 5.217343215620774,
     "duration": "0:44:24",
     "pace": 8.509644670050761,
-    "title": "Ran 5.22 mi on 04/30/20",
-    "notes": null
+    "title": "Ran 5.22 mi on 04/30/20"
   },
   {
     "id": 4201097064,
@@ -10138,8 +9693,7 @@
     "distance": 5.003280839895013,
     "duration": "0:42:53",
     "pace": 8.572195589645254,
-    "title": "Ran 5.0 mi on 04/28/20",
-    "notes": null
+    "title": "Ran 5.0 mi on 04/28/20"
   },
   {
     "id": 4201093910,
@@ -10149,8 +9703,7 @@
     "distance": 4.200220711047483,
     "duration": "0:36:32",
     "pace": 8.697276264591439,
-    "title": "Ran 4.2 mi on 04/24/20",
-    "notes": null
+    "title": "Ran 4.2 mi on 04/24/20"
   },
   {
     "id": 4201090872,
@@ -10160,8 +9713,7 @@
     "distance": 4.148771176330231,
     "duration": "0:36:33",
     "pace": 8.808669950738917,
-    "title": "Ran 4.15 mi on 04/23/20",
-    "notes": null
+    "title": "Ran 4.15 mi on 04/23/20"
   },
   {
     "id": 4201087787,
@@ -10171,8 +9723,7 @@
     "distance": 3.002652012248469,
     "duration": "0:26:31",
     "pace": 8.831873559433653,
-    "title": "Ran 3.0 mi on 04/21/20",
-    "notes": null
+    "title": "Ran 3.0 mi on 04/21/20"
   },
   {
     "id": 4201084733,
@@ -10182,8 +9733,7 @@
     "distance": 2.0063454426151277,
     "duration": "0:19:25",
     "pace": 9.676190476190477,
-    "title": "Ran 2.01 mi on 04/17/20",
-    "notes": null
+    "title": "Ran 2.01 mi on 04/17/20"
   },
   {
     "id": 4201081654,
@@ -10193,8 +9743,7 @@
     "distance": 5.410341107929691,
     "duration": "0:48:55",
     "pace": 9.040242669362993,
-    "title": "Ran 5.41 mi on 04/16/20",
-    "notes": null
+    "title": "Ran 5.41 mi on 04/16/20"
   },
   {
     "id": 4201078537,
@@ -10204,8 +9753,7 @@
     "distance": 3.0131531853972797,
     "duration": "0:26:28",
     "pace": 8.782711198428292,
-    "title": "Ran 3.01 mi on 04/13/20",
-    "notes": null
+    "title": "Ran 3.01 mi on 04/13/20"
   },
   {
     "id": 4201075461,
@@ -10215,8 +9763,7 @@
     "distance": 4.1570975503062115,
     "duration": "0:36:15",
     "pace": 8.719895968790638,
-    "title": "Ran 4.16 mi on 04/12/20",
-    "notes": null
+    "title": "Ran 4.16 mi on 04/12/20"
   },
   {
     "id": 4201072183,
@@ -10226,8 +9773,7 @@
     "distance": 5.175462797263979,
     "duration": "0:45:27",
     "pace": 8.782711198428292,
-    "title": "Ran 5.18 mi on 04/09/20",
-    "notes": null
+    "title": "Ran 5.18 mi on 04/09/20"
   },
   {
     "id": 4201069234,
@@ -10237,8 +9783,7 @@
     "distance": 3.4998732402767834,
     "duration": "0:32:10",
     "pace": 9.192049348869087,
-    "title": "Ran 3.5 mi on 04/06/20",
-    "notes": null
+    "title": "Ran 3.5 mi on 04/06/20"
   },
   {
     "id": 4201066498,
@@ -10248,8 +9793,7 @@
     "distance": 0.9976735862562633,
     "duration": "0:08:25",
     "pace": 8.437370242214534,
-    "title": "Ran 1.0 mi on 04/05/20",
-    "notes": null
+    "title": "Ran 1.0 mi on 04/05/20"
   },
   {
     "id": 4201063568,
@@ -10259,8 +9803,7 @@
     "distance": 10.001404298894457,
     "duration": "1:30:25",
     "pace": 9.040242669362993,
-    "title": "Ran 10.0 mi on 04/04/20",
-    "notes": null
+    "title": "Ran 10.0 mi on 04/04/20"
   },
   {
     "id": 4201060650,
@@ -10270,8 +9813,7 @@
     "distance": 3.0009121729102044,
     "duration": "0:27:21",
     "pace": 9.113965341488276,
-    "title": "Ran 3.01 mi on 04/03/20",
-    "notes": null
+    "title": "Ran 3.01 mi on 04/03/20"
   },
   {
     "id": 4201057720,
@@ -10281,8 +9823,7 @@
     "distance": 4.354817863676131,
     "duration": "0:38:28",
     "pace": 8.831873559433653,
-    "title": "Ran 4.36 mi on 04/01/20",
-    "notes": null
+    "title": "Ran 4.36 mi on 04/01/20"
   },
   {
     "id": 4201055151,
@@ -10292,8 +9833,7 @@
     "distance": 4.5314115565099815,
     "duration": "0:40:27",
     "pace": 8.925923460898503,
-    "title": "Ran 4.53 mi on 03/31/20",
-    "notes": null
+    "title": "Ran 4.53 mi on 03/31/20"
   },
   {
     "id": 4201052119,
@@ -10303,8 +9843,7 @@
     "distance": 1.1251168177841406,
     "duration": "0:11:20",
     "pace": 10.072249342846414,
-    "title": "Ran 1.13 mi on 03/30/20",
-    "notes": null
+    "title": "Ran 1.13 mi on 03/30/20"
   },
   {
     "id": 4201049380,
@@ -10314,8 +9853,7 @@
     "distance": 3.8996013282430604,
     "duration": "0:35:14",
     "pace": 9.034152913438868,
-    "title": "Ran 3.9 mi on 03/30/20",
-    "notes": null
+    "title": "Ran 3.9 mi on 03/30/20"
   },
   {
     "id": 4201046562,
@@ -10325,8 +9863,7 @@
     "distance": 8.271320488348048,
     "duration": "1:17:51",
     "pace": 9.41136842105263,
-    "title": "Ran 8.27 mi on 03/28/20",
-    "notes": null
+    "title": "Ran 8.27 mi on 03/28/20"
   },
   {
     "id": 4201043766,
@@ -10336,8 +9873,7 @@
     "distance": 4.197300266443967,
     "duration": "0:39:11",
     "pace": 9.336025060911938,
-    "title": "Ran 4.2 mi on 03/26/20",
-    "notes": null
+    "title": "Ran 4.2 mi on 03/26/20"
   },
   {
     "id": 4201040917,
@@ -10347,8 +9883,7 @@
     "distance": 2.170076751769665,
     "duration": "0:21:57",
     "pace": 10.114027149321267,
-    "title": "Ran 2.17 mi on 03/25/20",
-    "notes": null
+    "title": "Ran 2.17 mi on 03/25/20"
   },
   {
     "id": 4201038154,
@@ -10358,8 +9893,7 @@
     "distance": 3.94253807762666,
     "duration": "0:36:29",
     "pace": 9.25229389444636,
-    "title": "Ran 3.94 mi on 03/24/20",
-    "notes": null
+    "title": "Ran 3.94 mi on 03/24/20"
   },
   {
     "id": 4201035199,
@@ -10369,8 +9903,7 @@
     "distance": 6.223156764495347,
     "duration": "0:55:26",
     "pace": 8.908136831617401,
-    "title": "Ran 6.23 mi on 03/23/20",
-    "notes": null
+    "title": "Ran 6.23 mi on 03/23/20"
   },
   {
     "id": 4201032281,
@@ -10380,8 +9913,7 @@
     "distance": 3.7718474111190643,
     "duration": "0:35:52",
     "pace": 9.50811768876285,
-    "title": "Ran 3.77 mi on 03/21/20",
-    "notes": null
+    "title": "Ran 3.77 mi on 03/21/20"
   },
   {
     "id": 4201029367,
@@ -10391,8 +9923,7 @@
     "distance": 5.244621410959994,
     "duration": "0:47:54",
     "pace": 9.132584269662921,
-    "title": "Ran 5.24 mi on 03/19/20",
-    "notes": null
+    "title": "Ran 5.24 mi on 03/19/20"
   },
   {
     "id": 4201026558,
@@ -10402,8 +9933,7 @@
     "distance": 11.13789220949654,
     "duration": "1:50:06",
     "pace": 9.886619977884262,
-    "title": "Ran 11.14 mi on 03/17/20",
-    "notes": null
+    "title": "Ran 11.14 mi on 03/17/20"
   },
   {
     "id": 4201023573,
@@ -10413,8 +9943,7 @@
     "distance": 4.248998349638113,
     "duration": "0:40:26",
     "pace": 9.514863426747073,
-    "title": "Ran 4.25 mi on 03/16/20",
-    "notes": null
+    "title": "Ran 4.25 mi on 03/16/20"
   },
   {
     "id": 4201020663,
@@ -10424,8 +9953,7 @@
     "distance": 3.424500914658395,
     "duration": "0:31:08",
     "pace": 9.092338983050846,
-    "title": "Ran 3.42 mi on 03/14/20",
-    "notes": null
+    "title": "Ran 3.42 mi on 03/14/20"
   },
   {
     "id": 4226955004,
@@ -10435,8 +9963,7 @@
     "distance": 5.149986578382248,
     "duration": "0:48:03",
     "pace": 9.329530434782608,
-    "title": "Ran 5.15 mi on 03/13/20",
-    "notes": ""
+    "title": "Ran 5.15 mi on 03/13/20"
   },
   {
     "id": 4201015148,
@@ -10446,8 +9973,7 @@
     "distance": 2.4142134931997137,
     "duration": "0:21:44",
     "pace": 9.000805369127518,
-    "title": "Ran 2.42 mi on 03/11/20",
-    "notes": null
+    "title": "Ran 2.42 mi on 03/11/20"
   },
   {
     "id": 4201012461,
@@ -10457,8 +9983,7 @@
     "distance": 6.058741947029349,
     "duration": "0:54:53",
     "pace": 9.05856129685917,
-    "title": "Ran 6.0 mi on 03/10/20",
-    "notes": null
+    "title": "Ran 6.0 mi on 03/10/20"
   },
   {
     "id": 4226954248,
@@ -10468,8 +9993,7 @@
     "distance": 5.8200111349717645,
     "duration": "0:50:56",
     "pace": 8.751190864600327,
-    "title": "Ran 5.82 mi on 03/09/20",
-    "notes": ""
+    "title": "Ran 5.82 mi on 03/09/20"
   },
   {
     "id": 4201007229,
@@ -10479,8 +10003,7 @@
     "distance": 11.168339397916169,
     "duration": "1:44:19",
     "pace": 9.339275766016714,
-    "title": "Ran 11.18 mi on 03/07/20",
-    "notes": null
+    "title": "Ran 11.18 mi on 03/07/20"
   },
   {
     "id": 4201004616,
@@ -10490,8 +10013,7 @@
     "distance": 4.157221824544659,
     "duration": "0:43:59",
     "pace": 10.580828402366864,
-    "title": "Ran 4.16 mi on 03/05/20",
-    "notes": null
+    "title": "Ran 4.16 mi on 03/05/20"
   },
   {
     "id": 4201002042,
@@ -10501,8 +10023,7 @@
     "distance": 10.26126173148811,
     "duration": "1:37:52",
     "pace": 9.538549075391181,
-    "title": "Ran 10.26 mi on 02/29/20",
-    "notes": null
+    "title": "Ran 10.26 mi on 02/29/20"
   },
   {
     "id": 4200999464,
@@ -10512,8 +10033,7 @@
     "distance": 4.326980434263899,
     "duration": "0:41:08",
     "pace": 9.504748405386252,
-    "title": "Ran 4.33 mi on 02/27/20",
-    "notes": null
+    "title": "Ran 4.33 mi on 02/27/20"
   },
   {
     "id": 4200996901,
@@ -10523,8 +10043,7 @@
     "distance": 4.3121296627694266,
     "duration": "0:42:27",
     "pace": 9.843082568807338,
-    "title": "Ran 4.32 mi on 02/26/20",
-    "notes": null
+    "title": "Ran 4.32 mi on 02/26/20"
   },
   {
     "id": 4200994392,
@@ -10534,8 +10053,7 @@
     "distance": 4.089119541875448,
     "duration": "0:37:48",
     "pace": 9.242729152308751,
-    "title": "Ran 4.09 mi on 02/25/20",
-    "notes": null
+    "title": "Ran 4.09 mi on 02/25/20"
   },
   {
     "id": 4200991976,
@@ -10545,8 +10063,7 @@
     "distance": 4.219545355126064,
     "duration": "0:37:00",
     "pace": 8.768355671788164,
-    "title": "Ran 4.22 mi on 02/24/20",
-    "notes": null
+    "title": "Ran 4.22 mi on 02/24/20"
   },
   {
     "id": 4200989590,
@@ -10556,8 +10073,7 @@
     "distance": 8.185012029746282,
     "duration": "1:18:38",
     "pace": 9.606876790830945,
-    "title": "Ran 8.19 mi on 02/22/20",
-    "notes": null
+    "title": "Ran 8.19 mi on 02/22/20"
   },
   {
     "id": 4226953479,
@@ -10567,8 +10083,7 @@
     "distance": 3.380010737294202,
     "duration": "0:32:30",
     "pace": 9.613763440860215,
-    "title": "Ran 3.38 mi on 02/20/20",
-    "notes": ""
+    "title": "Ran 3.38 mi on 02/20/20"
   },
   {
     "id": 4200984720,
@@ -10578,8 +10093,7 @@
     "distance": 3.41542889525173,
     "duration": "0:35:06",
     "pace": 10.276781609195401,
-    "title": "Ran 3.38 mi on 02/19/20",
-    "notes": null
+    "title": "Ran 3.38 mi on 02/19/20"
   },
   {
     "id": 4200982298,
@@ -10589,8 +10103,7 @@
     "distance": 3.6395574842917364,
     "duration": "0:32:33",
     "pace": 8.94378126042014,
-    "title": "Ran 3.59 mi on 02/18/20",
-    "notes": null
+    "title": "Ran 3.59 mi on 02/18/20"
   },
   {
     "id": 4226952815,
@@ -10600,8 +10113,7 @@
     "distance": 5.40002634613855,
     "duration": "0:48:50",
     "pace": 9.043290627107213,
-    "title": "Ran 5.4 mi on 02/17/20",
-    "notes": ""
+    "title": "Ran 5.4 mi on 02/17/20"
   },
   {
     "id": 4200977582,
@@ -10611,8 +10123,7 @@
     "distance": 10.23764962618309,
     "duration": "1:41:09",
     "pace": 9.879337016574585,
-    "title": "Ran 10.24 mi on 02/15/20",
-    "notes": null
+    "title": "Ran 10.24 mi on 02/15/20"
   },
   {
     "id": 4200975026,
@@ -10622,8 +10133,7 @@
     "distance": 4.418446273761234,
     "duration": "0:47:57",
     "pace": 10.850485436893203,
-    "title": "Ran 4.38 mi on 02/13/20",
-    "notes": null
+    "title": "Ran 4.38 mi on 02/13/20"
   },
   {
     "id": 4200972648,
@@ -10633,8 +10143,7 @@
     "distance": 4.382158196134574,
     "duration": "0:43:58",
     "pace": 10.034567901234567,
-    "title": "Ran 4.38 mi on 02/12/20",
-    "notes": null
+    "title": "Ran 4.38 mi on 02/12/20"
   },
   {
     "id": 4200970248,
@@ -10644,8 +10153,7 @@
     "distance": 1.6528473713513083,
     "duration": "0:15:06",
     "pace": 9.135694822888283,
-    "title": "Ran 1.65 mi on 02/11/20",
-    "notes": null
+    "title": "Ran 1.65 mi on 02/11/20"
   },
   {
     "id": 4200967818,
@@ -10655,8 +10163,7 @@
     "distance": 4.383525212757497,
     "duration": "0:39:22",
     "pace": 8.97971208570472,
-    "title": "Ran 4.38 mi on 02/10/20",
-    "notes": null
+    "title": "Ran 4.38 mi on 02/10/20"
   },
   {
     "id": 4200965552,
@@ -10666,8 +10173,7 @@
     "distance": 8.40118706752565,
     "duration": "1:18:57",
     "pace": 9.398177995795374,
-    "title": "Ran 8.4 mi on 02/08/20",
-    "notes": null
+    "title": "Ran 8.4 mi on 02/08/20"
   },
   {
     "id": 4200963146,
@@ -10677,8 +10183,7 @@
     "distance": 4.400675057663246,
     "duration": "0:42:08",
     "pace": 9.572591006423982,
-    "title": "Ran 4.4 mi on 02/06/20",
-    "notes": null
+    "title": "Ran 4.4 mi on 02/06/20"
   },
   {
     "id": 4200961021,
@@ -10688,8 +10193,7 @@
     "distance": 4.384208721068957,
     "duration": "0:42:40",
     "pace": 9.732365747460088,
-    "title": "Ran 4.39 mi on 02/05/20",
-    "notes": null
+    "title": "Ran 4.39 mi on 02/05/20"
   },
   {
     "id": 4200958835,
@@ -10699,8 +10203,7 @@
     "distance": 2.0114406863914738,
     "duration": "0:18:15",
     "pace": 9.073883626522328,
-    "title": "Ran 2.01 mi on 02/04/20",
-    "notes": null
+    "title": "Ran 2.01 mi on 02/04/20"
   },
   {
     "id": 4200956611,
@@ -10710,8 +10213,7 @@
     "distance": 3.3840496500437447,
     "duration": "0:31:56",
     "pace": 9.437860661505981,
-    "title": "Ran 3.39 mi on 02/03/20",
-    "notes": null
+    "title": "Ran 3.39 mi on 02/03/20"
   },
   {
     "id": 4200954484,
@@ -10721,8 +10223,7 @@
     "distance": 6.391051260637874,
     "duration": "1:01:23",
     "pace": 9.603437164339418,
-    "title": "Ran 6.39 mi on 02/01/20",
-    "notes": null
+    "title": "Ran 6.39 mi on 02/01/20"
   },
   {
     "id": 4200952318,
@@ -10732,8 +10233,7 @@
     "distance": 3.3902012248468942,
     "duration": "0:34:11",
     "pace": 10.08360902255639,
-    "title": "Ran 3.39 mi on 01/30/20",
-    "notes": null
+    "title": "Ran 3.39 mi on 01/30/20"
   },
   {
     "id": 4200950050,
@@ -10743,8 +10243,7 @@
     "distance": 3.3977819533921894,
     "duration": "0:31:52",
     "pace": 9.378461538461538,
-    "title": "Ran 3.37 mi on 01/29/20",
-    "notes": null
+    "title": "Ran 3.37 mi on 01/29/20"
   },
   {
     "id": 4200947693,
@@ -10754,8 +10253,7 @@
     "distance": 2.3795409806728705,
     "duration": "0:23:22",
     "pace": 9.821457341633101,
-    "title": "Ran 2.38 mi on 01/28/20",
-    "notes": null
+    "title": "Ran 2.38 mi on 01/28/20"
   },
   {
     "id": 4200945524,
@@ -10765,8 +10263,7 @@
     "distance": 4.396076910840691,
     "duration": "0:40:40",
     "pace": 9.249103448275863,
-    "title": "Ran 4.4 mi on 01/27/20",
-    "notes": null
+    "title": "Ran 4.4 mi on 01/27/20"
   },
   {
     "id": 4200943464,
@@ -10776,8 +10273,7 @@
     "distance": 8.257277499403482,
     "duration": "1:21:54",
     "pace": 9.919526627218934,
-    "title": "Ran 8.28 mi on 01/25/20",
-    "notes": null
+    "title": "Ran 8.28 mi on 01/25/20"
   },
   {
     "id": 4226952147,
@@ -10787,8 +10283,7 @@
     "distance": 4.430003777936848,
     "duration": "0:43:19",
     "pace": 9.778490703609187,
-    "title": "Ran 4.43 mi on 01/23/20",
-    "notes": ""
+    "title": "Ran 4.43 mi on 01/23/20"
   },
   {
     "id": 4200939064,
@@ -10798,8 +10293,7 @@
     "distance": 4.373521136562475,
     "duration": "0:43:27",
     "pace": 9.934222222222221,
-    "title": "Ran 4.37 mi on 01/22/20",
-    "notes": null
+    "title": "Ran 4.37 mi on 01/22/20"
   },
   {
     "id": 4226951429,
@@ -10809,8 +10303,7 @@
     "distance": 3.5600219716853574,
     "duration": "0:34:07",
     "pace": 9.582851018220794,
-    "title": "Ran 3.56 mi on 01/21/20",
-    "notes": ""
+    "title": "Ran 3.56 mi on 01/21/20"
   },
   {
     "id": 4226950668,
@@ -10820,8 +10313,7 @@
     "distance": 3.2600239600731724,
     "duration": "0:29:24",
     "pace": 9.018964357767317,
-    "title": "Ran 3.26 mi on 01/20/20",
-    "notes": ""
+    "title": "Ran 3.26 mi on 01/20/20"
   },
   {
     "id": 4226949923,
@@ -10831,8 +10323,7 @@
     "distance": 6.300020380975105,
     "duration": "1:05:26",
     "pace": 10.384204413472705,
-    "title": "Ran 6.3 mi on 01/18/20",
-    "notes": ""
+    "title": "Ran 6.3 mi on 01/18/20"
   },
   {
     "id": 4200931686,
@@ -10842,8 +10333,7 @@
     "distance": 3.4100229658792647,
     "duration": "0:34:30",
     "pace": 10.117842323651452,
-    "title": "Ran 3.41 mi on 01/16/20",
-    "notes": ""
+    "title": "Ran 3.41 mi on 01/16/20"
   },
   {
     "id": 4200929300,
@@ -10853,8 +10343,7 @@
     "distance": 2.349093792253241,
     "duration": "0:23:57",
     "pace": 10.194754846066136,
-    "title": "Ran 2.35 mi on 01/15/20",
-    "notes": null
+    "title": "Ran 2.35 mi on 01/15/20"
   },
   {
     "id": 4200926637,
@@ -10864,8 +10353,7 @@
     "distance": 2.8673173665791776,
     "duration": "0:29:39",
     "pace": 10.34016962220509,
-    "title": "Ran 2.87 mi on 01/14/20",
-    "notes": null
+    "title": "Ran 2.87 mi on 01/14/20"
   },
   {
     "id": 4200924496,
@@ -10875,8 +10363,7 @@
     "distance": 3.370006661099181,
     "duration": "0:35:13",
     "pace": 10.44892871055707,
-    "title": "Ran 3.37 mi on 01/13/20",
-    "notes": null
+    "title": "Ran 3.37 mi on 01/13/20"
   },
   {
     "id": 4200922241,
@@ -10886,8 +10373,7 @@
     "distance": 6.366755647021394,
     "duration": "1:04:42",
     "pace": 10.163849943160288,
-    "title": "Ran 6.37 mi on 01/11/20",
-    "notes": null
+    "title": "Ran 6.37 mi on 01/11/20"
   },
   {
     "id": 4200920198,
@@ -10897,8 +10383,7 @@
     "distance": 3.379078680505846,
     "duration": "0:34:07",
     "pace": 10.09499435453519,
-    "title": "Ran 3.38 mi on 01/09/20",
-    "notes": null
+    "title": "Ran 3.38 mi on 01/09/20"
   },
   {
     "id": 4200918153,
@@ -10908,8 +10393,7 @@
     "distance": 2.409366797900262,
     "duration": "0:23:33",
     "pace": 9.774927113702622,
-    "title": "Ran 2.41 mi on 01/08/20",
-    "notes": null
+    "title": "Ran 2.41 mi on 01/08/20"
   },
   {
     "id": 4200916012,
@@ -10919,8 +10403,7 @@
     "distance": 2.268626222858506,
     "duration": "0:26:29",
     "pace": 11.672062663185377,
-    "title": "Ran 2.27 mi on 01/07/20",
-    "notes": null
+    "title": "Ran 2.27 mi on 01/07/20"
   },
   {
     "id": 4200914056,
@@ -10930,8 +10413,7 @@
     "distance": 3.335644834168456,
     "duration": "0:34:24",
     "pace": 10.312341407151097,
-    "title": "Ran 3.34 mi on 01/06/20",
-    "notes": null
+    "title": "Ran 3.34 mi on 01/06/20"
   },
   {
     "id": 4200911919,
@@ -10941,8 +10423,7 @@
     "distance": 6.239312415493518,
     "duration": "1:04:40",
     "pace": 10.364142194744977,
-    "title": "Ran 6.24 mi on 01/04/20",
-    "notes": null
+    "title": "Ran 6.24 mi on 01/04/20"
   },
   {
     "id": 4200909998,
@@ -10952,8 +10433,7 @@
     "distance": 3.3675833134494555,
     "duration": "0:34:50",
     "pace": 10.34415734670266,
-    "title": "Ran 3.37 mi on 01/02/20",
-    "notes": null
+    "title": "Ran 3.37 mi on 01/02/20"
   },
   {
     "id": 4200907927,
@@ -10963,8 +10443,7 @@
     "distance": 2.4051414737930483,
     "duration": "0:22:58",
     "pace": 9.548736205055178,
-    "title": "Ran 2.41 mi on 01/01/20",
-    "notes": null
+    "title": "Ran 2.41 mi on 01/01/20"
   },
   {
     "id": 4200906004,
@@ -10974,8 +10453,7 @@
     "distance": 2.404520102600811,
     "duration": "0:23:41",
     "pace": 9.850312155710615,
-    "title": "Ran 2.41 mi on 12/31/19",
-    "notes": null
+    "title": "Ran 2.41 mi on 12/31/19"
   },
   {
     "id": 4200904052,
@@ -10985,8 +10463,7 @@
     "distance": 2.7432916766086053,
     "duration": "0:35:16",
     "pace": 12.858293384467881,
-    "title": "Ran 2.75 mi on 12/30/19",
-    "notes": null
+    "title": "Ran 2.75 mi on 12/30/19"
   },
   {
     "id": 4200902201,
@@ -10996,8 +10473,7 @@
     "distance": 5.404997315676449,
     "duration": "0:54:56",
     "pace": 10.163849943160288,
-    "title": "Ran 5.4 mi on 12/28/19",
-    "notes": null
+    "title": "Ran 5.4 mi on 12/28/19"
   },
   {
     "id": 4200900288,
@@ -11007,8 +10483,7 @@
     "distance": 3.364103634772926,
     "duration": "0:35:23",
     "pace": 10.518588235294118,
-    "title": "Ran 3.36 mi on 12/26/19",
-    "notes": null
+    "title": "Ran 3.36 mi on 12/26/19"
   },
   {
     "id": 4200898308,
@@ -11018,8 +10493,7 @@
     "distance": 0.9278936013680108,
     "duration": "0:08:59",
     "pace": 9.679682425117287,
-    "title": "Ran 0.93 mi on 12/25/19",
-    "notes": null
+    "title": "Ran 0.93 mi on 12/25/19"
   },
   {
     "id": 4200896466,
@@ -11029,8 +10503,7 @@
     "distance": 3.994857532013044,
     "duration": "0:38:12",
     "pace": 9.562352941176469,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4200894627,
@@ -11040,8 +10513,7 @@
     "distance": 3.108471526286487,
     "duration": "0:29:57",
     "pace": 9.63448275862069,
-    "title": "3.11mi Run",
-    "notes": null
+    "title": "3.11mi Run"
   },
   {
     "id": 4200892774,
@@ -11062,8 +10534,7 @@
     "distance": 3.505651992364591,
     "duration": "0:30:59",
     "pace": 8.837693574958813,
-    "title": "3.51mi Run",
-    "notes": null
+    "title": "3.51mi Run"
   },
   {
     "id": 4200889225,
@@ -11073,8 +10544,7 @@
     "distance": 2.6955082319255546,
     "duration": "0:24:12",
     "pace": 8.976706827309236,
-    "title": "2.70mi Run",
-    "notes": null
+    "title": "2.70mi Run"
   },
   {
     "id": 4200887367,
@@ -11084,8 +10554,7 @@
     "distance": 3.0113512089397916,
     "duration": "0:26:42",
     "pace": 8.866909090909092,
-    "title": "3.01mi Run",
-    "notes": null
+    "title": "3.01mi Run"
   },
   {
     "id": 4200885659,
@@ -11095,8 +10564,7 @@
     "distance": 2.9976810427105702,
     "duration": "0:26:57",
     "pace": 8.991753268521622,
-    "title": "3.00mi Run",
-    "notes": null
+    "title": "3.00mi Run"
   },
   {
     "id": 4200883742,
@@ -11106,8 +10574,7 @@
     "distance": 2.9026112502982584,
     "duration": "0:26:24",
     "pace": 9.095422177009155,
-    "title": "2.91mi Run",
-    "notes": null
+    "title": "2.91mi Run"
   },
   {
     "id": 4200882103,
@@ -11117,8 +10584,7 @@
     "distance": 1.608170782629444,
     "duration": "0:14:23",
     "pace": 8.94378126042014,
-    "title": "1.61mi Run",
-    "notes": null
+    "title": "1.61mi Run"
   },
   {
     "id": 4200880319,
@@ -11139,8 +10605,7 @@
     "distance": 2.4545404835759164,
     "duration": "0:22:27",
     "pace": 9.145039209001023,
-    "title": "2.45mi Run",
-    "notes": null
+    "title": "2.45mi Run"
   },
   {
     "id": 4200876553,
@@ -11194,8 +10659,7 @@
     "distance": 3.001222858506323,
     "duration": "0:26:37",
     "pace": 8.869841269841269,
-    "title": "3.00mi Run",
-    "notes": null
+    "title": "3.00mi Run"
   },
   {
     "id": 4200868106,
@@ -11238,8 +10702,7 @@
     "distance": 3.1016985802911,
     "duration": "0:00:12",
     "pace": 0.06448079812488731,
-    "title": "3.11mi Run",
-    "notes": null
+    "title": "3.11mi Run"
   },
   {
     "id": 4200861296,
@@ -11249,8 +10712,7 @@
     "distance": 4.588764117553487,
     "duration": "0:11:56",
     "pace": 2.600581733566027,
-    "title": "4.60mi Run",
-    "notes": null
+    "title": "4.60mi Run"
   },
   {
     "id": 4200859524,
@@ -11579,8 +11041,7 @@
     "distance": 4.341147697446909,
     "duration": "0:01:03",
     "pace": 0.24187204111997837,
-    "title": "4.35mi Run",
-    "notes": null
+    "title": "4.35mi Run"
   },
   {
     "id": 4200808946,
@@ -11843,8 +11304,7 @@
     "distance": 1.7468608327368171,
     "duration": "0:02:01",
     "pace": 1.1544460704140482,
-    "title": "1.75mi Run",
-    "notes": null
+    "title": "1.75mi Run"
   },
   {
     "id": 4197038430,
@@ -12030,8 +11490,7 @@
     "distance": 4.000014912908614,
     "duration": "0:34:28",
     "pace": 8.61625441696113,
-    "title": "4.00mi Treadmill, Run",
-    "notes": ""
+    "title": "4.00mi Treadmill, Run"
   },
   {
     "id": 4196989053,
@@ -12041,8 +11500,7 @@
     "distance": 3.799995526127416,
     "duration": "0:31:50",
     "pace": 8.37676452217364,
-    "title": "3.80mi Treadmill, Run",
-    "notes": ""
+    "title": "3.80mi Treadmill, Run"
   },
   {
     "id": 4196987984,
@@ -12052,8 +11510,7 @@
     "distance": 4.000014912908614,
     "duration": "0:34:43",
     "pace": 8.680388349514564,
-    "title": "4.00mi Treadmill, Run",
-    "notes": ""
+    "title": "4.00mi Treadmill, Run"
   },
   {
     "id": 4196986970,
@@ -12063,8 +11520,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:25:30",
     "pace": 8.498859315589353,
-    "title": "3.00mi Treadmill, Run",
-    "notes": ""
+    "title": "3.00mi Treadmill, Run"
   },
   {
     "id": 4196985960,
@@ -12074,8 +11530,7 @@
     "distance": 4.000014912908614,
     "duration": "0:34:00",
     "pace": 8.498859315589353,
-    "title": "4.00mi Treadmill, Run",
-    "notes": ""
+    "title": "4.00mi Treadmill, Run"
   },
   {
     "id": 4196984898,
@@ -12085,8 +11540,7 @@
     "distance": 4.000014912908614,
     "duration": "0:34:40",
     "pace": 8.666365105008078,
-    "title": "4.00mi Treadmill, Run",
-    "notes": ""
+    "title": "4.00mi Treadmill, Run"
   },
   {
     "id": 4196983736,
@@ -12096,8 +11550,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:25:30",
     "pace": 8.498859315589353,
-    "title": "3.00mi Treadmill, Run",
-    "notes": ""
+    "title": "3.00mi Treadmill, Run"
   },
   {
     "id": 4196980752,
@@ -12140,8 +11593,7 @@
     "distance": 3.0612473156764497,
     "duration": "0:04:35",
     "pace": 1.49720346078705,
-    "title": "3.07mi Run",
-    "notes": null
+    "title": "3.07mi Run"
   },
   {
     "id": 4196968003,
@@ -12173,8 +11625,7 @@
     "distance": 4.503014893024735,
     "duration": "0:04:23",
     "pace": 0.9734131736526946,
-    "title": "4.51mi Run",
-    "notes": null
+    "title": "4.51mi Run"
   },
   {
     "id": 4196958600,
@@ -12294,8 +11745,7 @@
     "distance": 4.500032311301997,
     "duration": "0:39:00",
     "pace": 8.666365105008078,
-    "title": "4.50mi Treadmill, Run",
-    "notes": ""
+    "title": "4.50mi Treadmill, Run"
   },
   {
     "id": 4196929071,
@@ -12316,8 +11766,7 @@
     "distance": 4.000014912908614,
     "duration": "0:35:33",
     "pace": 8.887475149105368,
-    "title": "4.00mi Treadmill, Run",
-    "notes": ""
+    "title": "4.00mi Treadmill, Run"
   },
   {
     "id": 4196926802,
@@ -12327,8 +11776,7 @@
     "distance": 2.9999801161218485,
     "duration": "0:26:30",
     "pace": 8.834782608695651,
-    "title": "3.00mi Treadmill, Run",
-    "notes": ""
+    "title": "3.00mi Treadmill, Run"
   },
   {
     "id": 4196925833,
@@ -12338,8 +11786,7 @@
     "distance": 4.500032311301997,
     "duration": "0:39:50",
     "pace": 8.852277227722773,
-    "title": "4.50mi Treadmill, Run",
-    "notes": ""
+    "title": "4.50mi Treadmill, Run"
   },
   {
     "id": 4196923337,
@@ -12690,8 +12137,7 @@
     "distance": 5.089092201542989,
     "duration": "0:44:22",
     "pace": 8.717062073448163,
-    "title": "5.10 mile run",
-    "notes": null
+    "title": "5.10 mile run"
   },
   {
     "id": 4196834916,
@@ -12756,8 +12202,7 @@
     "distance": 4.9874980116121845,
     "duration": "0:43:11",
     "pace": 8.65797288573273,
-    "title": "5.00mi Run",
-    "notes": null
+    "title": "5.00mi Run"
   },
   {
     "id": 4196820846,
@@ -12767,8 +12212,7 @@
     "distance": 4.992531118269307,
     "duration": "0:45:10",
     "pace": 9.046340640809444,
-    "title": "5.00mi Run",
-    "notes": null
+    "title": "5.00mi Run"
   },
   {
     "id": 4196818718,
@@ -12778,8 +12222,7 @@
     "distance": 3.9923720472440944,
     "duration": "0:32:25",
     "pace": 8.12061762034514,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4196816577,
@@ -12822,8 +12265,7 @@
     "distance": 7.9894043784299695,
     "duration": "1:10:19",
     "pace": 8.799999999999999,
-    "title": "8.00mi Run",
-    "notes": null
+    "title": "8.00mi Run"
   },
   {
     "id": 4196807952,
@@ -12833,8 +12275,7 @@
     "distance": 5.13488725841088,
     "duration": "0:43:58",
     "pace": 8.561251196935844,
-    "title": "5.14mi Run",
-    "notes": null
+    "title": "5.14mi Run"
   },
   {
     "id": 4196805698,
@@ -12844,8 +12285,7 @@
     "distance": 4.490836017656884,
     "duration": "0:37:41",
     "pace": 8.389865498905223,
-    "title": "4.50mi Run",
-    "notes": null
+    "title": "4.50mi Run"
   },
   {
     "id": 4196803566,
@@ -12855,8 +12295,7 @@
     "distance": 4.985882446512368,
     "duration": "0:41:11",
     "pace": 8.260671388974439,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4196801415,
@@ -12866,8 +12305,7 @@
     "distance": 3.9937390638670167,
     "duration": "0:34:51",
     "pace": 8.725569290826286,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4196799239,
@@ -12877,8 +12315,7 @@
     "distance": 4.486859242026564,
     "duration": "0:36:23",
     "pace": 8.108343409915356,
-    "title": "4.50mi Run",
-    "notes": null
+    "title": "4.50mi Run"
   },
   {
     "id": 4196797088,
@@ -12888,8 +12325,7 @@
     "distance": 6.241611488904796,
     "duration": "0:52:19",
     "pace": 8.382,
-    "title": "6.25mi Run",
-    "notes": null
+    "title": "6.25mi Run"
   },
   {
     "id": 4196795012,
@@ -12899,8 +12335,7 @@
     "distance": 4.490338920703094,
     "duration": "0:38:00",
     "pace": 8.461324921135647,
-    "title": "4.50mi Run",
-    "notes": null
+    "title": "4.50mi Run"
   },
   {
     "id": 4196792905,
@@ -12910,8 +12345,7 @@
     "distance": 3.986655432275511,
     "duration": "0:34:45",
     "pace": 8.717062073448163,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4196790792,
@@ -12921,8 +12355,7 @@
     "distance": 4.990853416050267,
     "duration": "0:43:57",
     "pace": 8.805778069599475,
-    "title": "5.00mi Run",
-    "notes": null
+    "title": "5.00mi Run"
   },
   {
     "id": 4196788449,
@@ -12932,8 +12365,7 @@
     "distance": 4.243778831623319,
     "duration": "0:34:43",
     "pace": 8.180054894784995,
-    "title": "4.25mi Run",
-    "notes": null
+    "title": "4.25mi Run"
   },
   {
     "id": 4196786289,
@@ -12943,8 +12375,7 @@
     "distance": 4.9898592221426865,
     "duration": "0:41:54",
     "pace": 8.397745773324983,
-    "title": "5.00mi Run",
-    "notes": null
+    "title": "5.00mi Run"
   },
   {
     "id": 4196784307,
@@ -12954,8 +12385,7 @@
     "distance": 4.592243796230017,
     "duration": "0:39:30",
     "pace": 8.602437459910199,
-    "title": "4.60mi Run",
-    "notes": null
+    "title": "4.60mi Run"
   },
   {
     "id": 4196782334,
@@ -12965,8 +12395,7 @@
     "distance": 6.241860037381691,
     "duration": "0:52:39",
     "pace": 8.434716981132075,
-    "title": "6.25mi Run",
-    "notes": null
+    "title": "6.25mi Run"
   },
   {
     "id": 4196780181,
@@ -12976,8 +12405,7 @@
     "distance": 3.5325573649884676,
     "duration": "0:30:50",
     "pace": 8.728408721119427,
-    "title": "3.54mi Run",
-    "notes": null
+    "title": "3.54mi Run"
   },
   {
     "id": 4196778349,
@@ -12987,8 +12415,7 @@
     "distance": 5.0063876958561995,
     "duration": "0:41:42",
     "pace": 8.329937888198758,
-    "title": "5.01mi Run",
-    "notes": null
+    "title": "5.01mi Run"
   },
   {
     "id": 4196776393,
@@ -12998,8 +12425,7 @@
     "distance": 4.2430953233118585,
     "duration": "0:32:08",
     "pace": 7.572670807453417,
-    "title": "4.25mi Run",
-    "notes": null
+    "title": "4.25mi Run"
   },
   {
     "id": 4196774548,
@@ -13009,8 +12435,7 @@
     "distance": 6.241425077547125,
     "duration": "0:53:29",
     "pace": 8.569456869009585,
-    "title": "6.25mi Run",
-    "notes": null
+    "title": "6.25mi Run"
   },
   {
     "id": 4196772650,
@@ -13020,8 +12445,7 @@
     "distance": 5.489814483416845,
     "duration": "0:48:59",
     "pace": 8.922954091816369,
-    "title": "5.50mi Run",
-    "notes": null
+    "title": "5.50mi Run"
   },
   {
     "id": 4196770734,
@@ -13031,8 +12455,7 @@
     "distance": 6.2421085858585865,
     "duration": "0:52:42",
     "pace": 8.442681775259679,
-    "title": "6.25mi Run",
-    "notes": null
+    "title": "6.25mi Run"
   },
   {
     "id": 4196768856,
@@ -13042,8 +12465,7 @@
     "distance": 4.990169907738805,
     "duration": "0:44:32",
     "pace": 8.922954091816369,
-    "title": "5.00mi Run",
-    "notes": null
+    "title": "5.00mi Run"
   },
   {
     "id": 4196766993,
@@ -13053,8 +12475,7 @@
     "distance": 3.989513739759803,
     "duration": "0:36:18",
     "pace": 9.098507462686568,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4196765162,
@@ -13064,8 +12485,7 @@
     "distance": 3.7918555635091065,
     "duration": "0:31:13",
     "pace": 8.232780847145488,
-    "title": "3.80mi Run",
-    "notes": null
+    "title": "3.80mi Run"
   },
   {
     "id": 4196763327,
@@ -13075,8 +12495,7 @@
     "distance": 3.4922925117314882,
     "duration": "0:30:40",
     "pace": 8.779836333878887,
-    "title": "3.50mi Run",
-    "notes": null
+    "title": "3.50mi Run"
   },
   {
     "id": 4196761248,
@@ -13086,8 +12505,7 @@
     "distance": 3.4854574286168774,
     "duration": "0:31:17",
     "pace": 8.976706827309236,
-    "title": "3.50mi Run",
-    "notes": null
+    "title": "3.50mi Run"
   },
   {
     "id": 4196759357,
@@ -13097,8 +12515,7 @@
     "distance": 3.989513739759803,
     "duration": "0:35:44",
     "pace": 8.955726210350583,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4196757550,
@@ -13108,8 +12525,7 @@
     "distance": 3.991502127574962,
     "duration": "0:37:38",
     "pace": 9.427908611599296,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4196755624,
@@ -13119,8 +12535,7 @@
     "distance": 3.4907390837508947,
     "duration": "0:30:03",
     "pace": 8.607958921694479,
-    "title": "3.50mi Run",
-    "notes": null
+    "title": "3.50mi Run"
   },
   {
     "id": 4196754922,
@@ -13130,8 +12545,7 @@
     "distance": 3.1000208780720593,
     "duration": null,
     "pace": null,
-    "title": "Treadmill - Florida",
-    "notes": ""
+    "title": "Treadmill - Florida"
   },
   {
     "id": 4196753243,
@@ -13141,8 +12555,7 @@
     "distance": 3.744009981706832,
     "duration": "0:33:37",
     "pace": 8.97971208570472,
-    "title": "3.75mi Run",
-    "notes": null
+    "title": "3.75mi Run"
   },
   {
     "id": 4196751452,
@@ -13152,8 +12565,7 @@
     "distance": 3.9946089835361485,
     "duration": "0:35:14",
     "pace": 8.820256494574153,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4196749742,
@@ -13163,8 +12575,7 @@
     "distance": 3.4910497693470135,
     "duration": "0:31:42",
     "pace": 9.080027081922816,
-    "title": "3.50mi Run",
-    "notes": null
+    "title": "3.50mi Run"
   },
   {
     "id": 4196747931,
@@ -13174,8 +12585,7 @@
     "distance": 3.4935973912351863,
     "duration": "0:30:33",
     "pace": 8.745484186501466,
-    "title": "3.50mi Run",
-    "notes": null
+    "title": "3.50mi Run"
   },
   {
     "id": 4196745661,
@@ -13185,8 +12595,7 @@
     "distance": 3.741959456772449,
     "duration": "0:33:26",
     "pace": 8.934843437708196,
-    "title": "3.75mi Run",
-    "notes": null
+    "title": "3.75mi Run"
   },
   {
     "id": 4196743836,
@@ -13196,8 +12605,7 @@
     "distance": 1.9742826890956813,
     "duration": "0:09:18",
     "pace": 4.710642781875658,
-    "title": "1.98mi Run",
-    "notes": null
+    "title": "1.98mi Run"
   },
   {
     "id": 4196742240,
@@ -13207,8 +12615,7 @@
     "distance": 3.993117692674779,
     "duration": "0:28:29",
     "pace": 7.133617021276596,
-    "title": "4.00mi Run",
-    "notes": null
+    "title": "4.00mi Run"
   },
   {
     "id": 4196740578,
@@ -13218,8 +12625,7 @@
     "distance": 3.7432021991569235,
     "duration": "0:33:06",
     "pace": 8.843521266073195,
-    "title": "Morning Run",
-    "notes": null
+    "title": "Morning Run"
   },
   {
     "id": 4196738827,
@@ -13229,8 +12635,7 @@
     "distance": 3.4883778732203927,
     "duration": "0:30:28",
     "pace": 8.734093129273852,
-    "title": "3.50mi Run",
-    "notes": null
+    "title": "3.50mi Run"
   },
   {
     "id": 4196737143,
@@ -13240,8 +12645,7 @@
     "distance": 3.489372067127973,
     "duration": "0:30:20",
     "pace": 8.694457050243113,
-    "title": "0.00mi Run",
-    "notes": null
+    "title": "0.00mi Run"
   },
   {
     "id": 4196735448,
@@ -13251,8 +12655,7 @@
     "distance": 3.7392254235266043,
     "duration": "0:33:03",
     "pace": 8.837693574958813,
-    "title": "0.00mi Run",
-    "notes": null
+    "title": "0.00mi Run"
   },
   {
     "id": 4196733749,
@@ -13262,8 +12665,7 @@
     "distance": 3.4912361807046848,
     "duration": "0:31:30",
     "pace": 9.02199798183653,
-    "title": "0.00mi Run",
-    "notes": null
+    "title": "0.00mi Run"
   },
   {
     "id": 4196732000,
@@ -13273,8 +12675,7 @@
     "distance": 3.4896827527240912,
     "duration": "0:32:48",
     "pace": 9.398177995795374,
-    "title": "0.00mi Run",
-    "notes": null
+    "title": "0.00mi Run"
   },
   {
     "id": 4196730345,
@@ -13284,8 +12685,7 @@
     "distance": 3.240575041756144,
     "duration": "0:28:45",
     "pace": 8.872775388686735,
-    "title": "0.00mi Run",
-    "notes": null
+    "title": "0.00mi Run"
   },
   {
     "id": 4196728647,
@@ -13295,8 +12695,7 @@
     "distance": 3.1527131551737853,
     "duration": "0:28:41",
     "pace": 9.098507462686568,
-    "title": "0.00mi Run",
-    "notes": null
+    "title": "0.00mi Run"
   },
   {
     "id": 4196726942,
@@ -13317,8 +12716,7 @@
     "distance": 3.6718066491688535,
     "duration": "0:35:58",
     "pace": 9.7963476990504,
-    "title": "0:41:57 Run",
-    "notes": null
+    "title": "0:41:57 Run"
   },
   {
     "id": 4196723580,
@@ -13328,8 +12726,7 @@
     "distance": 2.983948739362125,
     "duration": "0:31:25",
     "pace": 10.52684458398744,
-    "title": "0:33:44 Run",
-    "notes": null
+    "title": "0:33:44 Run"
   },
   {
     "id": 4196721918,
@@ -13339,8 +12736,7 @@
     "distance": 2.690226576791537,
     "duration": "0:27:19",
     "pace": 10.15230885692657,
-    "title": "0:28:39 Run",
-    "notes": null
+    "title": "0:28:39 Run"
   },
   {
     "id": 4222835418,
@@ -13350,8 +12746,7 @@
     "distance": 2.7719990256899707,
     "duration": "0:28:01",
     "pace": 10.106405425772419,
-    "title": "2.77mi Run",
-    "notes": ""
+    "title": "2.77mi Run"
   },
   {
     "id": 4196718383,
@@ -13361,8 +12756,7 @@
     "distance": 3.1621579972957923,
     "duration": "0:32:18",
     "pace": 10.214166031987814,
-    "title": "0:32:53 Run",
-    "notes": null
+    "title": "0:32:53 Run"
   },
   {
     "id": 4196716595,
@@ -13372,8 +12766,7 @@
     "distance": 3.065472639783663,
     "duration": "0:31:49",
     "pace": 10.380185758513932,
-    "title": "0:31:59 Run",
-    "notes": null
+    "title": "0:31:59 Run"
   },
   {
     "id": 4196714731,
@@ -13383,8 +12776,7 @@
     "distance": 2.9446159428935017,
     "duration": "0:31:36",
     "pace": 10.733253301320527,
-    "title": "0.00mi Run",
-    "notes": null
+    "title": "0.00mi Run"
   },
   {
     "id": 4196712885,
@@ -13394,8 +12786,7 @@
     "distance": 2.9228058140459714,
     "duration": "0:31:12",
     "pace": 10.673458018304816,
-    "title": "0:32:28 Run",
-    "notes": null
+    "title": "0:32:28 Run"
   },
   {
     "id": 4196711230,
@@ -13405,8 +12796,7 @@
     "distance": 2.639212001908852,
     "duration": "0:26:11",
     "pace": 9.919526627218934,
-    "title": "0:29:45 Run",
-    "notes": null
+    "title": "0:29:45 Run"
   },
   {
     "id": 4196709519,
@@ -13416,8 +12806,7 @@
     "distance": 2.674070925793367,
     "duration": "0:30:16",
     "pace": 11.31746835443038,
-    "title": "0:32:06 Run",
-    "notes": null
+    "title": "0:32:06 Run"
   },
   {
     "id": 4196707764,
@@ -13427,8 +12816,7 @@
     "distance": 2.6735116917203534,
     "duration": "0:29:48",
     "pace": 11.148129675810473,
-    "title": "0:31:16 Run",
-    "notes": null
+    "title": "0:31:16 Run"
   },
   {
     "id": 4196706134,
@@ -13438,8 +12826,7 @@
     "distance": 2.690226576791537,
     "duration": "0:31:29",
     "pace": 11.70261780104712,
-    "title": "0:31:52 Run",
-    "notes": null
+    "title": "0:31:52 Run"
   },
   {
     "id": 4196704297,
@@ -13449,7 +12836,6 @@
     "distance": 3.2037277300564697,
     "duration": "0:37:41",
     "pace": 11.764210526315791,
-    "title": "0:37:59 Run",
-    "notes": null
+    "title": "0:37:59 Run"
   }
 ]
