@@ -3,7 +3,6 @@ title: Eduardo
 ---
 
 ## Pace and distance over time
-Click on each run to go to the MapMyRun website.
 <div id="single-time-pace"></div>
 
 ## Monthly distances over time

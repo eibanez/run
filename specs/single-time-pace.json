@@ -9,12 +9,6 @@
     "name": "data",
     "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
   },
-  "transform": [
-    {
-      "as": "url",
-      "calculate": "'https://www.mapmyfitness.com/workout/'+datum.id"
-    }
-  ],
   "vconcat": [
     {
       "encoding": {

@@ -96,11 +96,5 @@
       "type": "interval"
     }
   },
-  "transform": [
-    {
-      "as": "url",
-      "calculate": "'https://www.mapmyfitness.com/workout/'+datum.id"
-    }
-  ],
   "width": 475
 }

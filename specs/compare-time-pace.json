@@ -113,10 +113,6 @@
   },
   "transform": [
     {
-      "as": "url",
-      "calculate": "'https://www.mapmyfitness.com/workout/'+datum.id"
-    },
-    {
       "filter": "year(datum.date)>=2018"
     }
   ],
