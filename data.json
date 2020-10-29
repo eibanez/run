@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 4259003260,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2020-10-29T15:40:29",
+    "distance": 0.09997887332695392,
+    "duration": "1:00:00",
+    "pace": 596.0518518518519,
+    "title": "Test",
+    "source": "Strava"
+  },
+  {
     "strava_id": 4189924777,
     "name": "Eduardo",
     "type": "Run",
