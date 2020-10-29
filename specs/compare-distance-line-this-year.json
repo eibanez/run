@@ -142,7 +142,7 @@
       ]
     },
     {
-      "filter": "year(datum.date)>=2018"
+      "filter": "year(datum.date)>=2020"
     }
   ],
   "width": 475

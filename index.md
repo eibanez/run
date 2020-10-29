@@ -7,8 +7,8 @@ Brian needs to run 672 more miles to match Jessica's total. Ann needs to run 132
 ## Total distance by year
 <div id="compare-distance-bar-year"></div>
 
-## Cumulative distance by year
-<div id="compare-distance-line-year"></div>
+## Cumulative distance this year
+<div id="compare-distance-line-this-year"></div>
 
 ## Pace over time
 <div id="compare-time-pace"></div>
@@ -16,9 +16,9 @@ Brian needs to run 672 more miles to match Jessica's total. Ann needs to run 132
 ## Distance for all runs
 <div id="compare-time-distance"></div>
 
-
 ## Total historical distance
 <div id="compare-distance-line-total"></div>
+<div id="compare-distance-line-year"></div>
 
 ## Distance by month
 <div id="compare-distance-bar-month"></div>
@@ -33,6 +33,7 @@ Brian needs to run 672 more miles to match Jessica's total. Ann needs to run 132
   load_plot("compare-distance-line-total");
   load_plot("compare-distance-bar-year");
   load_plot("compare-distance-line-year");
+  load_plot("compare-distance-line-this-year");
   load_plot("compare-time-pace");
   load_plot("compare-time-distance");
   load_plot("compare-distance-bar-month");
