@@ -3,7 +3,7 @@
   "data": {
     "format": {
       "parse": {
-        "date": "utc:'%Y-%m-%d %H:%M:%S'"
+        "date": "utc:'%Y-%m-%dT%H:%M:%S'"
       }
     },
     "name": "data",
