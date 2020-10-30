@@ -10,6 +10,14 @@
     "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
   },
   "encoding": {
+    "color": {
+      "field": "date",
+      "legend": {
+        "title": null
+      },
+      "timeUnit": "year",
+      "type": "nominal"
+    },
     "tooltip": [
       {
         "field": "name",
