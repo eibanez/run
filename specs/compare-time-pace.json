@@ -16,13 +16,17 @@
         "title": null
       },
       "scale": {
+        "domain": [
+          "Run",
+          "Treadmill",
+          "Race"
+        ],
         "range": [
           "#4BBA3E",
           "#528ECD",
           "#CD6752"
         ]
       },
-      "sort": [],
       "type": "nominal"
     },
     "href": {

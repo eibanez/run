@@ -16,6 +16,11 @@
         "title": null
       },
       "scale": {
+        "domain": [
+          "Run",
+          "Treadmill",
+          "Race"
+        ],
         "range": [
           "#4BBA3E",
           "#528ECD",

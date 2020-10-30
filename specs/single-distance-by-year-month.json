@@ -11,11 +11,22 @@
   },
   "encoding": {
     "color": {
-      "field": "date",
+      "field": "type",
       "legend": {
         "title": null
       },
-      "timeUnit": "year",
+      "scale": {
+        "domain": [
+          "Run",
+          "Treadmill",
+          "Race"
+        ],
+        "range": [
+          "#4BBA3E",
+          "#528ECD",
+          "#CD6752"
+        ]
+      },
       "type": "nominal"
     },
     "column": {
