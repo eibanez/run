@@ -11,11 +11,23 @@
   },
   "encoding": {
     "color": {
-      "field": "date",
+      "field": "type",
       "legend": {
         "title": null
       },
-      "timeUnit": "year",
+      "scale": {
+        "domain": [
+          "Run",
+          "Treadmill",
+          "Race"
+        ],
+        "range": [
+          "#4BBA3E",
+          "#528ECD",
+          "#CD6752"
+        ]
+      },
+      "sort": [],
       "type": "nominal"
     },
     "tooltip": [
@@ -27,6 +39,11 @@
         "field": "date",
         "timeUnit": "yearmonth",
         "title": "Month"
+      },
+      {
+        "field": "type",
+        "title": "Type",
+        "type": "nominal"
       },
       {
         "field": "sum_distance",
