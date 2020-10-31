@@ -1782,6 +1782,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 4267118632,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2020-10-31T14:43:48",
+    "distance": 4.8273205164850195,
+    "duration": "0:48:05",
+    "pace": 9.96001980443124,
+    "title": "120 mile month 😮",
+    "source": "Strava"
+  },
+  {
     "strava_id": 4262972567,
     "name": "Jessica",
     "type": "Run",
