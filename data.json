@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 4269175356,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2020-11-01T00:28:24",
+    "distance": 10.000062137273666,
+    "duration": "1:00:00",
+    "pace": 6.000521998508576,
+    "title": "Testing automatic updates ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 4189924777,
     "name": "Eduardo",
     "type": "Run",
