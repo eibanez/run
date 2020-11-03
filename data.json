@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 4278686323,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2020-11-03T03:02:35",
+    "distance": 2.000012427454733,
+    "duration": "0:19:16",
+    "pace": 9.634458812260537,
+    "title": "Started a new podcast ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 4189924777,
     "name": "Eduardo",
     "type": "Run",
