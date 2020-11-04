@@ -1793,6 +1793,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 4285205239,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2020-11-04T14:07:43",
+    "distance": 4.704972224638672,
+    "duration": "0:44:06",
+    "pace": 9.37188446307943,
+    "title": "A wrap on harvest ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 4281219186,
     "name": "Jessica",
     "type": "Run",
