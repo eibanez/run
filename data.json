@@ -1800,7 +1800,7 @@
     "distance": 6.265674127281992,
     "duration": "0:56:29",
     "pace": 9.015910364145657,
-    "title": "Morning Run",
+    "title": "Hillbilly Hike 10k",
     "source": "Strava"
   },
   {
@@ -13737,6 +13737,17 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "id": "4859387452",
+    "name": "Ann",
+    "type": "Race",
+    "date": "2020-11-08T15:20:14",
+    "distance": 6.314195693837226,
+    "duration": "0:56:12",
+    "pace": 8.900579380973616,
+    "title": "6.31mi Run",
+    "source": "MapMyRun iPhone"
   },
   {
     "id": "4817954248",
