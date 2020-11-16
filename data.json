@@ -1793,6 +1793,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 4347787994,
+    "name": "Jessica",
+    "type": "Treadmill",
+    "date": "2020-11-16T20:23:18",
+    "distance": 2.999987572545267,
+    "duration": "0:30:00",
+    "pace": 10.000869997514293,
+    "title": "Have to get all my tech used to the treadmill ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 4343965292,
     "name": "Jessica",
     "type": "Run",
