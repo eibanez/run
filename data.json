@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 4366488025,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2020-11-20T22:20:17",
+    "distance": 3.0540470006338003,
+    "duration": "0:27:22",
+    "pace": 8.961688384007127,
+    "title": "Trying my knee again",
+    "source": "Strava"
+  },
+  {
     "strava_id": 4278686323,
     "name": "Eduardo",
     "type": "Treadmill",
