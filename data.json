@@ -14300,6 +14300,39 @@
     "source": "MapMyRun Android"
   },
   {
+    "id": "5088523537",
+    "name": "Ann",
+    "type": "Run",
+    "date": "2020-12-07T21:40:56",
+    "distance": 3.9737498766947943,
+    "duration": "0:36:35",
+    "pace": 9.206249630326981,
+    "title": "3.97mi Run",
+    "source": "MapMyRun iPhone"
+  },
+  {
+    "id": "5056713859",
+    "name": "Ann",
+    "type": "Run",
+    "date": "2020-12-01T21:03:08",
+    "distance": 4.02615000693452,
+    "duration": "0:36:01",
+    "pace": 8.945684240436307,
+    "title": "4.03mi Run",
+    "source": "MapMyRun iPhone"
+  },
+  {
+    "id": "5028449701",
+    "name": "Ann",
+    "type": "Run",
+    "date": "2020-11-26T14:59:18",
+    "distance": 3.9819598971006753,
+    "duration": "0:47:13",
+    "pace": 11.857644950429016,
+    "title": "3.98mi Run",
+    "source": "MapMyRun iPhone"
+  },
+  {
     "id": "4916574850",
     "name": "Ann",
     "type": "Run",
