@@ -15,6 +15,7 @@ title: Comparisons
 <div id="compare-time-distance"></div>
 
 ## Total historical distance
+<div id="compare-distance-bar-total"></div>
 <div id="compare-distance-line-total"></div>
 <div id="compare-distance-line-year"></div>
 
@@ -28,6 +29,7 @@ title: Comparisons
 <script src="plots.js"></script>
 
 <script type="text/javascript">
+  load_plot("compare-distance-bar-total");
   load_plot("compare-distance-line-total");
   load_plot("compare-distance-bar-year");
   load_plot("compare-distance-line-year");
