@@ -15,6 +15,7 @@
       "header": {
         "title": null
       },
+      "sort": "descending",
       "timeUnit": "year",
       "type": "nominal"
     }
