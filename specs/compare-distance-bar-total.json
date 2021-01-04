@@ -53,7 +53,7 @@
       "type": "nominal"
     }
   },
-  "height": 200,
+  "height": 150,
   "layer": [
     {
       "mark": "bar"
@@ -68,7 +68,7 @@
         }
       },
       "mark": {
-        "dx": 10,
+        "dx": 15,
         "type": "text"
       }
     }
