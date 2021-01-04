@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 4563853026,
+    "name": "Eduardo",
+    "type": "Treadmill",
+    "date": "2021-01-04T02:03:41",
+    "distance": 2.000012427454733,
+    "duration": "0:21:43",
+    "pace": 10.85924426450742,
+    "title": "New year",
+    "source": "Strava"
+  },
+  {
     "strava_id": 4366488025,
     "name": "Eduardo",
     "type": "Run",
