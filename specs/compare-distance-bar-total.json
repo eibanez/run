@@ -37,20 +37,20 @@
       }
     ],
     "x": {
-      "axis": {
-        "title": null
-      },
-      "field": "name",
-      "sort": [],
-      "type": "nominal"
-    },
-    "y": {
       "aggregate": "sum",
       "axis": {
         "title": "Distance (miles)"
       },
       "field": "distance",
       "type": "quantitative"
+    },
+    "y": {
+      "axis": {
+        "title": null
+      },
+      "field": "name",
+      "sort": [],
+      "type": "nominal"
     }
   },
   "height": 200,
@@ -68,10 +68,10 @@
         }
       },
       "mark": {
-        "dy": -7,
+        "dx": 10,
         "type": "text"
       }
     }
   ],
-  "width": 150
+  "width": 475
 }
