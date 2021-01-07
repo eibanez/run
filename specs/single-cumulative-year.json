@@ -17,7 +17,6 @@
         "formatType": "time",
         "title": null
       },
-      "sort": "descending",
       "type": "nominal"
     },
     "tooltip": [
@@ -112,7 +111,7 @@
       "sort": [
         {
           "field": "date",
-          "order": "ascending"
+          "order": "descending"
         }
       ],
       "window": [
