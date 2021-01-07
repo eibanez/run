@@ -98,7 +98,6 @@
   },
   "height": 250,
   "mark": {
-    "interpolate": "step",
     "point": "transparent",
     "type": "line"
   },
