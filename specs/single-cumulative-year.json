@@ -19,6 +19,10 @@
       },
       "type": "nominal"
     },
+    "order": {
+      "field": "year",
+      "type": "nominal"
+    },
     "tooltip": [
       {
         "field": "title",
@@ -111,7 +115,7 @@
       "sort": [
         {
           "field": "date",
-          "order": "descending"
+          "order": "ascending"
         }
       ],
       "window": [
