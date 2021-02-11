@@ -9768,6 +9768,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 4770011372,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2021-02-11T11:59:47",
+    "distance": 4.062037854027117,
+    "duration": "0:38:36",
+    "pace": 9.50135789349392,
+    "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 4759637457,
     "name": "Brian",
     "type": "Run",
