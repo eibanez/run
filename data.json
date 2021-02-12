@@ -1815,6 +1815,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 4777440133,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-02-12T22:51:55",
+    "distance": 2.999987572545267,
+    "duration": "0:30:00",
+    "pace": 10.000869997514293,
+    "title": "3000 miles🏃‍♀️",
+    "source": "Strava"
+  },
+  {
     "strava_id": 4772610448,
     "name": "Jessica",
     "type": "Run",
