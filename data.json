@@ -1815,6 +1815,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 4809458964,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-02-18T22:19:14",
+    "distance": 4.138466700635043,
+    "duration": "0:38:36",
+    "pace": 9.326263328697266,
+    "title": "Still too cold and too much ice",
+    "source": "Strava"
+  },
+  {
     "strava_id": 4804204384,
     "name": "Jessica",
     "type": "Run",
