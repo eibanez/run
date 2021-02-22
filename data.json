@@ -1815,6 +1815,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 4832544468,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-02-22T21:59:49",
+    "distance": 4.700995439124113,
+    "duration": "0:42:47",
+    "pace": 9.101572220337065,
+    "title": "3 year runniversary ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 4820318441,
     "name": "Jessica",
     "type": "Run",
