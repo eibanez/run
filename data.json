@@ -1815,6 +1815,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 4850159584,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-02-25T21:30:32",
+    "distance": 4.685709669802527,
+    "duration": "0:39:53",
+    "pace": 8.512324129905851,
+    "title": "My trainer is a b!tch!",
+    "source": "Strava"
+  },
+  {
     "strava_id": 4838161164,
     "name": "Jessica",
     "type": "Run",
