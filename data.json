@@ -1815,6 +1815,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 4861650355,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-02-27T20:44:53",
+    "distance": 5.021313084867089,
+    "duration": "0:45:10",
+    "pace": 8.994746255309634,
+    "title": "So much better when running with someone.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 4854673878,
     "name": "Jessica",
     "type": "Run",
