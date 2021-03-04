@@ -98,7 +98,7 @@
   },
   "height": 250,
   "mark": {
-    "point": true,
+    "point": "transparent",
     "type": "line"
   },
   "selection": {
