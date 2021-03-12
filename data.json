@@ -1815,6 +1815,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 4935547871,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-03-12T18:44:43",
+    "distance": 4.080057663389961,
+    "duration": "0:35:55",
+    "pace": 8.802866207198337,
+    "title": "Lunch Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 4931305022,
     "name": "Jessica",
     "type": "Run",
