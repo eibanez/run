@@ -1815,6 +1815,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 4986019594,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-03-21T15:22:51",
+    "distance": 6.0225309754309215,
+    "duration": "0:51:27",
+    "pace": 8.542144373673036,
+    "title": "A little windy 🌬 ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 4979080950,
     "name": "Jessica",
     "type": "Run",
