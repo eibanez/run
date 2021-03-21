@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 4988091997,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2021-03-21T22:50:19",
+    "distance": 2.6663725502379862,
+    "duration": "0:23:27",
+    "pace": 8.794207650273224,
+    "title": "Afternoon Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 4563853026,
     "name": "Eduardo",
     "type": "Treadmill",
@@ -15893,6 +15904,28 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "id": "5593763356",
+    "name": "Ann",
+    "type": "Run",
+    "date": "2021-03-21T22:23:07",
+    "distance": 3.6407590490511645,
+    "duration": "0:32:09",
+    "pace": 8.830576142735609,
+    "title": "3.64mi Run",
+    "source": "MapMyRun iPhone"
+  },
+  {
+    "id": "5593511803",
+    "name": "Ann",
+    "type": "Run",
+    "date": "2021-03-20T16:28:43",
+    "distance": 6.374095842718134,
+    "duration": "0:53:15",
+    "pace": 8.35412603041318,
+    "title": "6.37mi Run",
+    "source": "MapMyRun iPhone"
   },
   {
     "id": "5577866545",
