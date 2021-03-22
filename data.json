@@ -1826,6 +1826,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 4992852502,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-03-22T21:04:40",
+    "distance": 3.5507723663116555,
+    "duration": "0:31:36",
+    "pace": 8.89924795399248,
+    "title": "🌧Did not beat the rain 🌧 ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 4986019594,
     "name": "Jessica",
     "type": "Run",
