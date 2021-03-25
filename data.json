@@ -1826,6 +1826,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5010835134,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-03-25T22:08:21",
+    "distance": 4.065641815899686,
+    "duration": "0:35:37",
+    "pace": 8.759743087306772,
+    "title": "Overdressing for today’s run will not make me any warmer on yesterday’s run.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5004763659,
     "name": "Jessica",
     "type": "Run",
