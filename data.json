@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 5028928803,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2021-03-28T23:51:26",
+    "distance": 0.2557570184050605,
+    "duration": "0:02:28",
+    "pace": 9.644851971712812,
+    "title": "Evening Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5028888834,
     "name": "Eduardo",
     "type": "Run",
