@@ -10241,6 +10241,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5046811282,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2021-03-31T22:38:38",
+    "distance": 5.022928653982379,
+    "duration": "0:46:06",
+    "pace": 9.179443303673283,
+    "title": "Afternoon Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5028393878,
     "name": "Brian",
     "type": "Run",
