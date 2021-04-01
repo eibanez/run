@@ -10252,6 +10252,17 @@
     "source": "Strava"
   },
   {
+    "strava_id": 5049811638,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2021-03-30T14:39:22",
+    "distance": 3.299986329799794,
+    "duration": "0:31:40",
+    "pace": 9.596541443053072,
+    "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5028393878,
     "name": "Brian",
     "type": "Run",
