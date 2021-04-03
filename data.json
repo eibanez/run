@@ -1848,6 +1848,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5061340042,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-04-03T12:46:09",
+    "distance": 4.037058670013795,
+    "duration": "0:38:22",
+    "pace": 9.504724781478856,
+    "title": "Mark still thinks it’s funny to try to run me over with a tractor.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5052240832,
     "name": "Jessica",
     "type": "Run",
