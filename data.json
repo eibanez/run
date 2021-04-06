@@ -1848,6 +1848,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5081492077,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-04-06T20:19:27",
+    "distance": 5.094883616886426,
+    "duration": "0:46:54",
+    "pace": 9.204644246167925,
+    "title": "My first fall😢🩸🩸🩸",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5068967445,
     "name": "Jessica",
     "type": "Run",
@@ -16124,6 +16135,17 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "id": "5644570528",
+    "name": "Ann",
+    "type": "Run",
+    "date": "2021-04-06T16:57:46",
+    "distance": 5.336403263549033,
+    "duration": "0:47:18",
+    "pace": 8.863647978609213,
+    "title": "5.34mi Run",
+    "source": "MapMyRun iPhone"
   },
   {
     "id": "5642134219",
