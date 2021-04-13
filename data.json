@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 5117027729,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2021-04-13T01:17:37",
+    "distance": 2.0312053388345537,
+    "duration": "0:18:25",
+    "pace": 9.067725940951092,
+    "title": "A quick one as it gets dark",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5028928803,
     "name": "Eduardo",
     "type": "Run",
