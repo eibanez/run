@@ -1859,6 +1859,28 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5133478056,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-04-15T20:36:54",
+    "distance": 2.0339393788758127,
+    "duration": "0:17:21",
+    "pace": 8.531276505513146,
+    "title": "Fucking dog",
+    "source": "Strava"
+  },
+  {
+    "strava_id": 5133413386,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-04-15T20:03:51",
+    "distance": 3.331738476642599,
+    "duration": "0:28:30",
+    "pace": 8.553039965986395,
+    "title": "Afternoon Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5122136098,
     "name": "Jessica",
     "type": "Run",
