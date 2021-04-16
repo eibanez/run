@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 5134281974,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2021-04-16T00:36:43",
+    "distance": 2.080790883219208,
+    "duration": "0:18:19",
+    "pace": 8.802866207198337,
+    "title": "Stealing golf balls at dusk",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5117027729,
     "name": "Eduardo",
     "type": "Run",
