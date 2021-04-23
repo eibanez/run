@@ -1870,6 +1870,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5179868626,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-04-23T20:35:22",
+    "distance": 3.055103334286105,
+    "duration": "0:27:12",
+    "pace": 8.90220157097024,
+    "title": "Perfect running weather ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5173696767,
     "name": "Jessica",
     "type": "Run",
