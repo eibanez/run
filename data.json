@@ -10461,6 +10461,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5185195672,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2021-04-24T16:28:32",
+    "distance": 4.301328494910957,
+    "duration": "0:37:55",
+    "pace": 8.814437506846314,
+    "title": "Lunch Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5171477835,
     "name": "Brian",
     "type": "Run",
@@ -16377,6 +16388,17 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "id": "5700551455",
+    "name": "Ann",
+    "type": "Run",
+    "date": "2021-04-24T14:29:29",
+    "distance": 3.4381685455155533,
+    "duration": "0:30:47",
+    "pace": 8.95341020249994,
+    "title": "3.44mi Run",
+    "source": "MapMyRun iPhone"
   },
   {
     "id": "5698724704",
