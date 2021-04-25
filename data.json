@@ -1870,6 +1870,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5192294028,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-04-25T17:28:46",
+    "distance": 3.0864205202132555,
+    "duration": "0:28:36",
+    "pace": 9.265054691997697,
+    "title": "Ready for better weather ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5179868626,
     "name": "Jessica",
     "type": "Run",
