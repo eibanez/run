@@ -1870,6 +1870,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5198956503,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-04-27T00:29:22",
+    "distance": 4.221792784619782,
+    "duration": "0:37:41",
+    "pace": 8.925901275651691,
+    "title": "New shoes! Realized I hadn’t bought new ones in 800 miles 😩",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5192294028,
     "name": "Jessica",
     "type": "Run",
