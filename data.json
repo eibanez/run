@@ -1881,6 +1881,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5297267949,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-05-14T19:04:39",
+    "distance": 4.487305354990245,
+    "duration": "0:42:22",
+    "pace": 9.441159216238413,
+    "title": "🌧",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5289652470,
     "name": "Jessica",
     "type": "Run",
