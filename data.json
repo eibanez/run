@@ -1881,6 +1881,39 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5351214490,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-05-24T11:38:15",
+    "distance": 5.050828289857955,
+    "duration": "0:45:05",
+    "pace": 8.925901275651691,
+    "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
+    "strava_id": 5351214390,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-05-23T16:21:09",
+    "distance": 4.041532553717674,
+    "duration": "0:38:36",
+    "pace": 9.552113010446345,
+    "title": "Lunch Run",
+    "source": "Strava"
+  },
+  {
+    "strava_id": 5351214459,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-05-22T13:30:42",
+    "distance": 4.044390868306262,
+    "duration": "0:39:10",
+    "pace": 9.683152827918171,
+    "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5335606168,
     "name": "Jessica",
     "type": "Run",
