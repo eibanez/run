@@ -1881,6 +1881,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5373177349,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-05-28T17:32:46",
+    "distance": 5.068848099220799,
+    "duration": "0:42:47",
+    "pace": 8.440004195510804,
+    "title": "Killed it",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5360683923,
     "name": "Jessica",
     "type": "Run",
