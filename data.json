@@ -1881,6 +1881,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5378682598,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-05-29T16:01:57",
+    "distance": 6.544111250574771,
+    "duration": "1:07:57",
+    "pace": 10.384178603690797,
+    "title": "Memorial Day run to the cemetery ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5373177349,
     "name": "Jessica",
     "type": "Run",
