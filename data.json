@@ -1881,6 +1881,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5384507102,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-05-30T14:42:58",
+    "distance": 6.868281407284974,
+    "duration": "1:06:23",
+    "pace": 9.665705705705706,
+    "title": "Stood for 4 hours in heels last night and can still run 👏",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5378682598,
     "name": "Jessica",
     "type": "Run",
