@@ -1892,6 +1892,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5417334666,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-06-05T12:29:59",
+    "distance": 4.18158996855854,
+    "duration": "0:39:12",
+    "pace": 9.375160200396131,
+    "title": "Summer Saturday: run, outdoor shower, donuts.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5411602708,
     "name": "Jessica",
     "type": "Run",
