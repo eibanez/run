@@ -1892,6 +1892,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5489741225,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-06-18T10:54:28",
+    "distance": 5.043620366112816,
+    "duration": "0:45:03",
+    "pace": 8.931845931845931,
+    "title": "Did not feel safe",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5479207316,
     "name": "Jessica",
     "type": "Run",
