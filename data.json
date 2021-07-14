@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 5624022658,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2021-07-14T01:55:43",
+    "distance": 2.0079659984838507,
+    "duration": "0:19:48",
+    "pace": 9.861151960784312,
+    "title": "Nice night",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5532631394,
     "name": "Eduardo",
     "type": "Run",
