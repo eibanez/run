@@ -11209,6 +11209,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5630831850,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2021-07-15T10:41:17",
+    "distance": 5.1922527247194505,
+    "duration": "0:47:55",
+    "pace": 9.229983941270934,
+    "title": "Heart Monitor Run! ❤️",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5619901830,
     "name": "Brian",
     "type": "Run",
