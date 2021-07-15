@@ -1914,6 +1914,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5633742500,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-07-15T21:29:50",
+    "distance": 3.179377881616066,
+    "duration": "0:27:54",
+    "pace": 8.774070439428634,
+    "title": "Plenty warm",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5628412122,
     "name": "Jessica",
     "type": "Run",
