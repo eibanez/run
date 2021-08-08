@@ -1914,6 +1914,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5758153547,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-08-08T11:24:05",
+    "distance": 2.999987572545267,
+    "duration": "0:30:00",
+    "pace": 10.000869997514293,
+    "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5752135935,
     "name": "Jessica",
     "type": "Run",
