@@ -1914,6 +1914,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5769306755,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-08-10T13:06:31",
+    "distance": 2.1081934209054647,
+    "duration": "0:25:22",
+    "pace": 12.033348287722445,
+    "title": "Morning Shuffle",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5758153547,
     "name": "Jessica",
     "type": "Run",
