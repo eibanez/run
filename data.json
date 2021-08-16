@@ -1914,6 +1914,39 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5801615314,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-08-16T11:40:25",
+    "distance": 5.066797569189855,
+    "duration": "0:46:10",
+    "pace": 9.110846920289855,
+    "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
+    "strava_id": 5790604953,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-08-14T11:16:27",
+    "distance": 2.9863173723389713,
+    "duration": "0:27:12",
+    "pace": 9.107753254103,
+    "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
+    "strava_id": 5786340653,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-08-13T14:28:03",
+    "distance": 2.999987572545267,
+    "duration": "0:28:00",
+    "pace": 9.332753421479934,
+    "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5775082103,
     "name": "Jessica",
     "type": "Run",
@@ -11427,6 +11460,28 @@
     "pace": 13.942081526805392,
     "title": "Ran 2.91 mi on 3/15/18",
     "source": "MapMyRun iPhone"
+  },
+  {
+    "strava_id": 5790570875,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2021-08-14T10:51:56",
+    "distance": 5.601550946350677,
+    "duration": "0:50:46",
+    "pace": 9.0615990990991,
+    "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
+    "strava_id": 5780094109,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2021-08-12T10:48:09",
+    "distance": 3.803049697391477,
+    "duration": "0:35:10",
+    "pace": 9.245892221073193,
+    "title": "Morning Run",
+    "source": "Strava"
   },
   {
     "strava_id": 5768604157,
