@@ -5,7 +5,7 @@
     "type": "Run",
     "date": "2021-07-14T01:55:43",
     "distance": 2.0079659984838507,
-    "duration": "0:19:48",
+    "duration": 1188,
     "pace": 9.861151960784312,
     "title": "Nice night",
     "source": "Strava"
@@ -16,7 +16,7 @@
     "type": "Run",
     "date": "2021-06-26T13:02:56",
     "distance": 0.8897436216088583,
-    "duration": "0:09:23",
+    "duration": 563,
     "pace": 10.547516057150347,
     "title": "Morning Run",
     "source": "Strava"
@@ -27,7 +27,7 @@
     "type": "Run",
     "date": "2021-06-02T01:53:52",
     "distance": 3.018939441013086,
-    "duration": "0:29:14",
+    "duration": 1754,
     "pace": 9.683152827918171,
     "title": "Swinging by the bottom of the hill park",
     "source": "Strava"
@@ -38,7 +38,7 @@
     "type": "Run",
     "date": "2021-05-05T01:24:25",
     "distance": 2.524388879913505,
-    "duration": "0:22:50",
+    "duration": 1370,
     "pace": 9.046318156267567,
     "title": "The 4th was with me",
     "source": "Strava"
@@ -49,7 +49,7 @@
     "type": "Run",
     "date": "2021-04-16T00:36:43",
     "distance": 2.080790883219208,
-    "duration": "0:18:19",
+    "duration": 1099,
     "pace": 8.802866207198337,
     "title": "Stealing golf balls at dusk",
     "source": "Strava"
@@ -60,7 +60,7 @@
     "type": "Run",
     "date": "2021-04-13T01:17:37",
     "distance": 2.0312053388345537,
-    "duration": "0:18:25",
+    "duration": 1105,
     "pace": 9.067725940951092,
     "title": "A quick one as it gets dark",
     "source": "Strava"
@@ -71,7 +71,7 @@
     "type": "Run",
     "date": "2021-03-28T23:51:26",
     "distance": 0.2557570184050605,
-    "duration": "0:02:28",
+    "duration": 148,
     "pace": 9.644851971712812,
     "title": "Evening Run",
     "source": "Strava"
@@ -82,7 +82,7 @@
     "type": "Run",
     "date": "2021-03-28T23:27:05",
     "distance": 1.8377720059154685,
-    "duration": "0:17:11",
+    "duration": 1031,
     "pace": 9.349018240966654,
     "title": "I’m going to have to build up",
     "source": "Strava"
@@ -93,7 +93,7 @@
     "type": "Run",
     "date": "2021-03-21T22:50:19",
     "distance": 2.6663725502379862,
-    "duration": "0:23:27",
+    "duration": 1407,
     "pace": 8.794207650273224,
     "title": "Starting again",
     "source": "Strava"
@@ -101,10 +101,10 @@
   {
     "strava_id": 4563853026,
     "name": "Eduardo",
-    "type": "Treadmill",
+    "type": "Run",
     "date": "2021-01-04T02:03:41",
     "distance": 2.000012427454733,
-    "duration": "0:21:43",
+    "duration": 1303,
     "pace": 10.85924426450742,
     "title": "New year",
     "source": "Strava"
@@ -115,7 +115,7 @@
     "type": "Run",
     "date": "2020-11-20T22:20:17",
     "distance": 3.0540470006338003,
-    "duration": "0:27:22",
+    "duration": 1642,
     "pace": 8.961688384007127,
     "title": "Trying my knee again",
     "source": "Strava"
@@ -123,10 +123,10 @@
   {
     "strava_id": 4278686323,
     "name": "Eduardo",
-    "type": "Treadmill",
+    "type": "Run",
     "date": "2020-11-03T03:02:35",
     "distance": 2.000012427454733,
-    "duration": "0:19:16",
+    "duration": 1156,
     "pace": 9.634458812260537,
     "title": "Started a new podcast ",
     "source": "Strava"
@@ -137,7 +137,7 @@
     "type": "Run",
     "date": "2020-10-13T15:06:26",
     "distance": 2.4554786434190414,
-    "duration": "0:27:52",
+    "duration": 1672,
     "pace": 11.350966285794893,
     "title": "Running with my little pal",
     "source": "Strava"
@@ -148,7 +148,7 @@
     "type": "Run",
     "date": "2020-10-07T12:28:24",
     "distance": 4.063777697689736,
-    "duration": "0:35:24",
+    "duration": 2124,
     "pace": 8.711378153080004,
     "title": "Morning Run",
     "source": "Strava"
@@ -1919,7 +1919,7 @@
     "type": "Run",
     "date": "2021-08-16T11:40:25",
     "distance": 5.066797569189855,
-    "duration": "0:46:10",
+    "duration": 2770,
     "pace": 9.110846920289855,
     "title": "Morning Run",
     "source": "Strava"
@@ -1930,7 +1930,7 @@
     "type": "Run",
     "date": "2021-08-14T11:16:27",
     "distance": 2.9863173723389713,
-    "duration": "0:27:12",
+    "duration": 1632,
     "pace": 9.107753254103,
     "title": "Morning Run",
     "source": "Strava"
@@ -1941,7 +1941,7 @@
     "type": "Run",
     "date": "2021-08-13T14:28:03",
     "distance": 2.999987572545267,
-    "duration": "0:28:00",
+    "duration": 1680,
     "pace": 9.332753421479934,
     "title": "Morning Run",
     "source": "Strava"
@@ -1952,7 +1952,7 @@
     "type": "Run",
     "date": "2021-08-11T12:37:07",
     "distance": 3.0327960530403772,
-    "duration": "0:28:18",
+    "duration": 1698,
     "pace": 9.332753421479934,
     "title": "Morning Run",
     "source": "Strava"
@@ -1963,7 +1963,7 @@
     "type": "Run",
     "date": "2021-08-10T13:06:31",
     "distance": 2.1081934209054647,
-    "duration": "0:25:22",
+    "duration": 1522,
     "pace": 12.033348287722445,
     "title": "Morning Shuffle",
     "source": "Strava"
@@ -1974,7 +1974,7 @@
     "type": "Run",
     "date": "2021-08-08T11:24:05",
     "distance": 2.999987572545267,
-    "duration": "0:30:00",
+    "duration": 1800,
     "pace": 10.000869997514293,
     "title": "Morning Run",
     "source": "Strava"
@@ -1985,7 +1985,7 @@
     "type": "Run",
     "date": "2021-08-07T09:40:03",
     "distance": 2.999987572545267,
-    "duration": "0:32:00",
+    "duration": 1920,
     "pace": 10.6649436713055,
     "title": "Morning Run",
     "source": "Strava"
@@ -1996,7 +1996,7 @@
     "type": "Run",
     "date": "2021-08-06T11:16:19",
     "distance": 7.43049945940572,
-    "duration": "1:04:40",
+    "duration": 3880,
     "pace": 8.702898550724639,
     "title": "In training. #runwithann ",
     "source": "Strava"
@@ -2007,7 +2007,7 @@
     "type": "Run",
     "date": "2021-08-04T12:05:53",
     "distance": 4.056321224849938,
-    "duration": "0:36:32",
+    "duration": 2192,
     "pace": 9.006827848668008,
     "title": "Morning Run",
     "source": "Strava"
@@ -2018,7 +2018,7 @@
     "type": "Run",
     "date": "2021-08-03T11:47:55",
     "distance": 5.037903736935639,
-    "duration": "0:44:17",
+    "duration": 2657,
     "pace": 8.791325248552386,
     "title": "Morning Run",
     "source": "Strava"
@@ -2029,7 +2029,7 @@
     "type": "Run",
     "date": "2021-08-01T13:40:08",
     "distance": 4.057998931238893,
-    "duration": "0:38:59",
+    "duration": 2339,
     "pace": 9.606852913085005,
     "title": "Day 1",
     "source": "Strava"
@@ -2040,7 +2040,7 @@
     "type": "Run",
     "date": "2021-07-31T13:48:10",
     "distance": 5.055861409024818,
-    "duration": "0:47:11",
+    "duration": 2831,
     "pace": 9.332753421479934,
     "title": "Morning Run",
     "source": "Strava"
@@ -2051,7 +2051,7 @@
     "type": "Run",
     "date": "2021-07-29T11:36:40",
     "distance": 4.4369120260479455,
-    "duration": "0:43:12",
+    "duration": 2592,
     "pace": 9.735874168179068,
     "title": "Morning Run",
     "source": "Strava"
@@ -2062,7 +2062,7 @@
     "type": "Run",
     "date": "2021-07-27T12:15:40",
     "distance": 4.0889432935240535,
-    "duration": "0:37:19",
+    "duration": 2239,
     "pace": 9.126346829987524,
     "title": "Morning Run",
     "source": "Strava"
@@ -2073,7 +2073,7 @@
     "type": "Run",
     "date": "2021-07-25T13:08:33",
     "distance": 4.048989026557471,
-    "duration": "0:41:57",
+    "duration": 2517,
     "pace": 10.360113299858375,
     "title": "Morning Run",
     "source": "Strava"
@@ -2084,7 +2084,7 @@
     "type": "Run",
     "date": "2021-07-24T11:50:17",
     "distance": 6.390756459169598,
-    "duration": "0:57:58",
+    "duration": 3478,
     "pace": 9.070792469845564,
     "title": "Morning Run",
     "source": "Strava"
@@ -2095,7 +2095,7 @@
     "type": "Run",
     "date": "2021-07-22T12:04:05",
     "distance": 3.2892987187294174,
-    "duration": "0:29:42",
+    "duration": 1782,
     "pace": 9.028048917311791,
     "title": "Morning Run",
     "source": "Strava"
@@ -2106,7 +2106,7 @@
     "type": "Run",
     "date": "2021-07-21T11:43:28",
     "distance": 4.285732039221047,
-    "duration": "0:38:57",
+    "duration": 2337,
     "pace": 9.089235287473173,
     "title": "Morning Run",
     "source": "Strava"
@@ -2117,7 +2117,7 @@
     "type": "Run",
     "date": "2021-07-20T13:44:23",
     "distance": 4.05371145935601,
-    "duration": "0:35:47",
+    "duration": 2147,
     "pace": 8.826039267302841,
     "title": "Morning Run",
     "source": "Strava"
@@ -2128,7 +2128,7 @@
     "type": "Run",
     "date": "2021-07-19T20:59:55",
     "distance": 3.20000745647284,
-    "duration": "0:32:00",
+    "duration": 1920,
     "pace": 10.000869997514293,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2139,7 +2139,7 @@
     "type": "Run",
     "date": "2021-07-17T12:42:09",
     "distance": 4.046627810158202,
-    "duration": "0:38:27",
+    "duration": 2307,
     "pace": 9.50135789349392,
     "title": "Morning Run",
     "source": "Strava"
@@ -2150,7 +2150,7 @@
     "type": "Run",
     "date": "2021-07-16T11:58:52",
     "distance": 4.043085985559298,
-    "duration": "0:40:21",
+    "duration": 2421,
     "pace": 9.978546626984127,
     "title": "Morning Run",
     "source": "Strava"
@@ -2161,7 +2161,7 @@
     "type": "Run",
     "date": "2021-07-15T21:29:50",
     "distance": 3.179377881616066,
-    "duration": "0:27:54",
+    "duration": 1674,
     "pace": 8.774070439428634,
     "title": "Plenty warm",
     "source": "Strava"
@@ -2172,7 +2172,7 @@
     "type": "Run",
     "date": "2021-07-14T20:32:44",
     "distance": 2.999987572545267,
-    "duration": "0:30:00",
+    "duration": 1800,
     "pace": 10.000869997514293,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2183,7 +2183,7 @@
     "type": "Run",
     "date": "2021-07-13T11:45:57",
     "distance": 4.038425690034424,
-    "duration": "0:36:36",
+    "duration": 2196,
     "pace": 9.0615990990991,
     "title": "Morning Run",
     "source": "Strava"
@@ -2194,7 +2194,7 @@
     "type": "Run",
     "date": "2021-07-11T14:11:23",
     "distance": 5.132041706538085,
-    "duration": "0:45:07",
+    "duration": 2707,
     "pace": 8.791325248552386,
     "title": "Morning Run",
     "source": "Strava"
@@ -2205,7 +2205,7 @@
     "type": "Run",
     "date": "2021-07-11T01:33:36",
     "distance": 3.052679980613171,
-    "duration": "0:27:56",
+    "duration": 1676,
     "pace": 9.151256681451153,
     "title": "Evening Run",
     "source": "Strava"
@@ -2216,7 +2216,7 @@
     "type": "Run",
     "date": "2021-07-09T12:07:29",
     "distance": 4.03326829632023,
-    "duration": "0:41:25",
+    "duration": 2485,
     "pace": 10.268887187340479,
     "title": "Morning Run",
     "source": "Strava"
@@ -2227,7 +2227,7 @@
     "type": "Run",
     "date": "2021-07-08T11:54:45",
     "distance": 5.32224390122659,
-    "duration": "0:48:51",
+    "duration": 2931,
     "pace": 9.179443303673283,
     "title": "Morning Run",
     "source": "Strava"
@@ -2238,7 +2238,7 @@
     "type": "Run",
     "date": "2021-07-07T11:33:03",
     "distance": 4.218934470031193,
-    "duration": "0:38:08",
+    "duration": 2288,
     "pace": 9.037174303683738,
     "title": "Morning Run",
     "source": "Strava"
@@ -2249,7 +2249,7 @@
     "type": "Run",
     "date": "2021-07-05T12:14:56",
     "distance": 3.7409124237264963,
-    "duration": "0:36:29",
+    "duration": 2189,
     "pace": 9.753575757575758,
     "title": "Morning Run",
     "source": "Strava"
@@ -2260,7 +2260,7 @@
     "type": "Run",
     "date": "2021-07-04T11:37:24",
     "distance": 4.543228901288727,
-    "duration": "0:43:09",
+    "duration": 2589,
     "pace": 9.497993389990558,
     "title": "Morning Run",
     "source": "Strava"
@@ -2271,7 +2271,7 @@
     "type": "Run",
     "date": "2021-07-03T11:35:13",
     "distance": 4.5458386667826565,
-    "duration": "0:44:16",
+    "duration": 2656,
     "pace": 9.739409343984507,
     "title": "Morning Run",
     "source": "Strava"
@@ -2282,7 +2282,7 @@
     "type": "Run",
     "date": "2021-07-02T12:03:15",
     "distance": 4.230554140206544,
-    "duration": "0:37:52",
+    "duration": 2272,
     "pace": 8.949727505283061,
     "title": "Morning Run",
     "source": "Strava"
@@ -2293,7 +2293,7 @@
     "type": "Run",
     "date": "2021-07-01T11:35:15",
     "distance": 4.071793405992518,
-    "duration": "0:37:35",
+    "duration": 2255,
     "pace": 9.229983941270934,
     "title": "Morning Run",
     "source": "Strava"
@@ -2304,7 +2304,7 @@
     "type": "Run",
     "date": "2021-06-29T11:35:49",
     "distance": 4.753687847192017,
-    "duration": "0:43:19",
+    "duration": 2599,
     "pace": 9.110846920289855,
     "title": "Morning Run",
     "source": "Strava"
@@ -2315,7 +2315,7 @@
     "type": "Run",
     "date": "2021-06-28T13:29:15",
     "distance": 4.435296456932655,
-    "duration": "0:40:42",
+    "duration": 2442,
     "pace": 9.176302885163645,
     "title": "Morning Run",
     "source": "Strava"
@@ -2326,7 +2326,7 @@
     "type": "Run",
     "date": "2021-06-26T15:25:15",
     "distance": 5.044925248859781,
-    "duration": "0:46:10",
+    "duration": 2770,
     "pace": 9.151256681451153,
     "title": "Morning Run",
     "source": "Strava"
@@ -2337,7 +2337,7 @@
     "type": "Run",
     "date": "2021-06-26T13:02:56",
     "distance": 0.8897436216088583,
-    "duration": "0:09:23",
+    "duration": 563,
     "pace": 10.547516057150347,
     "title": "Morning Run",
     "source": "Strava"
@@ -2348,7 +2348,7 @@
     "type": "Run",
     "date": "2021-06-25T11:40:23",
     "distance": 4.040041259149714,
-    "duration": "0:37:58",
+    "duration": 2278,
     "pace": 9.39815463676711,
     "title": "Morning Run",
     "source": "Strava"
@@ -2359,7 +2359,7 @@
     "type": "Run",
     "date": "2021-06-24T20:25:22",
     "distance": 2.999987572545267,
-    "duration": "0:27:00",
+    "duration": 1620,
     "pace": 9.000782997762864,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2370,7 +2370,7 @@
     "type": "Run",
     "date": "2021-06-23T11:38:55",
     "distance": 4.392918836293139,
-    "duration": "0:39:59",
+    "duration": 2399,
     "pace": 9.101572220337065,
     "title": "Morning Run",
     "source": "Strava"
@@ -2381,7 +2381,7 @@
     "type": "Run",
     "date": "2021-06-22T12:43:41",
     "distance": 4.060111598543503,
-    "duration": "0:38:46",
+    "duration": 2326,
     "pace": 9.54871247181678,
     "title": "Morning Run",
     "source": "Strava"
@@ -2392,7 +2392,7 @@
     "type": "Run",
     "date": "2021-06-21T12:21:56",
     "distance": 4.199858327016044,
-    "duration": "0:38:32",
+    "duration": 2312,
     "pace": 9.176302885163645,
     "title": "Morning Run",
     "source": "Strava"
@@ -2403,7 +2403,7 @@
     "type": "Run",
     "date": "2021-06-19T11:22:58",
     "distance": 4.367442554090497,
-    "duration": "0:38:36",
+    "duration": 2316,
     "pace": 8.83767160900604,
     "title": "Morning Run",
     "source": "Strava"
@@ -2414,7 +2414,7 @@
     "type": "Run",
     "date": "2021-06-18T10:54:28",
     "distance": 5.043620366112816,
-    "duration": "0:45:03",
+    "duration": 2703,
     "pace": 8.931845931845931,
     "title": "Did not feel safe",
     "source": "Strava"
@@ -2425,7 +2425,7 @@
     "type": "Run",
     "date": "2021-06-16T11:12:38",
     "distance": 4.575229597226192,
-    "duration": "0:42:18",
+    "duration": 2538,
     "pace": 9.245892221073193,
     "title": "Morning Run",
     "source": "Strava"
@@ -2436,7 +2436,7 @@
     "type": "Run",
     "date": "2021-06-15T11:10:07",
     "distance": 5.703704624255907,
-    "duration": "0:52:54",
+    "duration": 3174,
     "pace": 9.274665744582757,
     "title": "Morning Run",
     "source": "Strava"
@@ -2447,7 +2447,7 @@
     "type": "Run",
     "date": "2021-06-13T13:16:55",
     "distance": 4.248014714106404,
-    "duration": "0:40:32",
+    "duration": 2432,
     "pace": 9.541918652911182,
     "title": "Morning Run",
     "source": "Strava"
@@ -2458,7 +2458,7 @@
     "type": "Run",
     "date": "2021-06-12T11:25:57",
     "distance": 4.041905377359663,
-    "duration": "0:41:42",
+    "duration": 2502,
     "pace": 10.31628205128205,
     "title": "Morning Run",
     "source": "Strava"
@@ -2469,7 +2469,7 @@
     "type": "Run",
     "date": "2021-06-11T12:12:29",
     "distance": 4.114046752084706,
-    "duration": "0:38:36",
+    "duration": 2316,
     "pace": 9.38171854960942,
     "title": "too hot 🥵",
     "source": "Strava"
@@ -2480,7 +2480,7 @@
     "type": "Run",
     "date": "2021-06-09T11:16:16",
     "distance": 4.073968210570793,
-    "duration": "0:40:29",
+    "duration": 2429,
     "pace": 9.937878226503644,
     "title": "Morning Run",
     "source": "Strava"
@@ -2491,7 +2491,7 @@
     "type": "Run",
     "date": "2021-06-08T11:36:05",
     "distance": 4.069307915045919,
-    "duration": "0:40:20",
+    "duration": 2420,
     "pace": 9.912170485341218,
     "title": "Morning Run",
     "source": "Strava"
@@ -2502,7 +2502,7 @@
     "type": "Run",
     "date": "2021-06-06T14:33:10",
     "distance": 2.6739532976251135,
-    "duration": "0:26:21",
+    "duration": 1581,
     "pace": 9.85390644134215,
     "title": "Sister run",
     "source": "Strava"
@@ -2513,7 +2513,7 @@
     "type": "Run",
     "date": "2021-06-06T12:53:40",
     "distance": 5.240346974536146,
-    "duration": "0:48:39",
+    "duration": 2919,
     "pace": 9.284296757817007,
     "title": "Morning Run",
     "source": "Strava"
@@ -2524,7 +2524,7 @@
     "type": "Run",
     "date": "2021-06-05T12:29:59",
     "distance": 4.18158996855854,
-    "duration": "0:39:12",
+    "duration": 2352,
     "pace": 9.375160200396131,
     "title": "Summer Saturday: run, outdoor shower, donuts.",
     "source": "Strava"
@@ -2535,7 +2535,7 @@
     "type": "Run",
     "date": "2021-06-04T11:59:13",
     "distance": 3.107857879627674,
-    "duration": "0:28:41",
+    "duration": 1721,
     "pace": 9.229983941270934,
     "title": "Morning Run",
     "source": "Strava"
@@ -2546,7 +2546,7 @@
     "type": "Run",
     "date": "2021-06-03T12:31:38",
     "distance": 4.1014328855307145,
-    "duration": "0:37:21",
+    "duration": 2241,
     "pace": 9.107753254103,
     "title": "Morning Run",
     "source": "Strava"
@@ -2557,7 +2557,7 @@
     "type": "Run",
     "date": "2021-06-01T21:36:15",
     "distance": 5.694321895932495,
-    "duration": "0:50:43",
+    "duration": 3043,
     "pace": 8.905157149181054,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2568,7 +2568,7 @@
     "type": "Run",
     "date": "2021-05-30T14:42:58",
     "distance": 6.868281407284974,
-    "duration": "1:06:23",
+    "duration": 3983,
     "pace": 9.665705705705706,
     "title": "Stood for 4 hours in heels last night and can still run 👏",
     "source": "Strava"
@@ -2579,7 +2579,7 @@
     "type": "Run",
     "date": "2021-05-29T16:01:57",
     "distance": 6.544111250574771,
-    "duration": "1:07:57",
+    "duration": 4077,
     "pace": 10.384178603690797,
     "title": "Memorial Day run to the cemetery ",
     "source": "Strava"
@@ -2590,7 +2590,7 @@
     "type": "Run",
     "date": "2021-05-28T17:32:46",
     "distance": 5.068848099220799,
-    "duration": "0:42:47",
+    "duration": 2567,
     "pace": 8.440004195510804,
     "title": "Killed it",
     "source": "Strava"
@@ -2601,7 +2601,7 @@
     "type": "Run",
     "date": "2021-05-26T11:21:46",
     "distance": 6.584189792088683,
-    "duration": "0:58:51",
+    "duration": 3531,
     "pace": 8.937798511607243,
     "title": "Morning Run",
     "source": "Strava"
@@ -2612,7 +2612,7 @@
     "type": "Run",
     "date": "2021-05-24T11:38:15",
     "distance": 5.050828289857955,
-    "duration": "0:45:05",
+    "duration": 2705,
     "pace": 8.925901275651691,
     "title": "Morning Run",
     "source": "Strava"
@@ -2623,7 +2623,7 @@
     "type": "Run",
     "date": "2021-05-23T16:21:09",
     "distance": 4.041532553717674,
-    "duration": "0:38:36",
+    "duration": 2316,
     "pace": 9.552113010446345,
     "title": "Lunch Run",
     "source": "Strava"
@@ -2634,7 +2634,7 @@
     "type": "Run",
     "date": "2021-05-22T13:30:42",
     "distance": 4.044390868306262,
-    "duration": "0:39:10",
+    "duration": 2350,
     "pace": 9.683152827918171,
     "title": "Morning Run",
     "source": "Strava"
@@ -2645,7 +2645,7 @@
     "type": "Run",
     "date": "2021-05-21T20:00:40",
     "distance": 4.496128847850672,
-    "duration": "0:40:27",
+    "duration": 2427,
     "pace": 8.997763613999776,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2656,7 +2656,7 @@
     "type": "Run",
     "date": "2021-05-20T22:23:16",
     "distance": 2.999987572545267,
-    "duration": "0:30:00",
+    "duration": 1800,
     "pace": 10.000869997514293,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2667,7 +2667,7 @@
     "type": "Run",
     "date": "2021-05-19T15:42:18",
     "distance": 3.132774926367331,
-    "duration": "0:28:29",
+    "duration": 1709,
     "pace": 9.09231638418079,
     "title": "Morning Run",
     "source": "Strava"
@@ -2678,7 +2678,7 @@
     "type": "Run",
     "date": "2021-05-18T21:56:16",
     "distance": 5.328395491319424,
-    "duration": "0:47:46",
+    "duration": 2866,
     "pace": 8.964683600713013,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2689,7 +2689,7 @@
     "type": "Run",
     "date": "2021-05-16T13:41:13",
     "distance": 4.0404762200653686,
-    "duration": "0:40:21",
+    "duration": 2421,
     "pace": 9.985976669148672,
     "title": "Morning Run",
     "source": "Strava"
@@ -2700,7 +2700,7 @@
     "type": "Run",
     "date": "2021-05-14T19:04:39",
     "distance": 4.487305354990245,
-    "duration": "0:42:22",
+    "duration": 2542,
     "pace": 9.441159216238413,
     "title": "🌧",
     "source": "Strava"
@@ -2711,7 +2711,7 @@
     "type": "Run",
     "date": "2021-05-13T11:58:48",
     "distance": 4.508307753489008,
-    "duration": "0:40:33",
+    "duration": 2433,
     "pace": 8.994746255309634,
     "title": "Morning Run",
     "source": "Strava"
@@ -2722,7 +2722,7 @@
     "type": "Run",
     "date": "2021-05-11T20:08:35",
     "distance": 3.1215280798339697,
-    "duration": "0:27:58",
+    "duration": 1678,
     "pace": 8.958695168114005,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2733,7 +2733,7 @@
     "type": "Run",
     "date": "2021-05-10T22:20:20",
     "distance": 4.113301104800726,
-    "duration": "0:37:07",
+    "duration": 2227,
     "pace": 9.025011215791835,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2744,7 +2744,7 @@
     "type": "Run",
     "date": "2021-05-09T23:30:56",
     "distance": 4.261622777039035,
-    "duration": "0:37:15",
+    "duration": 2235,
     "pace": 8.739763223634192,
     "title": "Evening Run",
     "source": "Strava"
@@ -2755,7 +2755,7 @@
     "type": "Run",
     "date": "2021-05-08T13:32:40",
     "distance": 4.062845638584761,
-    "duration": "0:41:25",
+    "duration": 2485,
     "pace": 10.194729507158241,
     "title": "Morning Run",
     "source": "Strava"
@@ -2766,7 +2766,7 @@
     "type": "Run",
     "date": "2021-05-07T19:13:24",
     "distance": 3.1076714678066786,
-    "duration": "0:29:01",
+    "duration": 1741,
     "pace": 9.336001856363847,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2777,7 +2777,7 @@
     "type": "Run",
     "date": "2021-05-06T22:51:25",
     "distance": 3.9862925174295056,
-    "duration": "0:35:57",
+    "duration": 2157,
     "pace": 9.018941941268773,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2788,7 +2788,7 @@
     "type": "Run",
     "date": "2021-05-04T21:09:48",
     "distance": 6.404364522102228,
-    "duration": "0:56:42",
+    "duration": 3402,
     "pace": 8.852255225522553,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2799,7 +2799,7 @@
     "type": "Run",
     "date": "2021-05-03T11:48:56",
     "distance": 3.740104639168852,
-    "duration": "0:34:42",
+    "duration": 2082,
     "pace": 9.27787386140897,
     "title": "Morning Run",
     "source": "Strava"
@@ -2810,7 +2810,7 @@
     "type": "Race",
     "date": "2021-05-01T19:54:50",
     "distance": 4.451638559906546,
-    "duration": "0:38:09",
+    "duration": 2289,
     "pace": 8.56943556975506,
     "title": "DSM Women’s Half Marathon Relay. 20-30 mph wind in 86 degree heat.🥵",
     "source": "Strava"
@@ -2821,7 +2821,7 @@
     "type": "Run",
     "date": "2021-04-30T11:48:13",
     "distance": 3.163843563199821,
-    "duration": "0:31:22",
+    "duration": 1882,
     "pace": 9.915834873690695,
     "title": "Morning Run",
     "source": "Strava"
@@ -2832,7 +2832,7 @@
     "type": "Run",
     "date": "2021-04-28T20:59:18",
     "distance": 6.082679856338624,
-    "duration": "0:54:39",
+    "duration": 3279,
     "pace": 8.9857063093244,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2843,7 +2843,7 @@
     "type": "Run",
     "date": "2021-04-27T22:07:47",
     "distance": 4.1973728360694444,
-    "duration": "0:36:38",
+    "duration": 2198,
     "pace": 8.728387026792493,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2854,7 +2854,7 @@
     "type": "Run",
     "date": "2021-04-27T00:29:22",
     "distance": 4.221792784619782,
-    "duration": "0:37:41",
+    "duration": 2261,
     "pace": 8.925901275651691,
     "title": "New shoes! Realized I hadn’t bought new ones in 800 miles 😩",
     "source": "Strava"
@@ -2865,7 +2865,7 @@
     "type": "Run",
     "date": "2021-04-25T17:28:46",
     "distance": 3.0864205202132555,
-    "duration": "0:28:36",
+    "duration": 1716,
     "pace": 9.265054691997697,
     "title": "Ready for better weather ",
     "source": "Strava"
@@ -2876,7 +2876,7 @@
     "type": "Run",
     "date": "2021-04-23T20:35:22",
     "distance": 3.055103334286105,
-    "duration": "0:27:12",
+    "duration": 1632,
     "pace": 8.90220157097024,
     "title": "Perfect running weather ",
     "source": "Strava"
@@ -2887,7 +2887,7 @@
     "type": "Run",
     "date": "2021-04-22T17:27:26",
     "distance": 4.05371145935601,
-    "duration": "0:36:32",
+    "duration": 2192,
     "pace": 9.01288082437276,
     "title": "Lunch Run",
     "source": "Strava"
@@ -2898,7 +2898,7 @@
     "type": "Run",
     "date": "2021-04-21T20:58:22",
     "distance": 4.585109423738924,
-    "duration": "0:42:29",
+    "duration": 2549,
     "pace": 9.265054691997697,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2909,7 +2909,7 @@
     "type": "Run",
     "date": "2021-04-19T21:53:18",
     "distance": 3.5290243205289125,
-    "duration": "0:34:27",
+    "duration": 2067,
     "pace": 9.760674429888402,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2920,7 +2920,7 @@
     "type": "Run",
     "date": "2021-04-17T15:33:34",
     "distance": 8.104813153218089,
-    "duration": "1:19:46",
+    "duration": 4786,
     "pace": 9.843058103975535,
     "title": "Morning Run",
     "source": "Strava"
@@ -2931,7 +2931,7 @@
     "type": "Run",
     "date": "2021-04-16T17:25:44",
     "distance": 4.0844072725465095,
-    "duration": "0:36:42",
+    "duration": 2202,
     "pace": 8.9857063093244,
     "title": "Lunch Run",
     "source": "Strava"
@@ -2942,7 +2942,7 @@
     "type": "Run",
     "date": "2021-04-15T20:36:54",
     "distance": 2.0339393788758127,
-    "duration": "0:17:21",
+    "duration": 1041,
     "pace": 8.531276505513146,
     "title": "Fucking dog",
     "source": "Strava"
@@ -2953,7 +2953,7 @@
     "type": "Run",
     "date": "2021-04-15T20:03:51",
     "distance": 3.331738476642599,
-    "duration": "0:28:30",
+    "duration": 1710,
     "pace": 8.553039965986395,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2964,7 +2964,7 @@
     "type": "Run",
     "date": "2021-04-13T20:39:17",
     "distance": 5.1862254091739475,
-    "duration": "0:46:07",
+    "duration": 2767,
     "pace": 8.893346595932803,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2975,7 +2975,7 @@
     "type": "Run",
     "date": "2021-04-11T19:26:54",
     "distance": 1.0691339306796575,
-    "duration": "0:09:58",
+    "duration": 598,
     "pace": 9.32302166608736,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2986,7 +2986,7 @@
     "type": "Run",
     "date": "2021-04-11T18:37:10",
     "distance": 3.223060385002548,
-    "duration": "0:30:05",
+    "duration": 1805,
     "pace": 9.332753421479934,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -2997,7 +2997,7 @@
     "type": "Run",
     "date": "2021-04-10T14:10:21",
     "distance": 3.5375371270210154,
-    "duration": "0:32:49",
+    "duration": 1969,
     "pace": 9.27787386140897,
     "title": "Morning Run",
     "source": "Strava"
@@ -3008,7 +3008,7 @@
     "type": "Run",
     "date": "2021-04-09T21:08:01",
     "distance": 4.1139224775373755,
-    "duration": "0:36:53",
+    "duration": 2213,
     "pace": 8.964683600713013,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3019,7 +3019,7 @@
     "type": "Run",
     "date": "2021-04-08T20:34:30",
     "distance": 6.2060223445636105,
-    "duration": "0:55:59",
+    "duration": 3359,
     "pace": 9.02197555779796,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3030,7 +3030,7 @@
     "type": "Run",
     "date": "2021-04-06T20:19:27",
     "distance": 5.094883616886426,
-    "duration": "0:46:54",
+    "duration": 2814,
     "pace": 9.204644246167925,
     "title": "My first fall😢🩸🩸🩸",
     "source": "Strava"
@@ -3041,7 +3041,7 @@
     "type": "Run",
     "date": "2021-04-04T15:23:52",
     "distance": 4.0964619036375165,
-    "duration": "0:38:27",
+    "duration": 2307,
     "pace": 9.385001166316771,
     "title": "Morning Run",
     "source": "Strava"
@@ -3052,7 +3052,7 @@
     "type": "Run",
     "date": "2021-04-03T12:46:09",
     "distance": 4.037058670013795,
-    "duration": "0:38:22",
+    "duration": 2302,
     "pace": 9.504724781478856,
     "title": "Mark still thinks it’s funny to try to run me over with a tractor.",
     "source": "Strava"
@@ -3063,7 +3063,7 @@
     "type": "Run",
     "date": "2021-04-01T22:05:34",
     "distance": 4.366261945890862,
-    "duration": "0:38:47",
+    "duration": 2327,
     "pace": 8.881567328918322,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3074,7 +3074,7 @@
     "type": "Run",
     "date": "2021-03-31T22:30:29",
     "distance": 3.030124150272783,
-    "duration": "0:28:01",
+    "duration": 1681,
     "pace": 9.245892221073193,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3085,7 +3085,7 @@
     "type": "Run",
     "date": "2021-03-30T21:03:36",
     "distance": 4.522288640063628,
-    "duration": "0:40:21",
+    "duration": 2421,
     "pace": 8.922931913949878,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3096,7 +3096,7 @@
     "type": "Run",
     "date": "2021-03-29T22:27:42",
     "distance": 3.20000745647284,
-    "duration": "0:32:00",
+    "duration": 1920,
     "pace": 10.000869997514293,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3107,7 +3107,7 @@
     "type": "Run",
     "date": "2021-03-28T16:32:22",
     "distance": 4.058309617607218,
-    "duration": "0:38:31",
+    "duration": 2311,
     "pace": 9.491271526303374,
     "title": "Lunch Run",
     "source": "Strava"
@@ -3118,7 +3118,7 @@
     "type": "Run",
     "date": "2021-03-26T20:45:28",
     "distance": 6.361862626915381,
-    "duration": "0:55:18",
+    "duration": 3318,
     "pace": 8.691618060056168,
     "title": "Perfect running weather.",
     "source": "Strava"
@@ -3129,7 +3129,7 @@
     "type": "Run",
     "date": "2021-03-25T22:08:21",
     "distance": 4.065641815899686,
-    "duration": "0:35:37",
+    "duration": 2137,
     "pace": 8.759743087306772,
     "title": "Overdressing for today’s run will not make me any warmer on yesterday’s run.",
     "source": "Strava"
@@ -3140,7 +3140,7 @@
     "type": "Run",
     "date": "2021-03-24T20:25:30",
     "distance": 5.1767184063032055,
-    "duration": "0:44:44",
+    "duration": 2684,
     "pace": 8.641215635738831,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3151,7 +3151,7 @@
     "type": "Run",
     "date": "2021-03-22T21:04:40",
     "distance": 3.5507723663116555,
-    "duration": "0:31:36",
+    "duration": 1896,
     "pace": 8.89924795399248,
     "title": "🌧Did not beat the rain 🌧 ",
     "source": "Strava"
@@ -3162,7 +3162,7 @@
     "type": "Run",
     "date": "2021-03-21T15:22:51",
     "distance": 6.0225309754309215,
-    "duration": "0:51:27",
+    "duration": 3087,
     "pace": 8.542144373673036,
     "title": "A little windy 🌬 ",
     "source": "Strava"
@@ -3173,7 +3173,7 @@
     "type": "Run",
     "date": "2021-03-20T15:06:47",
     "distance": 4.011147426895498,
-    "duration": "0:38:38",
+    "duration": 2318,
     "pace": 9.630999401555954,
     "title": "Morning Run",
     "source": "Strava"
@@ -3184,7 +3184,7 @@
     "type": "Run",
     "date": "2021-03-18T20:26:35",
     "distance": 4.1204468912721985,
-    "duration": "0:37:01",
+    "duration": 2221,
     "pace": 8.982697030587184,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3195,7 +3195,7 @@
     "type": "Run",
     "date": "2021-03-16T15:06:56",
     "distance": 3.1363788882399,
-    "duration": "0:28:39",
+    "duration": 1719,
     "pace": 9.135672116257947,
     "title": "3️⃣8️⃣🎂",
     "source": "Strava"
@@ -3206,7 +3206,7 @@
     "type": "Run",
     "date": "2021-03-15T21:00:20",
     "distance": 4.541613332173438,
-    "duration": "0:41:24",
+    "duration": 2484,
     "pace": 9.11704056197598,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3217,7 +3217,7 @@
     "type": "Run",
     "date": "2021-03-14T22:00:10",
     "distance": 2.999987572545267,
-    "duration": "0:30:00",
+    "duration": 1800,
     "pace": 10.000869997514293,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3228,7 +3228,7 @@
     "type": "Run",
     "date": "2021-03-13T18:57:00",
     "distance": 5.0117439447226815,
-    "duration": "0:49:09",
+    "duration": 2949,
     "pace": 9.807068860450945,
     "title": "Lunch Run",
     "source": "Strava"
@@ -3239,7 +3239,7 @@
     "type": "Run",
     "date": "2021-03-12T18:44:43",
     "distance": 4.080057663389961,
-    "duration": "0:35:55",
+    "duration": 2155,
     "pace": 8.802866207198337,
     "title": "Lunch Run",
     "source": "Strava"
@@ -3250,7 +3250,7 @@
     "type": "Run",
     "date": "2021-03-11T21:33:03",
     "distance": 5.367728385549356,
-    "duration": "0:47:46",
+    "duration": 2866,
     "pace": 8.89924795399248,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3261,7 +3261,7 @@
     "type": "Run",
     "date": "2021-03-09T23:28:59",
     "distance": 4.099195943678775,
-    "duration": "0:36:53",
+    "duration": 2213,
     "pace": 8.997763613999776,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3272,7 +3272,7 @@
     "type": "Run",
     "date": "2021-03-08T20:17:15",
     "distance": 6.525718617569936,
-    "duration": "0:57:01",
+    "duration": 3421,
     "pace": 8.736916395222584,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3283,7 +3283,7 @@
     "type": "Run",
     "date": "2021-03-06T21:10:07",
     "distance": 4.316489989685213,
-    "duration": "0:42:01",
+    "duration": 2521,
     "pace": 9.732341557813257,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3294,7 +3294,7 @@
     "type": "Run",
     "date": "2021-03-05T21:27:31",
     "distance": 1.0642250860601241,
-    "duration": "0:09:58",
+    "duration": 598,
     "pace": 9.365339851024208,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3305,7 +3305,7 @@
     "type": "Run",
     "date": "2021-03-05T20:53:36",
     "distance": 2.6796077895286268,
-    "duration": "0:24:44",
+    "duration": 1484,
     "pace": 9.229983941270934,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3316,7 +3316,7 @@
     "type": "Run",
     "date": "2021-03-03T22:21:36",
     "distance": 3.0345358967029967,
-    "duration": "0:26:45",
+    "duration": 1605,
     "pace": 8.814437506846314,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3327,7 +3327,7 @@
     "type": "Run",
     "date": "2021-03-02T21:41:47",
     "distance": 5.756210620502816,
-    "duration": "0:50:04",
+    "duration": 3004,
     "pace": 8.697254647643753,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3338,7 +3338,7 @@
     "type": "Run",
     "date": "2021-02-28T21:48:13",
     "distance": 4.524587719189233,
-    "duration": "0:41:27",
+    "duration": 2487,
     "pace": 9.160632969034609,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3349,7 +3349,7 @@
     "type": "Run",
     "date": "2021-02-27T20:44:53",
     "distance": 5.021313084867089,
-    "duration": "0:45:10",
+    "duration": 2710,
     "pace": 8.994746255309634,
     "title": "So much better when running with someone.",
     "source": "Strava"
@@ -3360,7 +3360,7 @@
     "type": "Run",
     "date": "2021-02-26T18:09:15",
     "distance": 4.03712080728746,
-    "duration": "0:35:56",
+    "duration": 2156,
     "pace": 8.90220157097024,
     "title": "Lunch Run",
     "source": "Strava"
@@ -3371,7 +3371,7 @@
     "type": "Run",
     "date": "2021-02-25T21:30:32",
     "distance": 4.685709669802527,
-    "duration": "0:39:53",
+    "duration": 2393,
     "pace": 8.512324129905851,
     "title": "My trainer is a b!tch!",
     "source": "Strava"
@@ -3382,7 +3382,7 @@
     "type": "Run",
     "date": "2021-02-23T20:39:41",
     "distance": 3.882647544956318,
-    "duration": "0:35:32",
+    "duration": 2132,
     "pace": 9.151256681451153,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3393,7 +3393,7 @@
     "type": "Run",
     "date": "2021-02-22T21:59:49",
     "distance": 4.700995439124113,
-    "duration": "0:42:47",
+    "duration": 2567,
     "pace": 9.101572220337065,
     "title": "3 year runniversary ",
     "source": "Strava"
@@ -3404,7 +3404,7 @@
     "type": "Run",
     "date": "2021-02-20T20:53:04",
     "distance": 5.018392633004835,
-    "duration": "0:48:28",
+    "duration": 2908,
     "pace": 9.658744448445564,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3415,7 +3415,7 @@
     "type": "Run",
     "date": "2021-02-19T20:38:32",
     "distance": 3.0749872618588987,
-    "duration": "0:28:40",
+    "duration": 1720,
     "pace": 9.32302166608736,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3426,7 +3426,7 @@
     "type": "Run",
     "date": "2021-02-18T22:19:14",
     "distance": 4.138466700635043,
-    "duration": "0:38:36",
+    "duration": 2316,
     "pace": 9.326263328697266,
     "title": "Still too cold and too much ice",
     "source": "Strava"
@@ -3437,7 +3437,7 @@
     "type": "Run",
     "date": "2021-02-17T21:50:06",
     "distance": 2.999987572545267,
-    "duration": "0:30:00",
+    "duration": 1800,
     "pace": 10.000869997514293,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3448,7 +3448,7 @@
     "type": "Run",
     "date": "2021-02-16T22:54:43",
     "distance": 2.999987572545267,
-    "duration": "0:30:00",
+    "duration": 1800,
     "pace": 10.000869997514293,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3459,7 +3459,7 @@
     "type": "Run",
     "date": "2021-02-15T21:48:08",
     "distance": 4.000024854909466,
-    "duration": "0:40:00",
+    "duration": 2400,
     "pace": 10.000869997514293,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3470,7 +3470,7 @@
     "type": "Run",
     "date": "2021-02-14T17:25:13",
     "distance": 2.999987572545267,
-    "duration": "0:30:00",
+    "duration": 1800,
     "pace": 10.000869997514293,
     "title": "Lunch Run",
     "source": "Strava"
@@ -3481,7 +3481,7 @@
     "type": "Run",
     "date": "2021-02-13T16:33:55",
     "distance": 3.5000062137273664,
-    "duration": "0:34:00",
+    "duration": 2040,
     "pace": 9.714716890015694,
     "title": "Morning Run",
     "source": "Strava"
@@ -3492,7 +3492,7 @@
     "type": "Run",
     "date": "2021-02-12T22:51:55",
     "distance": 2.999987572545267,
-    "duration": "0:30:00",
+    "duration": 1800,
     "pace": 10.000869997514293,
     "title": "3000 miles🏃‍♀️",
     "source": "Strava"
@@ -3503,7 +3503,7 @@
     "type": "Run",
     "date": "2021-02-11T21:25:40",
     "distance": 2.999987572545267,
-    "duration": "0:30:00",
+    "duration": 1800,
     "pace": 10.000869997514293,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3514,7 +3514,7 @@
     "type": "Run",
     "date": "2021-02-10T23:25:21",
     "distance": 2.999987572545267,
-    "duration": "0:30:00",
+    "duration": 1800,
     "pace": 10.000869997514293,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3525,7 +3525,7 @@
     "type": "Run",
     "date": "2021-02-09T23:04:37",
     "distance": 2.999987572545267,
-    "duration": "0:30:00",
+    "duration": 1800,
     "pace": 10.000869997514293,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3536,7 +3536,7 @@
     "type": "Run",
     "date": "2021-02-08T21:54:40",
     "distance": 2.999987572545267,
-    "duration": "0:30:00",
+    "duration": 1800,
     "pace": 10.000869997514293,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3547,7 +3547,7 @@
     "type": "Run",
     "date": "2021-02-07T23:31:11",
     "distance": 2.999987572545267,
-    "duration": "0:29:12",
+    "duration": 1752,
     "pace": 9.732341557813257,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3558,7 +3558,7 @@
     "type": "Run",
     "date": "2021-02-05T12:55:19",
     "distance": 2.999987572545267,
-    "duration": "0:30:44",
+    "duration": 1844,
     "pace": 10.245352686529158,
     "title": "Morning Run",
     "source": "Strava"
@@ -3569,7 +3569,7 @@
     "type": "Run",
     "date": "2021-02-04T22:50:55",
     "distance": 2.999987572545267,
-    "duration": "0:30:00",
+    "duration": 1800,
     "pace": 10.000869997514293,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3580,7 +3580,7 @@
     "type": "Run",
     "date": "2021-02-03T21:16:57",
     "distance": 5.366982738265376,
-    "duration": "0:50:51",
+    "duration": 3051,
     "pace": 9.47450841869775,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3591,7 +3591,7 @@
     "type": "Run",
     "date": "2021-02-01T21:22:56",
     "distance": 4.0364994345508105,
-    "duration": "0:40:21",
+    "duration": 2421,
     "pace": 9.997142502174183,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3602,7 +3602,7 @@
     "type": "Run",
     "date": "2021-01-31T21:50:15",
     "distance": 4.536083114817255,
-    "duration": "0:41:59",
+    "duration": 2519,
     "pace": 9.255463538072233,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3613,7 +3613,7 @@
     "type": "Run",
     "date": "2021-01-30T16:55:12",
     "distance": 5.011681807449016,
-    "duration": "0:50:00",
+    "duration": 3000,
     "pace": 9.974835750588818,
     "title": "Morning Run",
     "source": "Strava"
@@ -3624,7 +3624,7 @@
     "type": "Run",
     "date": "2021-01-29T20:25:17",
     "distance": 4.55049896230753,
-    "duration": "0:44:05",
+    "duration": 2645,
     "pace": 9.686649813410376,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3635,7 +3635,7 @@
     "type": "Run",
     "date": "2021-01-28T22:12:27",
     "distance": 3.20000745647284,
-    "duration": "0:31:29",
+    "duration": 1889,
     "pace": 9.839447297627782,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3646,7 +3646,7 @@
     "type": "Run",
     "date": "2021-01-27T22:08:17",
     "distance": 2.999987572545267,
-    "duration": "0:30:57",
+    "duration": 1857,
     "pace": 10.31628205128205,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3657,7 +3657,7 @@
     "type": "Run",
     "date": "2021-01-26T21:53:20",
     "distance": 4.000024854909466,
-    "duration": "0:40:41",
+    "duration": 2441,
     "pace": 10.17153330805208,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3668,7 +3668,7 @@
     "type": "Run",
     "date": "2021-01-24T19:31:38",
     "distance": 4.011582387811153,
-    "duration": "0:41:53",
+    "duration": 2513,
     "pace": 10.440768132866225,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3679,7 +3679,7 @@
     "type": "Run",
     "date": "2021-01-23T16:44:58",
     "distance": 4.165434277405645,
-    "duration": "0:41:27",
+    "duration": 2487,
     "pace": 9.952628324056896,
     "title": "Morning Run",
     "source": "Strava"
@@ -3690,7 +3690,7 @@
     "type": "Run",
     "date": "2021-01-22T20:42:17",
     "distance": 3.3911417102663206,
-    "duration": "0:32:53",
+    "duration": 1973,
     "pace": 9.697155941190648,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3701,7 +3701,7 @@
     "type": "Run",
     "date": "2021-01-21T21:30:05",
     "distance": 4.777672834826699,
-    "duration": "0:42:58",
+    "duration": 2578,
     "pace": 8.991730919655827,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3712,7 +3712,7 @@
     "type": "Run",
     "date": "2021-01-20T21:53:19",
     "distance": 4.709508245616216,
-    "duration": "0:42:42",
+    "duration": 2562,
     "pace": 9.067725940951092,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3723,7 +3723,7 @@
     "type": "Run",
     "date": "2021-01-19T21:47:55",
     "distance": 4.289273863819951,
-    "duration": "0:39:12",
+    "duration": 2352,
     "pace": 9.138784781374218,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3734,7 +3734,7 @@
     "type": "Run",
     "date": "2021-01-18T15:21:00",
     "distance": 4.00518224862366,
-    "duration": "0:39:44",
+    "duration": 2384,
     "pace": 9.919501972386588,
     "title": "Morning Run",
     "source": "Strava"
@@ -3745,7 +3745,7 @@
     "type": "Run",
     "date": "2021-01-17T17:16:56",
     "distance": 4.0429617110119676,
-    "duration": "0:40:31",
+    "duration": 2431,
     "pace": 10.023293472845042,
     "title": "Lunch Run",
     "source": "Strava"
@@ -3756,7 +3756,7 @@
     "type": "Run",
     "date": "2021-01-16T15:17:57",
     "distance": 4.58119477549803,
-    "duration": "0:44:08",
+    "duration": 2648,
     "pace": 9.634458812260537,
     "title": "Morning Run",
     "source": "Strava"
@@ -3767,7 +3767,7 @@
     "type": "Run",
     "date": "2021-01-15T22:11:04",
     "distance": 2.999987572545267,
-    "duration": "0:30:26",
+    "duration": 1826,
     "pace": 10.144604135148764,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3778,7 +3778,7 @@
     "type": "Run",
     "date": "2021-01-13T21:34:46",
     "distance": 4.733555370524563,
-    "duration": "0:43:58",
+    "duration": 2638,
     "pace": 9.287511542012927,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3789,7 +3789,7 @@
     "type": "Run",
     "date": "2021-01-12T21:42:00",
     "distance": 5.050704015310624,
-    "duration": "0:47:23",
+    "duration": 2843,
     "pace": 9.38171854960942,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3800,7 +3800,7 @@
     "type": "Run",
     "date": "2021-01-11T21:34:45",
     "distance": 4.225396746492351,
-    "duration": "0:40:21",
+    "duration": 2421,
     "pace": 9.54871247181678,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3811,7 +3811,7 @@
     "type": "Run",
     "date": "2021-01-10T15:41:05",
     "distance": 9.118582773062249,
-    "duration": "1:26:41",
+    "duration": 5201,
     "pace": 9.504724781478856,
     "title": "Morning Run",
     "source": "Strava"
@@ -3822,7 +3822,7 @@
     "type": "Run",
     "date": "2021-01-09T16:38:25",
     "distance": 4.065020443163036,
-    "duration": "0:39:42",
+    "duration": 2382,
     "pace": 9.76778344258315,
     "title": "Morning Run",
     "source": "Strava"
@@ -3833,7 +3833,7 @@
     "type": "Run",
     "date": "2021-01-08T19:33:16",
     "distance": 4.269452073520823,
-    "duration": "0:39:05",
+    "duration": 2345,
     "pace": 9.15437997724687,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3844,7 +3844,7 @@
     "type": "Run",
     "date": "2021-01-07T21:39:44",
     "distance": 4.304062534952217,
-    "duration": "0:38:59",
+    "duration": 2339,
     "pace": 9.058538781943037,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3855,7 +3855,7 @@
     "type": "Run",
     "date": "2021-01-06T21:33:49",
     "distance": 4.295301179365454,
-    "duration": "0:39:28",
+    "duration": 2368,
     "pace": 9.18887746945301,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3866,7 +3866,7 @@
     "type": "Run",
     "date": "2021-01-05T21:10:35",
     "distance": 4.77556016752209,
-    "duration": "0:43:07",
+    "duration": 2587,
     "pace": 9.028048917311791,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3877,7 +3877,7 @@
     "type": "Run",
     "date": "2021-01-04T21:22:54",
     "distance": 3.3987845949271134,
-    "duration": "0:31:19",
+    "duration": 1879,
     "pace": 9.214130310317188,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3888,7 +3888,7 @@
     "type": "Run",
     "date": "2021-01-03T20:32:48",
     "distance": 4.644450520088981,
-    "duration": "0:41:27",
+    "duration": 2487,
     "pace": 8.925901275651691,
     "title": "Turns out running on snow covered hills is good training.",
     "source": "Strava"
@@ -3899,7 +3899,7 @@
     "type": "Run",
     "date": "2021-01-02T16:56:06",
     "distance": 4.029850746268656,
-    "duration": "0:40:06",
+    "duration": 2406,
     "pace": 9.948936696340256,
     "title": "Morning Run",
     "source": "Strava"
@@ -3910,7 +3910,7 @@
     "type": "Run",
     "date": "2021-01-01T20:48:44",
     "distance": 4.205699230740552,
-    "duration": "0:41:31",
+    "duration": 2491,
     "pace": 9.872040240461292,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3921,7 +3921,7 @@
     "type": "Run",
     "date": "2020-12-31T19:58:35",
     "distance": 3.997912187604857,
-    "duration": "0:42:51",
+    "duration": 2571,
     "pace": 10.716074044479956,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3932,7 +3932,7 @@
     "type": "Run",
     "date": "2020-12-29T14:11:55",
     "distance": 3.077162066437173,
-    "duration": "0:32:34",
+    "duration": 1954,
     "pace": 10.584977637463826,
     "title": "Morning Run",
     "source": "Strava"
@@ -3943,7 +3943,7 @@
     "type": "Run",
     "date": "2020-12-28T16:27:53",
     "distance": 4.025376862564778,
-    "duration": "0:41:57",
+    "duration": 2517,
     "pace": 10.42048692048692,
     "title": "Morning Run",
     "source": "Strava"
@@ -3954,7 +3954,7 @@
     "type": "Run",
     "date": "2020-12-27T17:01:24",
     "distance": 4.0159941342413665,
-    "duration": "0:40:06",
+    "duration": 2406,
     "pace": 9.985976669148672,
     "title": "Lunch Run",
     "source": "Strava"
@@ -3965,7 +3965,7 @@
     "type": "Run",
     "date": "2020-12-26T16:05:24",
     "distance": 4.039482023686729,
-    "duration": "0:40:03",
+    "duration": 2403,
     "pace": 9.915834873690695,
     "title": "Morning Run",
     "source": "Strava"
@@ -3976,7 +3976,7 @@
     "type": "Run",
     "date": "2020-12-25T20:17:20",
     "distance": 4.008848347769893,
-    "duration": "0:39:59",
+    "duration": 2399,
     "pace": 9.974835750588818,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -3987,7 +3987,7 @@
     "type": "Run",
     "date": "2020-12-23T14:25:53",
     "distance": 4.032709060857246,
-    "duration": "0:43:30",
+    "duration": 2610,
     "pace": 10.785015413483446,
     "title": "Morning Run",
     "source": "Strava"
@@ -3998,7 +3998,7 @@
     "type": "Run",
     "date": "2020-12-22T14:09:42",
     "distance": 4.017858252451316,
-    "duration": "0:38:36",
+    "duration": 2316,
     "pace": 9.606852913085005,
     "title": "Morning Run",
     "source": "Strava"
@@ -4009,7 +4009,7 @@
     "type": "Run",
     "date": "2020-12-21T21:44:25",
     "distance": 4.045882162874221,
-    "duration": "0:37:02",
+    "duration": 2222,
     "pace": 9.15437997724687,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4020,7 +4020,7 @@
     "type": "Run",
     "date": "2020-12-20T17:24:26",
     "distance": 4.03376539450955,
-    "duration": "0:40:13",
+    "duration": 2413,
     "pace": 9.971127633209418,
     "title": "Lunch Run",
     "source": "Strava"
@@ -4031,7 +4031,7 @@
     "type": "Run",
     "date": "2020-12-19T15:06:40",
     "distance": 3.4304746044962533,
-    "duration": "0:34:28",
+    "duration": 2068,
     "pace": 10.0458177278402,
     "title": "Morning Run",
     "source": "Strava"
@@ -4042,7 +4042,7 @@
     "type": "Run",
     "date": "2020-12-18T20:55:05",
     "distance": 5.238979954515515,
-    "duration": "0:48:29",
+    "duration": 2909,
     "pace": 9.255463538072233,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4053,7 +4053,7 @@
     "type": "Run",
     "date": "2020-12-17T18:47:53",
     "distance": 4.000024854909466,
-    "duration": "0:41:21",
+    "duration": 2481,
     "pace": 10.33615928066795,
     "title": "Lunch Run",
     "source": "Strava"
@@ -4064,7 +4064,7 @@
     "type": "Run",
     "date": "2020-12-16T17:20:37",
     "distance": 2.999987572545267,
-    "duration": "0:29:21",
+    "duration": 1761,
     "pace": 9.782032579625577,
     "title": "Lunch Run",
     "source": "Strava"
@@ -4075,7 +4075,7 @@
     "type": "Run",
     "date": "2020-12-15T23:35:22",
     "distance": 2.999987572545267,
-    "duration": "0:29:21",
+    "duration": 1761,
     "pace": 9.782032579625577,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4086,7 +4086,7 @@
     "type": "Run",
     "date": "2020-12-14T12:20:06",
     "distance": 3.5000062137273664,
-    "duration": "0:34:43",
+    "duration": 2083,
     "pace": 9.919501972386588,
     "title": "Morning Run",
     "source": "Strava"
@@ -4097,7 +4097,7 @@
     "type": "Run",
     "date": "2020-12-11T16:18:11",
     "distance": 1.73648824984155,
-    "duration": "0:18:43",
+    "duration": 1123,
     "pace": 10.77634927012187,
     "title": "Morning Run",
     "source": "Strava"
@@ -4108,7 +4108,7 @@
     "type": "Run",
     "date": "2020-12-11T15:36:51",
     "distance": 3.0550411970124403,
-    "duration": "0:30:34",
+    "duration": 1834,
     "pace": 10.004600273529777,
     "title": "Morning Run",
     "source": "Strava"
@@ -4119,7 +4119,7 @@
     "type": "Run",
     "date": "2020-12-10T18:28:09",
     "distance": 4.237327103036027,
-    "duration": "0:39:56",
+    "duration": 2396,
     "pace": 9.424572499414383,
     "title": "Lunch Run",
     "source": "Strava"
@@ -4130,7 +4130,7 @@
     "type": "Run",
     "date": "2020-12-09T18:29:51",
     "distance": 3.1730398797022383,
-    "duration": "0:29:25",
+    "duration": 1765,
     "pace": 9.271459845604333,
     "title": "Lunch Run",
     "source": "Strava"
@@ -4141,7 +4141,7 @@
     "type": "Run",
     "date": "2020-12-08T20:41:38",
     "distance": 5.397616414182212,
-    "duration": "0:50:18",
+    "duration": 3018,
     "pace": 9.319782256196433,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4152,7 +4152,7 @@
     "type": "Run",
     "date": "2020-12-07T21:27:27",
     "distance": 4.846583071321163,
-    "duration": "0:44:02",
+    "duration": 2642,
     "pace": 9.08615627822945,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4163,7 +4163,7 @@
     "type": "Run",
     "date": "2020-12-06T17:31:00",
     "distance": 4.042588887369978,
-    "duration": "0:40:35",
+    "duration": 2435,
     "pace": 10.038298403193613,
     "title": "Lunch Run",
     "source": "Strava"
@@ -4174,7 +4174,7 @@
     "type": "Run",
     "date": "2020-12-05T14:42:35",
     "distance": 4.0049336995289995,
-    "duration": "0:38:38",
+    "duration": 2318,
     "pace": 9.644851971712812,
     "title": "Morning Run",
     "source": "Strava"
@@ -4185,7 +4185,7 @@
     "type": "Run",
     "date": "2020-12-03T21:39:05",
     "distance": 4.016242683336026,
-    "duration": "0:38:13",
+    "duration": 2293,
     "pace": 9.514839777698947,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4196,7 +4196,7 @@
     "type": "Run",
     "date": "2020-12-02T20:55:34",
     "distance": 4.787925484981421,
-    "duration": "0:44:40",
+    "duration": 2680,
     "pace": 9.329507246376812,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4207,7 +4207,7 @@
     "type": "Run",
     "date": "2020-12-01T21:24:57",
     "distance": 6.621223607193011,
-    "duration": "1:01:03",
+    "duration": 3663,
     "pace": 9.220465222871548,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4218,7 +4218,7 @@
     "type": "Run",
     "date": "2020-11-29T19:21:57",
     "distance": 4.32655622801894,
-    "duration": "0:41:50",
+    "duration": 2510,
     "pace": 9.669190098534006,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4229,7 +4229,7 @@
     "type": "Run",
     "date": "2020-11-28T15:45:40",
     "distance": 4.028918687163682,
-    "duration": "0:40:05",
+    "duration": 2405,
     "pace": 9.948936696340256,
     "title": "Morning Run",
     "source": "Strava"
@@ -4240,7 +4240,7 @@
     "type": "Run",
     "date": "2020-11-27T20:19:25",
     "distance": 4.332272857196118,
-    "duration": "0:42:47",
+    "duration": 2567,
     "pace": 9.87567501227295,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4251,7 +4251,7 @@
     "type": "Run",
     "date": "2020-11-26T14:59:23",
     "distance": 4.047311320168516,
-    "duration": "0:45:19",
+    "duration": 2719,
     "pace": 11.194629938786868,
     "title": "Morning Run",
     "source": "Strava"
@@ -4262,7 +4262,7 @@
     "type": "Run",
     "date": "2020-11-25T14:56:16",
     "distance": 2.999987572545267,
-    "duration": "0:30:18",
+    "duration": 1818,
     "pace": 10.098770080321284,
     "title": "Morning Run",
     "source": "Strava"
@@ -4273,7 +4273,7 @@
     "type": "Run",
     "date": "2020-11-24T21:26:42",
     "distance": 4.177986006685971,
-    "duration": "0:38:23",
+    "duration": 2303,
     "pace": 9.185730593607307,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4284,7 +4284,7 @@
     "type": "Run",
     "date": "2020-11-23T23:06:52",
     "distance": 2.999987572545267,
-    "duration": "0:28:55",
+    "duration": 1735,
     "pace": 9.637920709066954,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4295,7 +4295,7 @@
     "type": "Run",
     "date": "2020-11-22T14:00:12",
     "distance": 6.009979246150596,
-    "duration": "0:58:16",
+    "duration": 3496,
     "pace": 9.693651367305144,
     "title": "Morning Run",
     "source": "Strava"
@@ -4306,7 +4306,7 @@
     "type": "Run",
     "date": "2020-11-20T18:37:39",
     "distance": 5.260914412119254,
-    "duration": "0:48:52",
+    "duration": 2932,
     "pace": 9.287511542012927,
     "title": "Lunch Run",
     "source": "Strava"
@@ -4317,7 +4317,7 @@
     "type": "Run",
     "date": "2020-11-19T18:40:58",
     "distance": 4.16313519828004,
-    "duration": "0:37:44",
+    "duration": 2264,
     "pace": 9.064661484735835,
     "title": "Lunch Run",
     "source": "Strava"
@@ -4328,7 +4328,7 @@
     "type": "Run",
     "date": "2020-11-17T21:05:31",
     "distance": 5.281978947891683,
-    "duration": "0:47:43",
+    "duration": 2863,
     "pace": 9.034130459189402,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4336,10 +4336,10 @@
   {
     "strava_id": 4347787994,
     "name": "Jessica",
-    "type": "Treadmill",
+    "type": "Run",
     "date": "2020-11-16T20:23:18",
     "distance": 2.999987572545267,
-    "duration": "0:30:00",
+    "duration": 1800,
     "pace": 10.000869997514293,
     "title": "Have to get all my tech used to the treadmill ",
     "source": "Strava"
@@ -4350,7 +4350,7 @@
     "type": "Run",
     "date": "2020-11-15T20:55:13",
     "distance": 3.852697379049797,
-    "duration": "0:34:58",
+    "duration": 2098,
     "pace": 9.076931754089115,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4361,7 +4361,7 @@
     "type": "Run",
     "date": "2020-11-14T20:11:09",
     "distance": 4.013632917842097,
-    "duration": "0:42:13",
+    "duration": 2533,
     "pace": 10.518562091503268,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4372,7 +4372,7 @@
     "type": "Run",
     "date": "2020-11-13T20:36:01",
     "distance": 5.0667354319161895,
-    "duration": "0:46:40",
+    "duration": 2800,
     "pace": 9.210966117216117,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4383,7 +4383,7 @@
     "type": "Run",
     "date": "2020-11-12T21:56:32",
     "distance": 4.1823977531161844,
-    "duration": "0:38:56",
+    "duration": 2336,
     "pace": 9.310077519379846,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4394,7 +4394,7 @@
     "type": "Run",
     "date": "2020-11-11T20:16:46",
     "distance": 6.522736028434016,
-    "duration": "1:00:01",
+    "duration": 3601,
     "pace": 9.201486563750715,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4405,7 +4405,7 @@
     "type": "Run",
     "date": "2020-11-10T21:47:18",
     "distance": 4.510234008972622,
-    "duration": "0:43:05",
+    "duration": 2585,
     "pace": 9.552113010446345,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4416,7 +4416,7 @@
     "type": "Race",
     "date": "2020-11-08T15:20:14",
     "distance": 6.265674127281992,
-    "duration": "0:56:29",
+    "duration": 3389,
     "pace": 9.015910364145657,
     "title": "Hillbilly Hike 10k",
     "source": "Strava"
@@ -4427,7 +4427,7 @@
     "type": "Run",
     "date": "2020-11-07T14:14:14",
     "distance": 4.012265897821468,
-    "duration": "0:40:34",
+    "duration": 2434,
     "pace": 10.110189722326925,
     "title": "4 miles for 4 years ",
     "source": "Strava"
@@ -4438,7 +4438,7 @@
     "type": "Run",
     "date": "2020-11-06T20:43:41",
     "distance": 4.215268370884959,
-    "duration": "0:38:22",
+    "duration": 2302,
     "pace": 9.101572220337065,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4449,7 +4449,7 @@
     "type": "Run",
     "date": "2020-11-05T22:09:35",
     "distance": 4.647370971951235,
-    "duration": "0:41:09",
+    "duration": 2469,
     "pace": 8.855177726422362,
     "title": "Perfect, perfect day",
     "source": "Strava"
@@ -4460,7 +4460,7 @@
     "type": "Run",
     "date": "2020-11-04T14:07:43",
     "distance": 4.704972224638672,
-    "duration": "0:44:06",
+    "duration": 2646,
     "pace": 9.37188446307943,
     "title": "A wrap on harvest ",
     "source": "Strava"
@@ -4471,7 +4471,7 @@
     "type": "Run",
     "date": "2020-11-03T16:15:55",
     "distance": 6.010724893434576,
-    "duration": "0:56:31",
+    "duration": 3391,
     "pace": 9.401448767379366,
     "title": "Morning Run",
     "source": "Strava"
@@ -4482,7 +4482,7 @@
     "type": "Run",
     "date": "2020-11-01T16:12:50",
     "distance": 3.475772676998024,
-    "duration": "0:34:20",
+    "duration": 2060,
     "pace": 9.879312461632903,
     "title": "Morning Run",
     "source": "Strava"
@@ -4493,7 +4493,7 @@
     "type": "Run",
     "date": "2020-10-31T14:43:48",
     "distance": 4.8273205164850195,
-    "duration": "0:48:05",
+    "duration": 2885,
     "pace": 9.96001980443124,
     "title": "120 mile month 😮",
     "source": "Strava"
@@ -4504,7 +4504,7 @@
     "type": "Run",
     "date": "2020-10-30T15:55:17",
     "distance": 7.268134763319125,
-    "duration": "1:07:37",
+    "duration": 4057,
     "pace": 9.30361891548156,
     "title": "Morning Run",
     "source": "Strava"
@@ -4515,7 +4515,7 @@
     "type": "Run",
     "date": "2020-10-28T21:06:38",
     "distance": 5.362508854561498,
-    "duration": "0:49:08",
+    "duration": 2948,
     "pace": 9.16376266939984,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4526,7 +4526,7 @@
     "type": "Run",
     "date": "2020-10-27T21:26:27",
     "distance": 4.201163209763009,
-    "duration": "0:37:21",
+    "duration": 2241,
     "pace": 8.890398850955696,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4537,7 +4537,7 @@
     "type": "Run",
     "date": "2020-10-26T20:37:08",
     "distance": 4.495196788745697,
-    "duration": "0:42:32",
+    "duration": 2552,
     "pace": 9.46114050558495,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4548,7 +4548,7 @@
     "type": "Run",
     "date": "2020-10-25T14:45:00",
     "distance": 3.9994034821728164,
-    "duration": "0:40:12",
+    "duration": 2412,
     "pace": 10.053348325837081,
     "title": "Terrible Morning Run",
     "source": "Strava"
@@ -4559,7 +4559,7 @@
     "type": "Run",
     "date": "2020-10-24T14:42:06",
     "distance": 4.015186349683722,
-    "duration": "0:40:55",
+    "duration": 2455,
     "pace": 10.190856129685915,
     "title": "Morning Run",
     "source": "Strava"
@@ -4570,7 +4570,7 @@
     "type": "Run",
     "date": "2020-10-23T13:47:02",
     "distance": 4.199609777921385,
-    "duration": "0:39:18",
+    "duration": 2358,
     "pace": 9.358804373110026,
     "title": "Morning Run",
     "source": "Strava"
@@ -4581,7 +4581,7 @@
     "type": "Run",
     "date": "2020-10-21T20:41:00",
     "distance": 5.274895298693875,
-    "duration": "0:47:29",
+    "duration": 2849,
     "pace": 9.000782997762864,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4592,7 +4592,7 @@
     "type": "Run",
     "date": "2020-10-20T21:45:51",
     "distance": 4.0124523096424625,
-    "duration": "0:38:00",
+    "duration": 2280,
     "pace": 9.471162900188324,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4603,7 +4603,7 @@
     "type": "Run",
     "date": "2020-10-19T21:57:42",
     "distance": 4.127219854101682,
-    "duration": "0:37:42",
+    "duration": 2262,
     "pace": 9.135672116257947,
     "title": "Finished Bunga Bunga ",
     "source": "Strava"
@@ -4614,7 +4614,7 @@
     "type": "Run",
     "date": "2020-10-18T17:08:27",
     "distance": 4.752258689897722,
-    "duration": "0:43:23",
+    "duration": 2603,
     "pace": 9.129453142727478,
     "title": "Lunch Run",
     "source": "Strava"
@@ -4625,7 +4625,7 @@
     "type": "Run",
     "date": "2020-10-17T15:41:09",
     "distance": 4.265226738911603,
-    "duration": "0:41:53",
+    "duration": 2513,
     "pace": 9.82143293055047,
     "title": "Morning Run",
     "source": "Strava"
@@ -4636,7 +4636,7 @@
     "type": "Run",
     "date": "2020-10-15T20:42:53",
     "distance": 10.006151590092832,
-    "duration": "1:30:47",
+    "duration": 5447,
     "pace": 9.073861073522778,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4647,7 +4647,7 @@
     "type": "Run",
     "date": "2020-10-14T11:20:27",
     "distance": 5.379348055724708,
-    "duration": "0:51:00",
+    "duration": 3060,
     "pace": 9.481206551195946,
     "title": "Morning Run",
     "source": "Strava"
@@ -4658,7 +4658,7 @@
     "type": "Run",
     "date": "2020-10-12T23:16:46",
     "distance": 0.6572880808281656,
-    "duration": "0:05:54",
+    "duration": 354,
     "pace": 8.976684515841143,
     "title": "Evening Run",
     "source": "Strava"
@@ -4669,7 +4669,7 @@
     "type": "Run",
     "date": "2020-10-12T22:26:13",
     "distance": 3.839586414306486,
-    "duration": "0:34:54",
+    "duration": 2094,
     "pace": 9.089235287473173,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -4680,7 +4680,7 @@
     "type": "Run",
     "date": "2020-10-11T13:33:10",
     "distance": 6.299663215976736,
-    "duration": "1:01:17",
+    "duration": 3677,
     "pace": 9.728811510095515,
     "title": "6.30mi Run",
     "source": "Strava"
@@ -4691,7 +4691,7 @@
     "type": "Run",
     "date": "2020-10-09T14:58:38",
     "distance": 4.232977493879479,
-    "duration": "0:38:36",
+    "duration": 2316,
     "pace": 9.12014054176584,
     "title": "Morning Run",
     "source": "Strava"
@@ -4702,7 +4702,7 @@
     "type": "Run",
     "date": "2020-10-08T23:14:24",
     "distance": 2.0988106925820524,
-    "duration": "0:19:26",
+    "duration": 1166,
     "pace": 9.258658382234495,
     "title": "Evening Run",
     "source": "Strava"
@@ -4713,7 +4713,7 @@
     "type": "Run",
     "date": "2020-10-07T23:14:15",
     "distance": 5.268495159506381,
-    "duration": "0:47:35",
+    "duration": 2855,
     "pace": 9.031088664421997,
     "title": "Evening Run",
     "source": "Strava"
@@ -11462,12 +11462,23 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5806503951,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2021-08-17T10:31:44",
+    "distance": 5.162488970633925,
+    "duration": 2808,
+    "pace": 9.064661484735835,
+    "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5790570875,
     "name": "Brian",
     "type": "Run",
     "date": "2021-08-14T10:51:56",
     "distance": 5.601550946350677,
-    "duration": "0:50:46",
+    "duration": 3046,
     "pace": 9.0615990990991,
     "title": "Morning Run",
     "source": "Strava"
@@ -11478,7 +11489,7 @@
     "type": "Run",
     "date": "2021-08-12T10:48:09",
     "distance": 3.803049697391477,
-    "duration": "0:35:10",
+    "duration": 2110,
     "pace": 9.245892221073193,
     "title": "Morning Run",
     "source": "Strava"
@@ -11489,7 +11500,7 @@
     "type": "Run",
     "date": "2021-08-10T10:53:14",
     "distance": 3.0282600320628332,
-    "duration": "0:27:00",
+    "duration": 1620,
     "pace": 8.916999113475176,
     "title": "Morning Run",
     "source": "Strava"
@@ -11500,7 +11511,7 @@
     "type": "Run",
     "date": "2021-08-07T12:06:39",
     "distance": 3.5088297065877936,
-    "duration": "0:31:48",
+    "duration": 1908,
     "pace": 9.0615990990991,
     "title": "Morning Run",
     "source": "Strava"
@@ -11511,7 +11522,7 @@
     "type": "Run",
     "date": "2021-08-05T10:57:30",
     "distance": 3.0882225011495397,
-    "duration": "0:28:25",
+    "duration": 1705,
     "pace": 9.201486563750715,
     "title": "Morning Run",
     "source": "Strava"
@@ -11522,7 +11533,7 @@
     "type": "Run",
     "date": "2021-08-03T10:42:52",
     "distance": 3.3461543241328746,
-    "duration": "0:29:47",
+    "duration": 1787,
     "pace": 8.90220157097024,
     "title": "Morning Run",
     "source": "Strava"
@@ -11533,7 +11544,7 @@
     "type": "Run",
     "date": "2021-07-29T10:34:21",
     "distance": 3.0856127356556105,
-    "duration": "0:27:57",
+    "duration": 1677,
     "pace": 9.058538781943037,
     "title": "Morning Run",
     "source": "Strava"
@@ -11544,7 +11555,7 @@
     "type": "Run",
     "date": "2021-07-27T10:26:13",
     "distance": 6.007555892477662,
-    "duration": "0:54:34",
+    "duration": 3274,
     "pace": 9.083079354328932,
     "title": "Morning Run",
     "source": "Strava"
@@ -11555,7 +11566,7 @@
     "type": "Run",
     "date": "2021-07-23T09:58:53",
     "distance": 5.012116768364671,
-    "duration": "0:44:57",
+    "duration": 2697,
     "pace": 8.967680820238494,
     "title": "Morning Run",
     "source": "Strava"
@@ -11566,7 +11577,7 @@
     "type": "Run",
     "date": "2021-07-21T10:15:39",
     "distance": 3.3434824213652803,
-    "duration": "0:30:44",
+    "duration": 1844,
     "pace": 9.192026502170435,
     "title": "Morning Run",
     "source": "Strava"
@@ -11577,7 +11588,7 @@
     "type": "Run",
     "date": "2021-07-19T10:27:16",
     "distance": 5.011060434712367,
-    "duration": "0:44:26",
+    "duration": 2666,
     "pace": 8.866887052341598,
     "title": "Morning Run",
     "source": "Strava"
@@ -11588,7 +11599,7 @@
     "type": "Run",
     "date": "2021-07-15T10:41:17",
     "distance": 5.1922527247194505,
-    "duration": "0:47:55",
+    "duration": 2875,
     "pace": 9.229983941270934,
     "title": "Heart Monitor Run! ❤️",
     "source": "Strava"
@@ -11599,7 +11610,7 @@
     "type": "Run",
     "date": "2021-07-13T10:19:45",
     "distance": 3.0080032808480492,
-    "duration": "0:32:12",
+    "duration": 1932,
     "pace": 10.703245544027668,
     "title": "Morning Run",
     "source": "Strava"
@@ -11610,7 +11621,7 @@
     "type": "Run",
     "date": "2021-07-11T16:22:37",
     "distance": 3.0087489281320297,
-    "duration": "0:31:23",
+    "duration": 1883,
     "pace": 10.432646181771036,
     "title": "Lunch Run",
     "source": "Strava"
@@ -11621,7 +11632,7 @@
     "type": "Run",
     "date": "2021-07-10T11:46:29",
     "distance": 4.010526054158848,
-    "duration": "0:35:58",
+    "duration": 2158,
     "pace": 8.967680820238494,
     "title": "Morning Run",
     "source": "Strava"
@@ -11632,7 +11643,7 @@
     "type": "Run",
     "date": "2021-07-08T10:38:14",
     "distance": 5.7561484832291505,
-    "duration": "0:53:39",
+    "duration": 3219,
     "pace": 9.319782256196433,
     "title": "Morning Run",
     "source": "Strava"
@@ -11643,7 +11654,7 @@
     "type": "Run",
     "date": "2021-07-06T10:40:23",
     "distance": 5.207849180409361,
-    "duration": "0:47:45",
+    "duration": 2865,
     "pace": 9.170028490028491,
     "title": "Morning Run",
     "source": "Strava"
@@ -11654,7 +11665,7 @@
     "type": "Run",
     "date": "2021-07-04T12:48:47",
     "distance": 3.2952638970012553,
-    "duration": "0:29:19",
+    "duration": 1759,
     "pace": 8.896296296296295,
     "title": "Morning Run",
     "source": "Strava"
@@ -11665,7 +11676,7 @@
     "type": "Run",
     "date": "2021-07-01T10:05:20",
     "distance": 3.3527408751413623,
-    "duration": "0:30:45",
+    "duration": 1845,
     "pace": 9.173164614683083,
     "title": "Morning Run",
     "source": "Strava"
@@ -11676,7 +11687,7 @@
     "type": "Run",
     "date": "2021-06-29T10:36:44",
     "distance": 5.007332198292468,
-    "duration": "0:47:04",
+    "duration": 2824,
     "pace": 9.39815463676711,
     "title": "Morning Run",
     "source": "Strava"
@@ -11687,7 +11698,7 @@
     "type": "Run",
     "date": "2021-06-27T12:08:58",
     "distance": 3.0067605353747497,
-    "duration": "0:26:39",
+    "duration": 1599,
     "pace": 8.86395681868253,
     "title": "Morning Run",
     "source": "Strava"
@@ -11698,7 +11709,7 @@
     "type": "Run",
     "date": "2021-06-25T10:54:31",
     "distance": 3.0073819081113995,
-    "duration": "0:25:58",
+    "duration": 1558,
     "pace": 8.635651427344923,
     "title": "Morning Run",
     "source": "Strava"
@@ -11709,7 +11720,7 @@
     "type": "Run",
     "date": "2021-06-24T10:51:17",
     "distance": 2.141436862316229,
-    "duration": "0:20:44",
+    "duration": 1244,
     "pace": 9.683152827918171,
     "title": "Morning Run",
     "source": "Strava"
@@ -11720,7 +11731,7 @@
     "type": "Run",
     "date": "2021-06-22T10:35:07",
     "distance": 5.007456472839798,
-    "duration": "0:45:00",
+    "duration": 2700,
     "pace": 8.9857063093244,
     "title": "Morning Run",
     "source": "Strava"
@@ -11731,7 +11742,7 @@
     "type": "Run",
     "date": "2021-06-17T10:53:11",
     "distance": 3.4135111287857134,
-    "duration": "0:32:25",
+    "duration": 1945,
     "pace": 9.497993389990558,
     "title": "Morning Run",
     "source": "Strava"
@@ -11742,7 +11753,7 @@
     "type": "Run",
     "date": "2021-06-15T11:11:03",
     "distance": 1.0885828973367966,
-    "duration": "0:09:49",
+    "duration": 589,
     "pace": 9.018941941268773,
     "title": "Morning Run",
     "source": "Strava"
@@ -11753,7 +11764,7 @@
     "type": "Run",
     "date": "2021-06-15T10:48:46",
     "distance": 2.4329228130786533,
-    "duration": "0:21:56",
+    "duration": 1316,
     "pace": 9.015910364145657,
     "title": "Morning Run",
     "source": "Strava"
@@ -11764,7 +11775,7 @@
     "type": "Run",
     "date": "2021-06-12T12:48:43",
     "distance": 6.203288304522352,
-    "duration": "1:00:17",
+    "duration": 3617,
     "pace": 9.718236714975847,
     "title": "Morning Run",
     "source": "Strava"
@@ -11775,7 +11786,7 @@
     "type": "Run",
     "date": "2021-06-10T10:27:23",
     "distance": 3.373432587271801,
-    "duration": "0:33:33",
+    "duration": 2013,
     "pace": 9.945247806204424,
     "title": "Morning Run",
     "source": "Strava"
@@ -11786,7 +11797,7 @@
     "type": "Run",
     "date": "2021-06-08T10:57:06",
     "distance": 1.0726757552785615,
-    "duration": "0:09:00",
+    "duration": 540,
     "pace": 8.389844646022313,
     "title": "Morning Run",
     "source": "Strava"
@@ -11797,7 +11808,7 @@
     "type": "Run",
     "date": "2021-06-07T10:36:49",
     "distance": 5.013856612027291,
-    "duration": "0:45:46",
+    "duration": 2746,
     "pace": 9.129453142727478,
     "title": "Morning Run",
     "source": "Strava"
@@ -11808,7 +11819,7 @@
     "type": "Run",
     "date": "2021-06-04T11:15:19",
     "distance": 4.010401779611518,
-    "duration": "0:36:05",
+    "duration": 2165,
     "pace": 8.997763613999776,
     "title": "Morning Run",
     "source": "Strava"
@@ -11819,7 +11830,7 @@
     "type": "Run",
     "date": "2021-06-01T14:26:17",
     "distance": 2.569189854225956,
-    "duration": "0:24:50",
+    "duration": 1490,
     "pace": 9.665705705705706,
     "title": "Morning Run",
     "source": "Strava"
@@ -11830,7 +11841,7 @@
     "type": "Run",
     "date": "2021-05-31T12:13:07",
     "distance": 2.012999117650714,
-    "duration": "0:18:14",
+    "duration": 1094,
     "pace": 9.058538781943037,
     "title": "Morning Rum",
     "source": "Strava"
@@ -11841,7 +11852,7 @@
     "type": "Run",
     "date": "2021-05-28T10:52:19",
     "distance": 4.018044664272311,
-    "duration": "0:36:36",
+    "duration": 2196,
     "pace": 9.107753254103,
     "title": "Morning Run",
     "source": "Strava"
@@ -11852,7 +11863,7 @@
     "type": "Run",
     "date": "2021-05-26T10:58:38",
     "distance": 5.143785651260766,
-    "duration": "0:47:25",
+    "duration": 2845,
     "pace": 9.21729667812142,
     "title": "Morning Run",
     "source": "Strava"
@@ -11863,7 +11874,7 @@
     "type": "Run",
     "date": "2021-05-24T10:23:51",
     "distance": 5.603912162749948,
-    "duration": "0:52:04",
+    "duration": 3124,
     "pace": 9.29072855328484,
     "title": "Morning Run",
     "source": "Strava"
@@ -11874,7 +11885,7 @@
     "type": "Run",
     "date": "2021-05-22T11:32:39",
     "distance": 4.406713311046764,
-    "duration": "0:39:53",
+    "duration": 2393,
     "pace": 9.049370220422851,
     "title": "Morning Run",
     "source": "Strava"
@@ -11885,7 +11896,7 @@
     "type": "Run",
     "date": "2021-05-20T10:34:57",
     "distance": 4.010463916885183,
-    "duration": "0:36:24",
+    "duration": 2184,
     "pace": 9.076931754089115,
     "title": "Morning Run",
     "source": "Strava"
@@ -11896,7 +11907,7 @@
     "type": "Run",
     "date": "2021-05-18T10:37:55",
     "distance": 4.008848347769893,
-    "duration": "0:35:13",
+    "duration": 2113,
     "pace": 8.785566109837319,
     "title": "Morning Run",
     "source": "Strava"
@@ -11907,7 +11918,7 @@
     "type": "Run",
     "date": "2021-05-16T11:55:16",
     "distance": 3.3627449762014243,
-    "duration": "0:29:30",
+    "duration": 1770,
     "pace": 8.771201220841508,
     "title": "Morning Run",
     "source": "Strava"
@@ -11918,7 +11929,7 @@
     "type": "Run",
     "date": "2021-05-14T10:41:01",
     "distance": 4.517006971802105,
-    "duration": "0:40:48",
+    "duration": 2448,
     "pace": 9.031088664421997,
     "title": "Morning Run",
     "source": "Strava"
@@ -11929,7 +11940,7 @@
     "type": "Run",
     "date": "2021-05-12T10:46:22",
     "distance": 3.00812755539538,
-    "duration": "0:28:02",
+    "duration": 1682,
     "pace": 9.319782256196433,
     "title": "Morning Run",
     "source": "Strava"
@@ -11940,7 +11951,7 @@
     "type": "Run",
     "date": "2021-05-05T11:02:21",
     "distance": 4.392856699019474,
-    "duration": "0:40:43",
+    "duration": 2443,
     "pace": 9.268256162174614,
     "title": "Morning Run",
     "source": "Strava"
@@ -11951,7 +11962,7 @@
     "type": "Run",
     "date": "2021-05-03T10:50:40",
     "distance": 5.275765220525185,
-    "duration": "0:46:53",
+    "duration": 2813,
     "pace": 8.88745305942125,
     "title": "Morning Run",
     "source": "Strava"
@@ -11962,7 +11973,7 @@
     "type": "Run",
     "date": "2021-04-29T10:40:19",
     "distance": 3.1795642934370614,
-    "duration": "0:28:28",
+    "duration": 1708,
     "pace": 8.952714730752113,
     "title": "Morning Run",
     "source": "Strava"
@@ -11973,7 +11984,7 @@
     "type": "Run",
     "date": "2021-04-27T10:22:41",
     "distance": 4.399629661848957,
-    "duration": "0:39:35",
+    "duration": 2375,
     "pace": 8.997763613999776,
     "title": "Morning Run",
     "source": "Strava"
@@ -11984,7 +11995,7 @@
     "type": "Run",
     "date": "2021-04-24T16:28:32",
     "distance": 4.301328494910957,
-    "duration": "0:37:55",
+    "duration": 2275,
     "pace": 8.814437506846314,
     "title": "Lunch Run",
     "source": "Strava"
@@ -11995,7 +12006,7 @@
     "type": "Run",
     "date": "2021-04-22T10:56:32",
     "distance": 4.1004386891520745,
-    "duration": "0:37:50",
+    "duration": 2270,
     "pace": 9.226808852195848,
     "title": "Morning Run",
     "source": "Strava"
@@ -12006,7 +12017,7 @@
     "type": "Run",
     "date": "2021-04-20T10:58:38",
     "distance": 3.0060770253644353,
-    "duration": "0:26:55",
+    "duration": 1615,
     "pace": 8.952714730752113,
     "title": "Morning Run",
     "source": "Strava"
@@ -12017,7 +12028,7 @@
     "type": "Run",
     "date": "2021-04-15T10:57:44",
     "distance": 3.445263275628519,
-    "duration": "0:32:28",
+    "duration": 1948,
     "pace": 9.424572499414383,
     "title": "Morning Run",
     "source": "Strava"
@@ -12028,7 +12039,7 @@
     "type": "Run",
     "date": "2021-04-13T11:00:26",
     "distance": 3.019933637391726,
-    "duration": "0:27:31",
+    "duration": 1651,
     "pace": 9.110846920289855,
     "title": "Morning Run",
     "source": "Strava"
@@ -12039,7 +12050,7 @@
     "type": "Run",
     "date": "2021-04-10T19:01:08",
     "distance": 4.508059204394348,
-    "duration": "0:40:19",
+    "duration": 2419,
     "pace": 8.94375903078804,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -12050,7 +12061,7 @@
     "type": "Run",
     "date": "2021-04-07T10:43:43",
     "distance": 3.5161619048802617,
-    "duration": "0:32:46",
+    "duration": 1966,
     "pace": 9.319782256196433,
     "title": "Morning Run",
     "source": "Strava"
@@ -12061,7 +12072,7 @@
     "type": "Run",
     "date": "2021-04-05T10:46:39",
     "distance": 5.3072066809996645,
-    "duration": "0:48:17",
+    "duration": 2897,
     "pace": 9.098484848484848,
     "title": "Morning Run",
     "source": "Strava"
@@ -12072,7 +12083,7 @@
     "type": "Run",
     "date": "2021-04-03T13:29:59",
     "distance": 2.017162314986268,
-    "duration": "0:19:19",
+    "duration": 1159,
     "pace": 9.575984767344995,
     "title": "Morning Run",
     "source": "Strava"
@@ -12083,7 +12094,7 @@
     "type": "Run",
     "date": "2021-03-31T22:38:38",
     "distance": 5.022928653982379,
-    "duration": "0:46:06",
+    "duration": 2766,
     "pace": 9.179443303673283,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -12094,7 +12105,7 @@
     "type": "Run",
     "date": "2021-03-30T14:39:22",
     "distance": 3.299986329799794,
-    "duration": "0:31:40",
+    "duration": 1900,
     "pace": 9.596541443053072,
     "title": "Morning Run",
     "source": "Strava"
@@ -12105,7 +12116,7 @@
     "type": "Run",
     "date": "2021-03-28T20:03:37",
     "distance": 5.012676003827656,
-    "duration": "0:44:02",
+    "duration": 2642,
     "pace": 8.785566109837319,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -12116,7 +12127,7 @@
     "type": "Run",
     "date": "2021-03-26T10:55:23",
     "distance": 3.6299352529608413,
-    "duration": "0:34:41",
+    "duration": 2081,
     "pace": 9.555515971974826,
     "title": "Morning Run",
     "source": "Strava"
@@ -12127,7 +12138,7 @@
     "type": "Run",
     "date": "2021-03-23T10:59:36",
     "distance": 3.3849901201734878,
-    "duration": "0:33:05",
+    "duration": 1985,
     "pace": 9.774902818270164,
     "title": "Morning Run",
     "source": "Strava"
@@ -12138,7 +12149,7 @@
     "type": "Run",
     "date": "2021-03-18T22:44:33",
     "distance": 4.008599798675234,
-    "duration": "0:36:36",
+    "duration": 2196,
     "pace": 9.129453142727478,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -12149,7 +12160,7 @@
     "type": "Run",
     "date": "2021-03-16T11:32:32",
     "distance": 3.0204928728547107,
-    "duration": "0:27:22",
+    "duration": 1642,
     "pace": 9.0615990990991,
     "title": "Morning Run",
     "source": "Strava"
@@ -12160,7 +12171,7 @@
     "type": "Run",
     "date": "2021-03-13T18:59:26",
     "distance": 4.799917978798763,
-    "duration": "0:42:34",
+    "duration": 2554,
     "pace": 8.866887052341598,
     "title": "Lunch Run",
     "source": "Strava"
@@ -12171,7 +12182,7 @@
     "type": "Run",
     "date": "2021-03-11T23:54:26",
     "distance": 4.013073682379112,
-    "duration": "0:36:34",
+    "duration": 2194,
     "pace": 9.110846920289855,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -12182,7 +12193,7 @@
     "type": "Run",
     "date": "2021-03-10T11:43:49",
     "distance": 3.0155218909615122,
-    "duration": "0:27:20",
+    "duration": 1640,
     "pace": 9.064661484735835,
     "title": "Morning Run",
     "source": "Strava"
@@ -12193,7 +12204,7 @@
     "type": "Run",
     "date": "2021-03-08T13:24:21",
     "distance": 3.0116072427206184,
-    "duration": "0:28:33",
+    "duration": 1713,
     "pace": 9.481206551195946,
     "title": "Morning Run",
     "source": "Strava"
@@ -12204,7 +12215,7 @@
     "type": "Run",
     "date": "2021-03-06T12:22:58",
     "distance": 4.010215367790523,
-    "duration": "0:37:23",
+    "duration": 2243,
     "pace": 9.32302166608736,
     "title": "Morning Run",
     "source": "Strava"
@@ -12215,7 +12226,7 @@
     "type": "Run",
     "date": "2021-03-04T13:40:37",
     "distance": 3.010426634520984,
-    "duration": "0:27:00",
+    "duration": 1620,
     "pace": 8.967680820238494,
     "title": "Morning Run",
     "source": "Strava"
@@ -12226,7 +12237,7 @@
     "type": "Run",
     "date": "2021-03-02T11:55:17",
     "distance": 4.00555507226565,
-    "duration": "0:37:15",
+    "duration": 2235,
     "pace": 9.30039297272307,
     "title": "Morning Run",
     "source": "Strava"
@@ -12237,7 +12248,7 @@
     "type": "Run",
     "date": "2021-03-01T11:59:23",
     "distance": 1.128537164303379,
-    "duration": "0:10:39",
+    "duration": 639,
     "pace": 9.437837203847055,
     "title": "Morning Run",
     "source": "Strava"
@@ -12248,7 +12259,7 @@
     "type": "Run",
     "date": "2021-02-27T20:09:59",
     "distance": 5.516050057787665,
-    "duration": "0:48:10",
+    "duration": 2890,
     "pace": 8.73122829861111,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -12259,7 +12270,7 @@
     "type": "Run",
     "date": "2021-02-25T12:19:31",
     "distance": 3.068027887208421,
-    "duration": "0:30:21",
+    "duration": 1821,
     "pace": 9.893889093815321,
     "title": "Morning Run",
     "source": "Strava"
@@ -12270,7 +12281,7 @@
     "type": "Run",
     "date": "2021-02-24T12:06:18",
     "distance": 1.0401779611517765,
-    "duration": "0:10:27",
+    "duration": 627,
     "pace": 10.0458177278402,
     "title": "Morning Run",
     "source": "Strava"
@@ -12281,7 +12292,7 @@
     "type": "Run",
     "date": "2021-02-23T11:38:21",
     "distance": 4.013260094200107,
-    "duration": "0:38:39",
+    "duration": 2319,
     "pace": 9.630999401555954,
     "title": "Morning Run",
     "source": "Strava"
@@ -12292,7 +12303,7 @@
     "type": "Run",
     "date": "2021-02-22T11:54:19",
     "distance": 1.01314824710751,
-    "duration": "0:09:17",
+    "duration": 557,
     "pace": 9.16376266939984,
     "title": "Morning Run",
     "source": "Strava"
@@ -12303,7 +12314,7 @@
     "type": "Run",
     "date": "2021-02-20T20:30:04",
     "distance": 4.014130016031417,
-    "duration": "0:36:42",
+    "duration": 2202,
     "pace": 9.141899568279936,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -12314,7 +12325,7 @@
     "type": "Run",
     "date": "2021-02-19T13:19:04",
     "distance": 1.0060024606360372,
-    "duration": "0:09:57",
+    "duration": 597,
     "pace": 9.890240904621434,
     "title": "Morning Run",
     "source": "Strava"
@@ -12325,7 +12336,7 @@
     "type": "Run",
     "date": "2021-02-18T12:10:51",
     "distance": 3.1023276622714904,
-    "duration": "0:29:18",
+    "duration": 1758,
     "pace": 9.444483568075118,
     "title": "Morning Run",
     "source": "Strava"
@@ -12336,7 +12347,7 @@
     "type": "Run",
     "date": "2021-02-16T12:27:17",
     "distance": 3.139237202828489,
-    "duration": "0:29:00",
+    "duration": 1740,
     "pace": 9.236340679522497,
     "title": "Morning Run",
     "source": "Strava"
@@ -12347,7 +12358,7 @@
     "type": "Run",
     "date": "2021-02-14T14:16:17",
     "distance": 4.005741484086645,
-    "duration": "0:39:54",
+    "duration": 2394,
     "pace": 9.96001980443124,
     "title": "Morning Run",
     "source": "Strava"
@@ -12358,7 +12369,7 @@
     "type": "Run",
     "date": "2021-02-11T11:59:47",
     "distance": 4.062037854027117,
-    "duration": "0:38:36",
+    "duration": 2316,
     "pace": 9.50135789349392,
     "title": "Morning Run",
     "source": "Strava"
@@ -12369,7 +12380,7 @@
     "type": "Run",
     "date": "2021-02-09T12:07:13",
     "distance": 4.884362533709472,
-    "duration": "0:45:43",
+    "duration": 2743,
     "pace": 9.358804373110026,
     "title": "Morning Run",
     "source": "Strava"
@@ -12380,7 +12391,7 @@
     "type": "Run",
     "date": "2021-02-06T13:16:29",
     "distance": 3.4543353175836056,
-    "duration": "0:33:15",
+    "duration": 1995,
     "pace": 9.624088027747877,
     "title": "Morning Run",
     "source": "Strava"
@@ -12391,7 +12402,7 @@
     "type": "Run",
     "date": "2021-02-04T12:22:46",
     "distance": 4.015310624231051,
-    "duration": "0:37:26",
+    "duration": 2246,
     "pace": 9.32302166608736,
     "title": "Morning Run",
     "source": "Strava"
@@ -12402,7 +12413,7 @@
     "type": "Run",
     "date": "2021-02-02T12:11:48",
     "distance": 3.177513763406117,
-    "duration": "0:29:19",
+    "duration": 1759,
     "pace": 9.226808852195848,
     "title": "Morning Run",
     "source": "Strava"
@@ -12413,7 +12424,7 @@
     "type": "Run",
     "date": "2021-01-30T13:24:51",
     "distance": 5.155094635067791,
-    "duration": "0:48:05",
+    "duration": 2885,
     "pace": 9.326263328697266,
     "title": "Morning Run",
     "source": "Strava"
@@ -12424,7 +12435,7 @@
     "type": "Run",
     "date": "2021-01-28T12:07:13",
     "distance": 3.1639057004734865,
-    "duration": "0:30:07",
+    "duration": 1807,
     "pace": 9.518216229004022,
     "title": "Morning Run",
     "source": "Strava"
@@ -12435,7 +12446,7 @@
     "type": "Run",
     "date": "2021-01-24T15:19:59",
     "distance": 3.0529285297078306,
-    "duration": "0:29:33",
+    "duration": 1773,
     "pace": 9.679658366414051,
     "title": "Morning Run",
     "source": "Strava"
@@ -12446,7 +12457,7 @@
     "type": "Run",
     "date": "2021-01-21T11:36:17",
     "distance": 2.845514310214125,
-    "duration": "0:30:01",
+    "duration": 1801,
     "pace": 10.547516057150347,
     "title": "Morning Run",
     "source": "Strava"
@@ -12457,7 +12468,7 @@
     "type": "Run",
     "date": "2021-01-19T11:11:42",
     "distance": 3.0025973380391964,
-    "duration": "0:31:16",
+    "duration": 1876,
     "pace": 10.412396480331262,
     "title": "Morning Run",
     "source": "Strava"
@@ -12468,7 +12479,7 @@
     "type": "Run",
     "date": "2021-01-17T19:27:47",
     "distance": 7.015733157691974,
-    "duration": "1:06:40",
+    "duration": 4000,
     "pace": 9.50135789349392,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -12479,7 +12490,7 @@
     "type": "Run",
     "date": "2021-01-14T12:10:25",
     "distance": 3.010923732710304,
-    "duration": "0:29:22",
+    "duration": 1762,
     "pace": 9.753575757575758,
     "title": "Morning Run",
     "source": "Strava"
@@ -12490,7 +12501,7 @@
     "type": "Run",
     "date": "2021-01-12T11:55:08",
     "distance": 3.0112965563522933,
-    "duration": "0:25:57",
+    "duration": 1557,
     "pace": 8.616233001392011,
     "title": "Morning Run",
     "source": "Strava"
@@ -12501,7 +12512,7 @@
     "type": "Run",
     "date": "2021-01-10T14:32:51",
     "distance": 4.0184796251879655,
-    "duration": "0:35:20",
+    "duration": 2120,
     "pace": 8.791325248552386,
     "title": "Morning Run",
     "source": "Strava"
@@ -12512,7 +12523,7 @@
     "type": "Run",
     "date": "2021-01-07T12:26:14",
     "distance": 3.065604533535487,
-    "duration": "0:30:45",
+    "duration": 1845,
     "pace": 10.030790326601846,
     "title": "Morning Run",
     "source": "Strava"
@@ -12523,7 +12534,7 @@
     "type": "Run",
     "date": "2021-01-05T12:23:56",
     "distance": 3.203238594703419,
-    "duration": "0:29:49",
+    "duration": 1789,
     "pace": 9.306847096923432,
     "title": "Morning Run",
     "source": "Strava"
@@ -12534,7 +12545,7 @@
     "type": "Run",
     "date": "2021-01-03T21:51:13",
     "distance": 5.01795767208918,
-    "duration": "0:44:03",
+    "duration": 2643,
     "pace": 8.779814511729406,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -12545,7 +12556,7 @@
     "type": "Run",
     "date": "2021-01-02T20:08:33",
     "distance": 4.429269141387152,
-    "duration": "0:42:23",
+    "duration": 2543,
     "pace": 9.56915209894161,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -12556,7 +12567,7 @@
     "type": "Run",
     "date": "2021-01-01T15:21:13",
     "distance": 4.2659102489219185,
-    "duration": "0:41:20",
+    "duration": 2480,
     "pace": 9.690149325626205,
     "title": "Morning Run",
     "source": "Strava"
@@ -12567,7 +12578,7 @@
     "type": "Run",
     "date": "2020-12-28T11:46:42",
     "distance": 4.667876272260679,
-    "duration": "0:44:14",
+    "duration": 2654,
     "pace": 9.47450841869775,
     "title": "Morning Run",
     "source": "Strava"
@@ -12578,7 +12589,7 @@
     "type": "Run",
     "date": "2020-12-26T13:55:02",
     "distance": 9.017174742441002,
-    "duration": "1:23:41",
+    "duration": 5021,
     "pace": 9.281084198385235,
     "title": "Morning Run",
     "source": "Strava"
@@ -12589,7 +12600,7 @@
     "type": "Run",
     "date": "2020-12-23T12:42:43",
     "distance": 4.275479389066326,
-    "duration": "0:39:00",
+    "duration": 2340,
     "pace": 9.123242630385487,
     "title": "Morning Run",
     "source": "Strava"
@@ -12600,7 +12611,7 @@
     "type": "Run",
     "date": "2020-12-22T11:43:15",
     "distance": 5.250288938322543,
-    "duration": "0:47:42",
+    "duration": 2862,
     "pace": 9.08615627822945,
     "title": "Morning Run",
     "source": "Strava"
@@ -12611,7 +12622,7 @@
     "type": "Run",
     "date": "2020-12-21T12:09:58",
     "distance": 4.345197410118434,
-    "duration": "0:43:42",
+    "duration": 2622,
     "pace": 10.057117860267468,
     "title": "Morning Run",
     "source": "Strava"
@@ -12622,7 +12633,7 @@
     "type": "Run",
     "date": "2020-12-19T21:10:44",
     "distance": 5.703207526066587,
-    "duration": "0:53:38",
+    "duration": 3218,
     "pace": 9.404745208041142,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -12633,7 +12644,7 @@
     "type": "Run",
     "date": "2020-12-18T12:18:40",
     "distance": 4.66128972125219,
-    "duration": "0:46:57",
+    "duration": 2817,
     "pace": 10.072224308424083,
     "title": "Morning Run",
     "source": "Strava"
@@ -12644,7 +12655,7 @@
     "type": "Run",
     "date": "2020-12-17T12:23:37",
     "distance": 4.336187505437011,
-    "duration": "0:42:16",
+    "duration": 2536,
     "pace": 9.746487403100776,
     "title": "Morning Run",
     "source": "Strava"
@@ -12655,7 +12666,7 @@
     "type": "Run",
     "date": "2020-12-16T12:22:15",
     "distance": 4.455180384505449,
-    "duration": "0:43:54",
+    "duration": 2634,
     "pace": 9.85390644134215,
     "title": "Morning Run",
     "source": "Strava"
@@ -12666,7 +12677,7 @@
     "type": "Run",
     "date": "2020-12-15T12:06:56",
     "distance": 4.535958840269925,
-    "duration": "0:43:40",
+    "duration": 2620,
     "pace": 9.627542474276142,
     "title": "Morning Run",
     "source": "Strava"
@@ -12677,7 +12688,7 @@
     "type": "Run",
     "date": "2020-12-14T12:05:00",
     "distance": 4.027116706227398,
-    "duration": "0:39:23",
+    "duration": 2363,
     "pace": 9.77846639931948,
     "title": "Morning Run",
     "source": "Strava"
@@ -12688,7 +12699,7 @@
     "type": "Run",
     "date": "2020-12-13T14:54:36",
     "distance": 4.922701231560764,
-    "duration": "0:43:54",
+    "duration": 2634,
     "pace": 8.916999113475176,
     "title": "Morning Run",
     "source": "Strava"
@@ -12699,7 +12710,7 @@
     "type": "Run",
     "date": "2020-12-11T19:36:40",
     "distance": 4.011333838716493,
-    "duration": "0:37:09",
+    "duration": 2229,
     "pace": 9.261855432780846,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -12710,7 +12721,7 @@
     "type": "Run",
     "date": "2020-12-09T11:45:34",
     "distance": 4.119390557619894,
-    "duration": "0:37:00",
+    "duration": 2220,
     "pace": 8.982697030587184,
     "title": "Morning Run",
     "source": "Strava"
@@ -12721,7 +12732,7 @@
     "type": "Run",
     "date": "2020-12-08T11:50:51",
     "distance": 5.2486733692072525,
-    "duration": "0:48:38",
+    "duration": 2918,
     "pace": 9.265054691997697,
     "title": "Morning Run",
     "source": "Strava"
@@ -12732,7 +12743,7 @@
     "type": "Run",
     "date": "2020-12-07T12:09:39",
     "distance": 5.151614947742553,
-    "duration": "0:46:20",
+    "duration": 2780,
     "pace": 8.994746255309634,
     "title": "Morning Run",
     "source": "Strava"
@@ -12743,7 +12754,7 @@
     "type": "Run",
     "date": "2020-12-06T14:04:12",
     "distance": 7.7587085389041475,
-    "duration": "1:11:54",
+    "duration": 4314,
     "pace": 9.268256162174614,
     "title": "Morning Run",
     "source": "Strava"
@@ -12754,7 +12765,7 @@
     "type": "Run",
     "date": "2020-12-04T21:28:53",
     "distance": 5.250910311059192,
-    "duration": "0:45:48",
+    "duration": 2748,
     "pace": 8.72271002710027,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -12765,7 +12776,7 @@
     "type": "Run",
     "date": "2020-12-03T12:13:46",
     "distance": 5.335479140517231,
-    "duration": "0:49:31",
+    "duration": 2971,
     "pace": 9.281084198385235,
     "title": "Morning Run",
     "source": "Strava"
@@ -12776,7 +12787,7 @@
     "type": "Run",
     "date": "2020-12-02T12:14:32",
     "distance": 6.0589434177986,
-    "duration": "0:56:56",
+    "duration": 3416,
     "pace": 9.39815463676711,
     "title": "Morning Run",
     "source": "Strava"
@@ -12787,7 +12798,7 @@
     "type": "Run",
     "date": "2020-11-30T12:36:15",
     "distance": 4.005368660444654,
-    "duration": "0:38:22",
+    "duration": 2302,
     "pace": 9.579404761904762,
     "title": "Morning Run",
     "source": "Strava"
@@ -12798,7 +12809,7 @@
     "type": "Run",
     "date": "2020-11-29T14:45:53",
     "distance": 5.3046590527794,
-    "duration": "0:50:47",
+    "duration": 3047,
     "pace": 9.572567213894837,
     "title": "Morning Run",
     "source": "Strava"
@@ -12809,7 +12820,7 @@
     "type": "Run",
     "date": "2020-11-28T22:56:39",
     "distance": 4.253047833273268,
-    "duration": "0:39:11",
+    "duration": 2351,
     "pace": 9.214130310317188,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -12820,7 +12831,7 @@
     "type": "Run",
     "date": "2020-11-27T21:33:53",
     "distance": 4.605801135869363,
-    "duration": "0:41:29",
+    "duration": 2489,
     "pace": 9.006827848668008,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -12831,7 +12842,7 @@
     "type": "Run",
     "date": "2020-11-26T20:05:56",
     "distance": 4.1469173698534805,
-    "duration": "0:36:49",
+    "duration": 2209,
     "pace": 8.878627386075252,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -12842,7 +12853,7 @@
     "type": "Run",
     "date": "2020-11-25T23:30:57",
     "distance": 3.9085587880746147,
-    "duration": "0:37:20",
+    "duration": 2240,
     "pace": 9.552113010446345,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -12853,7 +12864,7 @@
     "type": "Run",
     "date": "2020-11-24T12:47:45",
     "distance": 3.9218561646389207,
-    "duration": "0:36:57",
+    "duration": 2217,
     "pace": 9.421262147289545,
     "title": "Morning Run",
     "source": "Strava"
@@ -12864,7 +12875,7 @@
     "type": "Run",
     "date": "2020-11-23T12:21:12",
     "distance": 5.107186797072092,
-    "duration": "0:46:03",
+    "duration": 2763,
     "pace": 9.015910364145657,
     "title": "Morning Run",
     "source": "Strava"
@@ -12875,7 +12886,7 @@
     "type": "Run",
     "date": "2020-11-22T20:18:46",
     "distance": 1.3610548423577369,
-    "duration": "0:11:03",
+    "duration": 663,
     "pace": 8.11813962873285,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -12886,7 +12897,7 @@
     "type": "Run",
     "date": "2020-11-22T19:55:59",
     "distance": 1.637192886524911,
-    "duration": "0:13:40",
+    "duration": 820,
     "pace": 8.34806515198672,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -12897,7 +12908,7 @@
     "type": "Run",
     "date": "2020-11-21T14:30:29",
     "distance": 7.507487541476631,
-    "duration": "1:10:45",
+    "duration": 4245,
     "pace": 9.424572499414383,
     "title": "Morning Run",
     "source": "Strava"
@@ -12908,7 +12919,7 @@
     "type": "Run",
     "date": "2020-11-19T11:49:18",
     "distance": 6.0235251718095615,
-    "duration": "0:53:52",
+    "duration": 3232,
     "pace": 8.94375903078804,
     "title": "Morning Run",
     "source": "Strava"
@@ -12919,7 +12930,7 @@
     "type": "Run",
     "date": "2020-11-18T12:01:18",
     "distance": 5.098984676948314,
-    "duration": "0:46:02",
+    "duration": 2762,
     "pace": 9.028048917311791,
     "title": "Morning Run",
     "source": "Strava"
@@ -12930,7 +12941,7 @@
     "type": "Run",
     "date": "2020-11-17T11:41:19",
     "distance": 5.323859470341879,
-    "duration": "0:49:10",
+    "duration": 2950,
     "pace": 9.236340679522497,
     "title": "Morning Run",
     "source": "Strava"
@@ -12941,7 +12952,7 @@
     "type": "Run",
     "date": "2020-11-16T11:54:14",
     "distance": 5.252898703816472,
-    "duration": "0:48:30",
+    "duration": 2910,
     "pace": 9.233161216293746,
     "title": "Morning Run",
     "source": "Strava"
@@ -12952,7 +12963,7 @@
     "type": "Run",
     "date": "2020-11-14T13:57:26",
     "distance": 9.007729876843925,
-    "duration": "1:22:51",
+    "duration": 4971,
     "pace": 9.19833104709648,
     "title": "Morning Run",
     "source": "Strava"
@@ -12963,7 +12974,7 @@
     "type": "Run",
     "date": "2020-11-13T11:57:53",
     "distance": 5.254141449289771,
-    "duration": "0:47:57",
+    "duration": 2877,
     "pace": 9.126346829987524,
     "title": "Morning Run",
     "source": "Strava"
@@ -12974,7 +12985,7 @@
     "type": "Run",
     "date": "2020-11-12T11:45:00",
     "distance": 5.097679794201349,
-    "duration": "0:47:20",
+    "duration": 2840,
     "pace": 9.284296757817007,
     "title": "Morning Run",
     "source": "Strava"
@@ -12985,7 +12996,7 @@
     "type": "Run",
     "date": "2020-11-11T11:46:27",
     "distance": 5.105446953409472,
-    "duration": "0:46:40",
+    "duration": 2800,
     "pace": 9.141899568279936,
     "title": "Morning Run",
     "source": "Strava"
@@ -12996,7 +13007,7 @@
     "type": "Run",
     "date": "2020-11-10T12:16:51",
     "distance": 3.1371245355238795,
-    "duration": "0:28:35",
+    "duration": 1715,
     "pace": 9.110846920289855,
     "title": "Morning Run",
     "source": "Strava"
@@ -13007,7 +13018,7 @@
     "type": "Run",
     "date": "2020-11-09T12:37:07",
     "distance": 5.004163197335553,
-    "duration": "0:44:14",
+    "duration": 2654,
     "pace": 8.84058448692595,
     "title": "Morning Run",
     "source": "Strava"
@@ -13018,7 +13029,7 @@
     "type": "Run",
     "date": "2020-11-08T14:51:12",
     "distance": 3.801682677370848,
-    "duration": "0:35:27",
+    "duration": 2127,
     "pace": 9.326263328697266,
     "title": "Morning Run",
     "source": "Strava"
@@ -13029,7 +13040,7 @@
     "type": "Run",
     "date": "2020-11-08T14:06:31",
     "distance": 1.8636211117601005,
-    "duration": "0:17:16",
+    "duration": 1036,
     "pace": 9.265054691997697,
     "title": "Morning Run",
     "source": "Strava"
@@ -13040,7 +13051,7 @@
     "type": "Run",
     "date": "2020-11-06T11:59:05",
     "distance": 5.231088520760063,
-    "duration": "0:46:41",
+    "duration": 2801,
     "pace": 8.922931913949878,
     "title": "Morning Run",
     "source": "Strava"
@@ -13051,7 +13062,7 @@
     "type": "Run",
     "date": "2020-11-05T12:06:02",
     "distance": 5.013545925658966,
-    "duration": "0:45:49",
+    "duration": 2749,
     "pace": 9.138784781374218,
     "title": "Morning Run",
     "source": "Strava"
@@ -13062,7 +13073,7 @@
     "type": "Run",
     "date": "2020-11-04T11:37:17",
     "distance": 5.005157393714193,
-    "duration": "0:45:10",
+    "duration": 2710,
     "pace": 9.025011215791835,
     "title": "Morning Run",
     "source": "Strava"
@@ -13073,7 +13084,7 @@
     "type": "Run",
     "date": "2020-11-03T11:27:00",
     "distance": 5.252588017448147,
-    "duration": "0:47:10",
+    "duration": 2830,
     "pace": 8.979689766767102,
     "title": "Morning Run",
     "source": "Strava"
@@ -13084,7 +13095,7 @@
     "type": "Run",
     "date": "2020-11-02T11:27:47",
     "distance": 5.205053003094437,
-    "duration": "0:47:49",
+    "duration": 2869,
     "pace": 9.185730593607307,
     "title": "Morning Run",
     "source": "Strava"
@@ -13095,7 +13106,7 @@
     "type": "Run",
     "date": "2020-11-01T22:50:57",
     "distance": 2.89534840369344,
-    "duration": "0:27:53",
+    "duration": 1673,
     "pace": 9.630999401555954,
     "title": "Afternoon Run",
     "source": "Strava"
@@ -13106,7 +13117,7 @@
     "type": "Run",
     "date": "2020-10-30T13:08:07",
     "distance": 7.0173487268072625,
-    "duration": "1:02:25",
+    "duration": 3745,
     "pace": 8.893346595932803,
     "title": "Morning Run",
     "source": "Strava"
@@ -13117,7 +13128,7 @@
     "type": "Run",
     "date": "2020-10-29T10:50:26",
     "distance": 2.969602445723092,
-    "duration": "0:34:07",
+    "duration": 2047,
     "pace": 11.487080656673804,
     "title": "Morning Run",
     "source": "Strava"
@@ -13128,7 +13139,7 @@
     "type": "Run",
     "date": "2020-10-28T10:59:41",
     "distance": 5.006462276461159,
-    "duration": "0:44:27",
+    "duration": 2667,
     "pace": 8.878627386075252,
     "title": "Morning Run",
     "source": "Strava"
@@ -13139,7 +13150,7 @@
     "type": "Run",
     "date": "2020-10-27T10:53:12",
     "distance": 5.253022978363801,
-    "duration": "0:51:46",
+    "duration": 3106,
     "pace": 9.85390644134215,
     "title": "Morning Run",
     "source": "Strava"
@@ -13150,7 +13161,7 @@
     "type": "Run",
     "date": "2020-10-26T23:08:34",
     "distance": 5.202505374874172,
-    "duration": "0:47:01",
+    "duration": 2821,
     "pace": 9.037174303683738,
     "title": "Evening Run",
     "source": "Strava"
@@ -13161,7 +13172,7 @@
     "type": "Run",
     "date": "2020-10-24T11:09:07",
     "distance": 10.019200417562478,
-    "duration": "1:33:39",
+    "duration": 5619,
     "pace": 9.34576074332172,
     "title": "Morning Run",
     "source": "Strava"
@@ -13172,7 +13183,7 @@
     "type": "Run",
     "date": "2020-10-22T11:11:02",
     "distance": 5.182621447301378,
-    "duration": "0:45:02",
+    "duration": 2702,
     "pace": 8.688802505129035,
     "title": "Morning Run",
     "source": "Strava"
@@ -13183,7 +13194,7 @@
     "type": "Run",
     "date": "2020-10-21T10:25:51",
     "distance": 5.0122410429120015,
-    "duration": "0:43:45",
+    "duration": 2625,
     "pace": 8.728387026792493,
     "title": "Morning Run",
     "source": "Strava"
@@ -13194,7 +13205,7 @@
     "type": "Run",
     "date": "2020-10-20T11:32:56",
     "distance": 0.8346278598680205,
-    "duration": "0:07:57",
+    "duration": 477,
     "pace": 9.524976325757576,
     "title": "Morning Run",
     "source": "Strava"
@@ -13205,7 +13216,7 @@
     "type": "Run",
     "date": "2020-10-20T10:50:14",
     "distance": 3.4906856226776193,
-    "duration": "0:32:25",
+    "duration": 1945,
     "pace": 9.287511542012927,
     "title": "Morning Run",
     "source": "Strava"
@@ -13216,7 +13227,7 @@
     "type": "Run",
     "date": "2020-10-19T11:11:53",
     "distance": 5.3511377334808055,
-    "duration": "0:48:16",
+    "duration": 2896,
     "pace": 9.018941941268773,
     "title": "Morning Run",
     "source": "Strava"
@@ -13227,7 +13238,7 @@
     "type": "Run",
     "date": "2020-10-17T14:08:39",
     "distance": 1.0527918277057675,
-    "duration": "0:10:06",
+    "duration": 606,
     "pace": 9.593109203624225,
     "title": "Morning Run",
     "source": "Strava"
@@ -13238,7 +13249,7 @@
     "type": "Run",
     "date": "2020-10-17T12:16:16",
     "distance": 9.017920389724981,
-    "duration": "1:20:00",
+    "duration": 4800,
     "pace": 8.86981922398589,
     "title": "Morning Run",
     "source": "Strava"
@@ -13249,7 +13260,7 @@
     "type": "Run",
     "date": "2020-10-15T11:07:18",
     "distance": 5.246747113723638,
-    "duration": "0:48:33",
+    "duration": 2913,
     "pace": 9.252270898010808,
     "title": "Morning Run",
     "source": "Strava"
@@ -13260,7 +13271,7 @@
     "type": "Run",
     "date": "2020-10-14T10:48:50",
     "distance": 5.250413212869873,
-    "duration": "0:47:35",
+    "duration": 2855,
     "pace": 9.0615990990991,
     "title": "Morning Run",
     "source": "Strava"
@@ -13271,7 +13282,7 @@
     "type": "Run",
     "date": "2020-10-13T11:02:00",
     "distance": 5.276013769619844,
-    "duration": "0:48:07",
+    "duration": 2887,
     "pace": 9.12014054176584,
     "title": "Morning Run",
     "source": "Strava"
@@ -13282,7 +13293,7 @@
     "type": "Run",
     "date": "2020-10-12T10:59:12",
     "distance": 5.201324766674538,
-    "duration": "0:47:52",
+    "duration": 2872,
     "pace": 9.201486563750715,
     "title": "Morning Run",
     "source": "Strava"
@@ -13293,7 +13304,7 @@
     "type": "Run",
     "date": "2020-10-10T12:43:33",
     "distance": 9.99913007816869,
-    "duration": "1:29:38",
+    "duration": 5378,
     "pace": 8.964683600713013,
     "title": "Morning Run",
     "source": "Strava"
@@ -13304,7 +13315,7 @@
     "type": "Run",
     "date": "2020-10-09T11:12:20",
     "distance": 3.126126238085178,
-    "duration": "0:25:42",
+    "duration": 1542,
     "pace": 8.220145060782512,
     "title": "Morning Run",
     "source": "Strava"
@@ -13315,7 +13326,7 @@
     "type": "Run",
     "date": "2020-10-08T11:01:18",
     "distance": 6.249456298855431,
-    "duration": "0:54:59",
+    "duration": 3299,
     "pace": 8.797091942713458,
     "title": "Morning Run",
     "source": "Strava"
@@ -13326,7 +13337,7 @@
     "type": "Run",
     "date": "2020-10-07T11:06:37",
     "distance": 4.198118483353425,
-    "duration": "0:37:41",
+    "duration": 2261,
     "pace": 8.976684515841143,
     "title": "Morning Run",
     "source": "Strava"
