@@ -1914,6 +1914,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5828783438,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-08-21T11:57:09",
+    "distance": 9.032895472678241,
+    "duration": 5257,
+    "pace": 9.700663050030139,
+    "title": "Two laps around the pond",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5817830478,
     "name": "Jessica",
     "type": "Run",
