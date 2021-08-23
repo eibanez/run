@@ -1914,6 +1914,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5839256481,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-08-23T11:31:42",
+    "distance": 5.025662694023637,
+    "duration": 2782,
+    "pace": 9.226808852195848,
+    "title": "Met up with Ann and pace went way down.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5828783438,
     "name": "Jessica",
     "type": "Run",
