@@ -1914,6 +1914,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5850443439,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-08-25T11:21:03",
+    "distance": 6.100761802975134,
+    "duration": 3242,
+    "pace": 8.858102157639806,
+    "title": "Speed work with my mean coach",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5839256481,
     "name": "Jessica",
     "type": "Run",
