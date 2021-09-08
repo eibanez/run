@@ -1914,6 +1914,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5926838523,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-09-08T14:00:09",
+    "distance": 5.0,
+    "duration": 2700,
+    "pace": 9.000782997762864,
+    "title": "Speed work",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5915404628,
     "name": "Jessica",
     "type": "Run",
