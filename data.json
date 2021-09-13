@@ -1914,6 +1914,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 5953291062,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-09-13T12:04:51",
+    "distance": 3.042862291374104,
+    "duration": 1721,
+    "pace": 9.42788517867604,
+    "title": "I thought I was running super fast 🤦‍♀️",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5948636237,
     "name": "Jessica",
     "type": "Run",
