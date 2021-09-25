@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 6014857554,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2021-09-25T07:28:07",
+    "distance": 2.4593932916599353,
+    "duration": 1610,
+    "pace": 10.912259289395172,
+    "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 5624022658,
     "name": "Eduardo",
     "type": "Run",
