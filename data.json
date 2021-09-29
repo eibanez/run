@@ -1925,6 +1925,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 6038622414,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-09-29T15:55:02",
+    "distance": 6.000037282364199,
+    "duration": 3242,
+    "pace": 9.006827848668008,
+    "title": "Mile repeats 4 @ 8:15; couldn’t hang on the last mile 🥵",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6034146850,
     "name": "Jessica",
     "type": "Run",
