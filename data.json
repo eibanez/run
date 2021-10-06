@@ -1925,6 +1925,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 6072264696,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-10-06T12:26:59",
+    "distance": 8.090832266643469,
+    "duration": 4438,
+    "pace": 9.141899568279936,
+    "title": "Last long run of training!",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6062884108,
     "name": "Jessica",
     "type": "Run",
