@@ -1925,6 +1925,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 6082380547,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-10-08T14:35:14",
+    "distance": 3.1588725813066225,
+    "duration": 1629,
+    "pace": 8.59414717505073,
+    "title": "Running with Ann always seems like a better idea than it actually is.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6072264696,
     "name": "Jessica",
     "type": "Run",
