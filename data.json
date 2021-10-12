@@ -1925,6 +1925,28 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 6103769385,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-10-12T18:22:07",
+    "distance": 4.049796811115116,
+    "duration": 2156,
+    "pace": 8.872753335538647,
+    "title": "Afternoon Run",
+    "source": "Strava"
+  },
+  {
+    "strava_id": 6099347272,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-10-11T21:20:40",
+    "distance": 3.122335864391614,
+    "duration": 1724,
+    "pace": 9.201486563750715,
+    "title": "Afternoon Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6093108110,
     "name": "Jessica",
     "type": "Run",
@@ -11845,6 +11867,17 @@
     "pace": 13.942081526805392,
     "title": "Ran 2.91 mi on 3/15/18",
     "source": "MapMyRun iPhone"
+  },
+  {
+    "strava_id": 6101448437,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2021-10-12T10:50:04",
+    "distance": 3.2545018454770283,
+    "duration": 1770,
+    "pace": 9.064661484735835,
+    "title": "Morning Run",
+    "source": "Strava"
   },
   {
     "strava_id": 6094880312,
