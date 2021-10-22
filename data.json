@@ -1925,6 +1925,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 6150689840,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-10-22T16:08:45",
+    "distance": 3.1348254563982754,
+    "duration": 1774,
+    "pace": 9.431200187529301,
+    "title": "Legs still wrecked.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6146898485,
     "name": "Jessica",
     "type": "Run",
