@@ -1925,6 +1925,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 6174947012,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-10-27T16:37:32",
+    "distance": 4.153379646314638,
+    "duration": 2239,
+    "pace": 8.9857063093244,
+    "title": "My legs are still not recovered ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6170530241,
     "name": "Jessica",
     "type": "Run",
