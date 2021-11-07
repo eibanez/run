@@ -1925,6 +1925,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 6225526122,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-11-07T15:15:54",
+    "distance": 4.067133110467645,
+    "duration": 2336,
+    "pace": 9.572567213894837,
+    "title": "Easier than giving birth",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6221356926,
     "name": "Jessica",
     "type": "Run",
