@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 6268483480,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2021-11-17T02:46:38",
+    "distance": 1.4999937862726336,
+    "duration": 875,
+    "pace": 9.721759091458258,
+    "title": "Back at it",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6014857554,
     "name": "Eduardo",
     "type": "Run",
