@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 6273106723,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2021-11-18T03:39:40",
+    "distance": 1.4999937862726336,
+    "duration": 884,
+    "pace": 9.82143293055047,
+    "title": "Treadmill night",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6268483480,
     "name": "Eduardo",
     "type": "Run",
