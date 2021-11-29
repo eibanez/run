@@ -9,92 +9,90 @@
     "name": "data",
     "url": "https://raw.githubusercontent.com/eibanez/run/master/data.json"
   },
-  "facet": {
-    "column": {
-      "field": "date",
-      "header": {
+  "encoding": {
+    "color": {
+      "field": "name",
+      "legend": {
         "title": null
       },
+      "scale": {
+        "range": [
+          "goldenrod",
+          "firebrick",
+          "cornflowerblue",
+          "darkorchid",
+          "forestgreen"
+        ]
+      },
+      "sort": [],
+      "type": "nominal"
+    },
+    "tooltip": [
+      {
+        "field": "name",
+        "title": "Name"
+      },
+      {
+        "field": "date",
+        "timeUnit": "year",
+        "title": "Year"
+      },
+      {
+        "field": "sum_distance",
+        "format": ".1f",
+        "title": "Distance"
+      }
+    ],
+    "x": {
+      "axis": {
+        "title": null
+      },
+      "field": "date",
       "sort": "descending",
       "timeUnit": "year",
       "type": "nominal"
+    },
+    "xOffset": {
+      "field": "name",
+      "header": {
+        "title": null
+      },
+      "sort": [],
+      "type": "nominal"
+    },
+    "y": {
+      "aggregate": "sum",
+      "axis": {
+        "title": "Distance (miles)"
+      },
+      "field": "distance",
+      "type": "quantitative"
     }
   },
-  "spec": {
-    "encoding": {
-      "color": {
-        "field": "name",
-        "legend": null,
-        "scale": {
-          "range": [
-            "goldenrod",
-            "firebrick",
-            "cornflowerblue",
-            "darkorchid",
-            "forestgreen"
-          ]
-        },
-        "sort": [],
-        "type": "nominal"
-      },
-      "tooltip": [
-        {
-          "field": "name",
-          "title": "Name"
-        },
-        {
-          "field": "date",
-          "timeUnit": "year",
-          "title": "Year"
-        },
-        {
-          "field": "sum_distance",
-          "format": ".1f",
-          "title": "Distance"
-        }
-      ],
-      "x": {
-        "axis": {
-          "title": null
-        },
-        "field": "name",
-        "sort": [],
-        "type": "nominal"
-      },
-      "y": {
-        "aggregate": "sum",
-        "axis": {
-          "title": "Distance (miles)"
-        },
-        "field": "distance",
-        "type": "quantitative"
-      }
+  "height": 200,
+  "layer": [
+    {
+      "mark": "bar"
     },
-    "height": 200,
-    "layer": [
-      {
-        "mark": "bar"
-      },
-      {
-        "encoding": {
-          "text": {
-            "aggregate": "sum",
-            "field": "distance",
-            "format": ".0f",
-            "type": "quantitative"
-          }
-        },
-        "mark": {
-          "dy": -7,
-          "type": "text"
+    {
+      "encoding": {
+        "text": {
+          "aggregate": "sum",
+          "field": "distance",
+          "format": ".0f",
+          "type": "quantitative"
         }
+      },
+      "mark": {
+        "dy": -7,
+        "type": "text"
       }
-    ],
-    "width": 115
-  },
+    }
+  ],
   "transform": [
     {
       "filter": "year(datum.date)>=2018"
     }
-  ]
+  ],
+  "width": 475
 }
