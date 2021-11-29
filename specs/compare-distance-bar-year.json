@@ -54,9 +54,6 @@
     },
     "xOffset": {
       "field": "name",
-      "header": {
-        "title": null
-      },
       "sort": [],
       "type": "nominal"
     },
