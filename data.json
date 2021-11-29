@@ -1947,6 +1947,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 6322883007,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-11-29T19:05:19",
+    "distance": 7.179961971988518,
+    "duration": 3899,
+    "pace": 9.049370220422851,
+    "title": "November ✅",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6314556435,
     "name": "Jessica",
     "type": "Run",
