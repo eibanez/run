@@ -1947,6 +1947,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 6384195415,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-12-14T19:07:12",
+    "distance": 5.569239564044888,
+    "duration": 3047,
+    "pace": 9.11704056197598,
+    "title": "Probably last nice run of the year.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6380008225,
     "name": "Jessica",
     "type": "Run",
