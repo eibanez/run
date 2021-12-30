@@ -1947,6 +1947,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 6448121694,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-12-30T18:14:50",
+    "distance": 5.06549268644289,
+    "duration": 2905,
+    "pace": 9.558921358992635,
+    "title": "Saw 6 bald eagles.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6443293496,
     "name": "Jessica",
     "type": "Run",
