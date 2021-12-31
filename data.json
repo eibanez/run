@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 6453005497,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-12-31T18:28:10",
+    "distance": 4.169473200193869,
+    "duration": 2586,
+    "pace": 10.33615928066795,
+    "title": "Retirement run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6448121694,
     "name": "Jessica",
     "type": "Run",
