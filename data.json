@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 6468667392,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-01-03T22:11:34",
+    "distance": 3.234431506083239,
+    "duration": 1786,
+    "pace": 9.201486563750715,
+    "title": "Fitbit shut off; need to update mileage ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6453005497,
     "name": "Jessica",
     "type": "Run",

@@ -17,9 +17,9 @@
       },
       "scale": {
         "range": [
-          "goldenrod",
           "firebrick",
           "cornflowerblue",
+          "goldenrod",
           "darkorchid",
           "forestgreen"
         ]
