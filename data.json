@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 6563849607,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-01-22T14:41:28",
+    "distance": 2.999987572545267,
+    "duration": 1980,
+    "pace": 11.001777413180202,
+    "title": "No shame",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6559273366,
     "name": "Jessica",
     "type": "Run",
