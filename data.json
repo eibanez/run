@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 6601471576,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-01-29T20:37:26",
+    "distance": 4.150894155368039,
+    "duration": 2397,
+    "pace": 9.624088027747877,
+    "title": "Afternoon Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6596324511,
     "name": "Jessica",
     "type": "Run",
@@ -10811,6 +10822,17 @@
     "pace": 13.942081526805392,
     "title": "Ran 2.91 mi on 3/15/18",
     "source": "MapMyRun iPhone"
+  },
+  {
+    "strava_id": 6601446922,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2022-01-29T20:15:32",
+    "distance": 4.8107920016901335,
+    "duration": 2732,
+    "pace": 9.464478946130322,
+    "title": "Afternoon Run",
+    "source": "Strava"
   },
   {
     "strava_id": 6578740218,
