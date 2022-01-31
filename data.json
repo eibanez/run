@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 6611450819,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-01-31T19:05:27",
+    "distance": 6.30419923695428,
+    "duration": 3590,
+    "pace": 9.491271526303374,
+    "title": "Clive sucks at clearing trails. ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6607820171,
     "name": "Jessica",
     "type": "Run",
