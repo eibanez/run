@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 6637036161,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-02-05T20:10:08",
+    "distance": 2.999987572545267,
+    "duration": 1920,
+    "pace": 10.6649436713055,
+    "title": "Afternoon Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6630777429,
     "name": "Jessica",
     "type": "Run",
