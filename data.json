@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 6647576924,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-02-07T22:22:11",
+    "distance": 3.1951607491269716,
+    "duration": 1664,
+    "pace": 8.680366774541532,
+    "title": "Just making sure I still have it in me",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6642913318,
     "name": "Jessica",
     "type": "Run",
