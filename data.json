@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 6713388109,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-02-20T18:30:49",
+    "distance": 6.0730485789205515,
+    "duration": 3901,
+    "pace": 10.707518296739854,
+    "title": "Run with joni",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6707218325,
     "name": "Jessica",
     "type": "Run",
