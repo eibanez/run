@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 6723527047,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-02-22T21:45:14",
+    "distance": 2.999987572545267,
+    "duration": 2040,
+    "pace": 11.331784255738627,
+    "title": "4 year runiversary ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6717793409,
     "name": "Jessica",
     "type": "Run",
