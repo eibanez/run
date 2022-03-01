@@ -18535,6 +18535,17 @@
     "source": "MapMyRun Android"
   },
   {
+    "strava_id": 6756798151,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2022-03-01T15:45:04",
+    "distance": 1.5467831533423642,
+    "duration": 901,
+    "pace": 9.707684883580649,
+    "title": "Got my 15 minutes",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6273106723,
     "name": "Eduardo",
     "type": "Run",
