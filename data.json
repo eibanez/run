@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 6829673252,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-03-15T19:21:39",
+    "distance": 1.816893881964035,
+    "duration": 1190,
+    "pace": 10.91670058336725,
+    "title": "A runner and two bikers",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6824806796,
     "name": "Jessica",
     "type": "Run",
