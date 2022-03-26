@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 6887250947,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-03-26T17:13:26",
+    "distance": 10.22133296879466,
+    "duration": 5776,
+    "pace": 9.417954119850188,
+    "title": "3rd 10 miler in a row 👊",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6880793861,
     "name": "Jessica",
     "type": "Run",
