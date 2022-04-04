@@ -18920,6 +18920,17 @@
     "source": "MapMyRun Android"
   },
   {
+    "strava_id": 6930314876,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2022-04-04T14:17:35",
+    "distance": 1.7249307169398636,
+    "duration": 1002,
+    "pace": 9.683152827918171,
+    "title": "Little by little ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6915992991,
     "name": "Eduardo",
     "type": "Run",
