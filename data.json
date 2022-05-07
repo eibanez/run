@@ -19184,6 +19184,17 @@
     "source": "MapMyRun Android"
   },
   {
+    "strava_id": 7102735178,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2022-05-07T13:55:20",
+    "distance": 2.006661115736886,
+    "duration": 1087,
+    "pace": 9.028048917311791,
+    "title": "This sucks",
+    "source": "Strava"
+  },
+  {
     "strava_id": 6980547958,
     "name": "Eduardo",
     "type": "Run",
