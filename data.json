@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 7148264160,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-05-15T14:24:50",
+    "distance": 13.781550200703395,
+    "duration": 8079,
+    "pace": 9.771341833636916,
+    "title": "It was 12 miles, need to remember to fix it later.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 7136986584,
     "name": "Jessica",
     "type": "Run",
