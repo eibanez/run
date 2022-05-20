@@ -19305,6 +19305,17 @@
     "source": "MapMyRun Android"
   },
   {
+    "strava_id": 7171775941,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2022-05-20T01:47:22",
+    "distance": 2.016789491344278,
+    "duration": 1172,
+    "pace": 9.686649813410376,
+    "title": "Nice night for a run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 7102735178,
     "name": "Eduardo",
     "type": "Run",
