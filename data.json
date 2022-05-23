@@ -11759,6 +11759,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 7189335450,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2022-05-23T11:07:48",
+    "distance": 3.330806417537624,
+    "duration": 1913,
+    "pace": 9.572567213894837,
+    "title": "Garmin battery died",
+    "source": "Strava"
+  },
+  {
     "strava_id": 7140303353,
     "name": "Brian",
     "type": "Run",
