@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 7355455554,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-06-23T11:33:29",
+    "distance": 4.041284004623013,
+    "duration": 2153,
+    "pace": 8.878627386075252,
+    "title": "You can tell which while I ran into Ann 🥵",
+    "source": "Strava"
+  },
+  {
     "strava_id": 7349825852,
     "name": "Jessica",
     "type": "Run",
