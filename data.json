@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 7381617598,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-06-28T12:19:53",
+    "distance": 2.999987572545267,
+    "duration": 1800,
+    "pace": 10.000869997514293,
+    "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 7371046998,
     "name": "Jessica",
     "type": "Run",
@@ -19721,6 +19732,17 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "strava_id": 7385353689,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2022-06-29T02:13:45",
+    "distance": 2.527557880870419,
+    "duration": 1496,
+    "pace": 9.864778717665809,
+    "title": "Burning some Happy Joes",
+    "source": "Strava"
   },
   {
     "strava_id": 7171775941,
