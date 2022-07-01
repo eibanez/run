@@ -19745,6 +19745,17 @@
     "source": "MapMyRun Android"
   },
   {
+    "strava_id": 7395522355,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2022-07-01T00:15:59",
+    "distance": 1.2746840319634136,
+    "duration": 988,
+    "pace": 12.920199100834939,
+    "title": "First run with Daniel ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 7385353689,
     "name": "Eduardo",
     "type": "Run",
