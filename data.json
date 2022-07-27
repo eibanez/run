@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 7539733419,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-07-27T21:16:42",
+    "distance": 2.999987572545267,
+    "duration": 1800,
+    "pace": 10.000869997514293,
+    "title": "Trying to sweat out my Covid ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 7515050278,
     "name": "Jessica",
     "type": "Run",
