@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 7775033956,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-09-08T10:55:00",
+    "distance": 4.700001242745473,
+    "duration": 2880,
+    "pace": 10.214140644833714,
+    "title": "My gps turned off👎",
+    "source": "Strava"
+  },
+  {
     "strava_id": 7768889952,
     "name": "Jessica",
     "type": "Run",
