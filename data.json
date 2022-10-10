@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 7941378838,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-10-10T13:58:20",
+    "distance": 3.0984130140305965,
+    "duration": 1847,
+    "pace": 9.934197530864196,
+    "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 7924988278,
     "name": "Jessica",
     "type": "Run",
@@ -20645,6 +20656,17 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "strava_id": 7941328855,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2022-10-10T13:58:19",
+    "distance": 2.0157331576919733,
+    "duration": 1204,
+    "pace": 9.956322692402871,
+    "title": "Prepping for the Turkey trot",
+    "source": "Strava"
   },
   {
     "strava_id": 7395522355,
