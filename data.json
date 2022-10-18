@@ -20724,6 +20724,17 @@
     "source": "MapMyRun Android"
   },
   {
+    "strava_id": 7983359103,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2022-10-18T16:58:04",
+    "distance": 2.0302111424559137,
+    "duration": 1269,
+    "pace": 10.416440129449837,
+    "title": "Endorphins to combat disappointment",
+    "source": "Strava"
+  },
+  {
     "strava_id": 7957929735,
     "name": "Eduardo",
     "type": "Run",
