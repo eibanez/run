@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 7988210626,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-10-19T15:43:31",
+    "distance": 3.0780319882684832,
+    "duration": 1676,
+    "pace": 9.073861073522778,
+    "title": "Not used to running alone ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 7983438943,
     "name": "Jessica",
     "type": "Run",
