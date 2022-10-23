@@ -20779,6 +20779,17 @@
     "source": "MapMyRun Android"
   },
   {
+    "strava_id": 8009653838,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2022-10-23T20:56:30",
+    "distance": 3.027327972957859,
+    "duration": 1735,
+    "pace": 9.552113010446345,
+    "title": "I miss my running partner",
+    "source": "Strava"
+  },
+  {
     "strava_id": 7983359103,
     "name": "Eduardo",
     "type": "Run",
