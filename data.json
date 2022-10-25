@@ -3927,17 +3927,6 @@
     "source": "Strava"
   },
   {
-    "strava_id": 5351214390,
-    "name": "Jessica",
-    "type": "Run",
-    "date": "2021-05-23T16:21:09",
-    "distance": 4.041532553717674,
-    "duration": 2316,
-    "pace": 9.552113010446345,
-    "title": "Lunch Run",
-    "source": "Strava"
-  },
-  {
     "strava_id": 5351214459,
     "name": "Jessica",
     "type": "Run",
@@ -3946,6 +3935,17 @@
     "duration": 2350,
     "pace": 9.683152827918171,
     "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
+    "strava_id": 5351214390,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2021-05-23T16:21:09",
+    "distance": 4.041532553717674,
+    "duration": 2316,
+    "pace": 9.552113010446345,
+    "title": "Lunch Run",
     "source": "Strava"
   },
   {
@@ -5962,6 +5962,17 @@
     "source": "Strava"
   },
   {
+    "strava_id": 4187727490,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2020-10-11T13:33:10",
+    "distance": 6.299663215976736,
+    "duration": 3677,
+    "pace": 9.728811510095515,
+    "title": "6.30mi Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 4187574039,
     "name": "Jessica",
     "type": "Run",
@@ -5984,14 +5995,14 @@
     "source": "Strava"
   },
   {
-    "strava_id": 4187727490,
+    "strava_id": 4183410634,
     "name": "Jessica",
     "type": "Run",
-    "date": "2020-10-11T13:33:10",
-    "distance": 6.299663215976736,
-    "duration": 3677,
-    "pace": 9.728811510095515,
-    "title": "6.30mi Run",
+    "date": "2020-10-07T23:14:15",
+    "distance": 5.268495159506381,
+    "duration": 2855,
+    "pace": 9.031088664421997,
+    "title": "Evening Run",
     "source": "Strava"
   },
   {
@@ -6013,17 +6024,6 @@
     "distance": 2.0988106925820524,
     "duration": 1166,
     "pace": 9.258658382234495,
-    "title": "Evening Run",
-    "source": "Strava"
-  },
-  {
-    "strava_id": 4183410634,
-    "name": "Jessica",
-    "type": "Run",
-    "date": "2020-10-07T23:14:15",
-    "distance": 5.268495159506381,
-    "duration": 2855,
-    "pace": 9.031088664421997,
     "title": "Evening Run",
     "source": "Strava"
   },
@@ -14949,17 +14949,6 @@
     "source": "Strava"
   },
   {
-    "strava_id": 5046811282,
-    "name": "Brian",
-    "type": "Run",
-    "date": "2021-03-31T22:38:38",
-    "distance": 5.022928653982379,
-    "duration": 2766,
-    "pace": 9.179443303673283,
-    "title": "Afternoon Run",
-    "source": "Strava"
-  },
-  {
     "strava_id": 5049811638,
     "name": "Brian",
     "type": "Run",
@@ -14968,6 +14957,17 @@
     "duration": 1900,
     "pace": 9.596541443053072,
     "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
+    "strava_id": 5046811282,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2021-03-31T22:38:38",
+    "distance": 5.022928653982379,
+    "duration": 2766,
+    "pace": 9.179443303673283,
+    "title": "Afternoon Run",
     "source": "Strava"
   },
   {
