@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 8038353593,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-10-29T16:42:38",
+    "distance": 3.047460449625312,
+    "duration": 1982,
+    "pace": 10.841686876852599,
+    "title": "Ironically, I had to walk down the hills.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 8031921038,
     "name": "Jessica",
     "type": "Run",
