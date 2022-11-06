@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 8077527305,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-11-06T13:32:12",
+    "distance": 2.0164788049759528,
+    "duration": 1355,
+    "pace": 11.199304105775921,
+    "title": "Got stopped by someone who knew me. I have no idea who it was.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 8066416777,
     "name": "Jessica",
     "type": "Run",
