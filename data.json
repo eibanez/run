@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 8135644919,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-11-18T16:08:30",
+    "distance": 2.021946885058471,
+    "duration": 1281,
+    "pace": 10.55997375328084,
+    "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 8089578642,
     "name": "Jessica",
     "type": "Run",
@@ -20942,6 +20953,17 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "strava_id": 8135621151,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2022-11-18T16:08:28",
+    "distance": 2.010637901251445,
+    "duration": 1293,
+    "pace": 10.716074044479956,
+    "title": "Crawling at the end",
+    "source": "Strava"
   },
   {
     "strava_id": 8048036368,
