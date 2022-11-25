@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 8162345049,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-11-24T14:13:41",
+    "distance": 4.061727167658792,
+    "duration": 3183,
+    "pace": 13.058584875040571,
+    "title": "Daniel did the whole turkey trot!!!!",
+    "source": "Strava"
+  },
+  {
     "strava_id": 8135644919,
     "name": "Jessica",
     "type": "Run",
@@ -12925,6 +12936,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 8152669534,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2022-11-22T11:58:39",
+    "distance": 1.5383946213975916,
+    "duration": 1804,
+    "pace": 19.549805636540327,
+    "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 8134802052,
     "name": "Brian",
     "type": "Run",
@@ -20953,6 +20975,17 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "strava_id": 8162421828,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2022-11-24T14:13:45",
+    "distance": 4.002634620403396,
+    "duration": 4270,
+    "pace": 17.7749061188425,
+    "title": "Daniel and Nathan’s first turkey trot 🦃",
+    "source": "Strava"
   },
   {
     "strava_id": 8135621151,
