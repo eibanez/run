@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 8207273670,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-12-04T15:55:30",
+    "distance": 3.3320491630109235,
+    "duration": 1919,
+    "pace": 9.599976139346218,
+    "title": "Knee finally felt fine🙏",
+    "source": "Strava"
+  },
+  {
     "strava_id": 8197928565,
     "name": "Jessica",
     "type": "Run",
