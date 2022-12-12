@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 8240008071,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-12-12T15:09:52",
+    "distance": 3.1232679234965888,
+    "duration": 1941,
+    "pace": 10.356113256113257,
+    "title": "The whole thing was miserable ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 8214463981,
     "name": "Jessica",
     "type": "Run",
