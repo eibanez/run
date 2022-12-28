@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 8304067743,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-12-28T20:19:40",
+    "distance": 3.02297836380131,
+    "duration": 2029,
+    "pace": 11.185293299972198,
+    "title": "Back to square one😩",
+    "source": "Strava"
+  },
+  {
     "strava_id": 8240008071,
     "name": "Jessica",
     "type": "Run",
