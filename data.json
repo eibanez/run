@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 8308453029,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2022-12-29T17:37:44",
+    "distance": 4.011209564169162,
+    "duration": 2446,
+    "pace": 10.16382468106606,
+    "title": "First garmin run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 8304067743,
     "name": "Jessica",
     "type": "Run",
