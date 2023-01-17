@@ -141,7 +141,7 @@
       ]
     },
     {
-      "filter": "year(datum.date)>=2022"
+      "filter": "year(datum.date)>=2023"
     }
   ],
   "width": 475
