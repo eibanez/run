@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 8443600429,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2023-01-24T11:41:59",
+    "distance": 4.014999937862727,
+    "duration": 2613,
+    "pace": 10.846070899042997,
+    "title": "Training run screwed up my stats again. ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 8438378995,
     "name": "Jessica",
     "type": "Run",
