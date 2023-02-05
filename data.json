@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 8511269556,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2023-02-05T16:39:26",
+    "distance": 5.0172120248051995,
+    "duration": 3375,
+    "pace": 11.21335005574136,
+    "title": "Daniel joined for the first 2 miles❤️",
+    "source": "Strava"
+  },
+  {
     "strava_id": 8492474351,
     "name": "Jessica",
     "type": "Run",
