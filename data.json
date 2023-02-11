@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 8544850166,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2023-02-11T19:07:23",
+    "distance": 5.395130923235612,
+    "duration": 3601,
+    "pace": 11.124982718097607,
+    "title": "Sister run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 8538880233,
     "name": "Jessica",
     "type": "Run",
