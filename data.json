@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 8787618786,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2023-03-27T17:58:41",
+    "distance": 5.0067729628294835,
+    "duration": 3033,
+    "pace": 10.094969263580479,
+    "title": "Lunch Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 8776645537,
     "name": "Jessica",
     "type": "Run",
