@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 8794485087,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2023-03-28T21:46:07",
+    "distance": 9.053773596629675,
+    "duration": 5247,
+    "pace": 9.658744448445564,
+    "title": "The first 7 miles felt terrible!",
+    "source": "Strava"
+  },
+  {
     "strava_id": 8787618786,
     "name": "Jessica",
     "type": "Run",
