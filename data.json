@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 8814963952,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2023-04-01T17:51:55",
+    "distance": 4.003877365876695,
+    "duration": 2462,
+    "pace": 10.249267609221755,
+    "title": "Sunny and windy. 2 miles under dressed, 2 miles overdressed.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 8807586865,
     "name": "Jessica",
     "type": "Run",
