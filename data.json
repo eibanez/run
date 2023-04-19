@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 8919083943,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2023-04-19T13:54:37",
+    "distance": 3.030621248462103,
+    "duration": 1804,
+    "pace": 9.919501972386588,
+    "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 8907774259,
     "name": "Jessica",
     "type": "Run",
