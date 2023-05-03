@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 9003156334,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2023-05-03T14:25:29",
+    "distance": 3.003405122596841,
+    "duration": 1845,
+    "pace": 10.237531806615776,
+    "title": "Not back to normal yet 😩",
+    "source": "Strava"
+  },
+  {
     "strava_id": 8963860331,
     "name": "Jessica",
     "type": "Run",
