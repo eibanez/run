@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 9107234372,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2023-05-20T12:05:46",
+    "distance": 15.006462276461159,
+    "duration": 10628,
+    "pace": 11.805604460093898,
+    "title": "Donut run! Bucket list ✅",
+    "source": "Strava"
+  },
+  {
     "strava_id": 9094515334,
     "name": "Jessica",
     "type": "Run",
