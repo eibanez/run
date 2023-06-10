@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 9236587076,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2023-06-10T05:59:08",
+    "distance": 8.0073819081114,
+    "duration": 5055,
+    "pace": 10.522688636066432,
+    "title": "Eduardo biked while I got my long run in. Two miles of gravel trail then two miles up the mountain. Out and back.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 9224410757,
     "name": "Jessica",
     "type": "Run",
