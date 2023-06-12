@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 9249547571,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2023-06-12T05:04:02",
+    "distance": 6.005318950625723,
+    "duration": 3629,
+    "pace": 10.072224308424083,
+    "title": "It only took 15 years but I finally know my way around Pamplona.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 9236587076,
     "name": "Jessica",
     "type": "Run",
