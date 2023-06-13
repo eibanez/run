@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 9255443337,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2023-06-13T04:57:08",
+    "distance": 5.007891433755453,
+    "duration": 3021,
+    "pace": 10.053348325837081,
+    "title": "Getting my longer runs out of the way early this week.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 9249547571,
     "name": "Jessica",
     "type": "Run",
