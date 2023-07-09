@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 9415827569,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2023-07-09T05:22:13",
+    "distance": 6.006996657014676,
+    "duration": 3521,
+    "pace": 9.76778344258315,
+    "title": "Went for a run, went to the running of the bulls",
+    "source": "Strava"
+  },
+  {
     "strava_id": 9403900247,
     "name": "Jessica",
     "type": "Run",
