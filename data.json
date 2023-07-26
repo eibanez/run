@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 9523210752,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2023-07-26T06:44:43",
+    "distance": 3.0030944362285164,
+    "duration": 1819,
+    "pace": 10.094969263580479,
+    "title": "Last lap around baranain…and last run in cool weather!",
+    "source": "Strava"
+  },
+  {
     "strava_id": 9516534017,
     "name": "Jessica",
     "type": "Run",
