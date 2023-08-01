@@ -22594,6 +22594,17 @@
     "source": "MapMyRun Android"
   },
   {
+    "strava_id": 9559441192,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2023-08-01T02:13:49",
+    "distance": 1.5132911628369394,
+    "duration": 920,
+    "pace": 10.133106661629519,
+    "title": "Night Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 8913287066,
     "name": "Eduardo",
     "type": "Run",
