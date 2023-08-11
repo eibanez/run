@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 9626263316,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2023-08-11T10:01:10",
+    "distance": 16.00277132240546,
+    "duration": 11429,
+    "pace": 11.905163485722738,
+    "title": "F* this",
+    "source": "Strava"
+  },
+  {
     "strava_id": 9616152864,
     "name": "Jessica",
     "type": "Run",
