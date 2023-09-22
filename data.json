@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 9899274920,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2023-09-22 11:42:33",
+    "distance": 20.02671902767594,
+    "duration": "3:38:18",
+    "pace": 10.898957063524312,
+    "title": "I was soaked by the second mile. Abandoned all plans at mile 3. Met the kids at school drop off and changed clothes (stopped my watch), met up with Robin and Got. It. Done.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 9886543653,
     "name": "Jessica",
     "type": "Run",
