@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 9981178001,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2023-10-05 12:14:05",
+    "distance": 2.013434078566369,
+    "duration": "0:27:05",
+    "pace": 13.45152123035774,
+    "title": "Daniel wanted to run to help his endurance in the pool.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 9969312797,
     "name": "Jessica",
     "type": "Run",
