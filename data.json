@@ -14949,6 +14949,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 10489424455,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2024-01-04 00:11:10",
+    "distance": 2.4910833012290756,
+    "duration": "0:31:05",
+    "pace": 12.475503875968993,
+    "title": "Evening Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 10469319962,
     "name": "Brian",
     "type": "Run",
