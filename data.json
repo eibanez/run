@@ -23397,6 +23397,28 @@
     "source": "MapMyRun Android"
   },
   {
+    "strava_id": 10708870297,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2024-02-06 16:52:36",
+    "distance": 2.0345607516124624,
+    "duration": "0:20:03",
+    "pace": 9.85390644134215,
+    "title": "Lunch Walk",
+    "source": "Strava"
+  },
+  {
+    "strava_id": 10701557418,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2024-02-05 15:22:24",
+    "distance": 2.0605341320044244,
+    "duration": "0:20:06",
+    "pace": 9.753575757575758,
+    "title": "Morning Walk",
+    "source": "Strava"
+  },
+  {
     "strava_id": 10328111647,
     "name": "Eduardo",
     "type": "Run",
