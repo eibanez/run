@@ -200,7 +200,7 @@
   {
     "strava_id": 10045528604,
     "name": "Jessica",
-    "type": "Run",
+    "type": "Race",
     "date": "2023-10-15 13:10:38",
     "distance": 26.610225309754313,
     "duration": "5:04:10",
@@ -2312,7 +2312,7 @@
   {
     "strava_id": 7973026104,
     "name": "Jessica",
-    "type": "Run",
+    "type": "Race",
     "date": "2022-10-16 13:02:24",
     "distance": 14.477176979382854,
     "duration": "2:16:28",
