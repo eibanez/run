@@ -23474,6 +23474,17 @@
     "source": "MapMyRun Android"
   },
   {
+    "strava_id": 10808979656,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2024-02-21 17:30:07",
+    "distance": 3.2762498912597713,
+    "duration": "0:33:11",
+    "pace": 10.129279959718026,
+    "title": "Lunch Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 10794472400,
     "name": "Eduardo",
     "type": "Run",
