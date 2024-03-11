@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 10937295927,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2024-03-11 15:38:22",
+    "distance": 2.266519194203835,
+    "duration": "0:25:43",
+    "pace": 11.346164692611394,
+    "title": "The boys biked while I jogged",
+    "source": "Strava"
+  },
+  {
     "strava_id": 10931516543,
     "name": "Jessica",
     "type": "Run",
