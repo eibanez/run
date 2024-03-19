@@ -23749,6 +23749,17 @@
     "source": "MapMyRun Android"
   },
   {
+    "strava_id": 10994371633,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2024-03-19 17:14:36",
+    "distance": 2.0847055314601017,
+    "duration": "0:18:52",
+    "pace": 9.049370220422851,
+    "title": "Misery",
+    "source": "Strava"
+  },
+  {
     "strava_id": 10988002991,
     "name": "Eduardo",
     "type": "Run",
