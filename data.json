@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 11072630413,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2024-03-30 20:49:07",
+    "distance": 2.524388879913505,
+    "duration": "0:26:25",
+    "pace": 10.465210040317336,
+    "title": "Ended up chasing the kids through the field.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 11063710397,
     "name": "Jessica",
     "type": "Run",
