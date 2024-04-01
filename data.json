@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 11079951241,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2024-03-31 23:35:47",
+    "distance": 2.052021325512322,
+    "duration": "0:22:05",
+    "pace": 10.763376136971642,
+    "title": "Evening Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 11072630413,
     "name": "Jessica",
     "type": "Run",
@@ -23901,6 +23912,17 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "strava_id": 11079944865,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2024-03-31 23:35:48",
+    "distance": 2.09029788608995,
+    "duration": "0:22:02",
+    "pace": 10.539227242960052,
+    "title": "Evening Run",
+    "source": "Strava"
   },
   {
     "strava_id": 11063686850,
