@@ -23969,6 +23969,17 @@
     "source": "MapMyRun Android"
   },
   {
+    "strava_id": 11118817660,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2024-04-06 12:38:49",
+    "distance": 3.0171995973504666,
+    "duration": "0:27:43",
+    "pace": 9.185730593607307,
+    "title": "Lonely run 😔",
+    "source": "Strava"
+  },
+  {
     "strava_id": 11112497431,
     "name": "Eduardo",
     "type": "Run",
