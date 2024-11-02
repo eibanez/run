@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 12806588399,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2024-11-02 16:08:04",
+    "distance": 3.1465072638472917,
+    "duration": 1958,
+    "pace": 10.372131992781645,
+    "title": "Some running, some walking, some company, some alone. All wonderful.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 12789640669,
     "name": "Jessica",
     "type": "Run",
