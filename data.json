@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 12853762014,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2024-11-08 17:45:03",
+    "distance": 3.008935339953024,
+    "duration": 1747,
+    "pace": 9.676166426166427,
+    "title": "Perfect conditions but zero motivation😬",
+    "source": "Strava"
+  },
+  {
     "strava_id": 12838472255,
     "name": "Jessica",
     "type": "Run",
