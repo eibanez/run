@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 12892003407,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2024-11-13 14:50:51",
+    "distance": 3.0083139672163743,
+    "duration": 1802,
+    "pace": 9.982260265475748,
+    "title": "Beat the rain!",
+    "source": "Strava"
+  },
+  {
     "strava_id": 12883668422,
     "name": "Jessica",
     "type": "Run",
@@ -25012,6 +25023,17 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "strava_id": 12892004198,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2024-11-13 14:50:53",
+    "distance": 3.0083761044900394,
+    "duration": 1808,
+    "pace": 10.015807816778691,
+    "title": "Morning Run",
+    "source": "Strava"
   },
   {
     "strava_id": 12878412305,
