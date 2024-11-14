@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 12900980772,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2024-11-14 17:40:10",
+    "distance": 6.258776889905179,
+    "duration": 3688,
+    "pace": 9.82143293055047,
+    "title": "Smiles are fake 🤪",
+    "source": "Strava"
+  },
+  {
     "strava_id": 12892003407,
     "name": "Jessica",
     "type": "Run",
@@ -25023,6 +25034,17 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "strava_id": 12900981249,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2024-11-14 17:40:10",
+    "distance": 6.312152807983397,
+    "duration": 3688,
+    "pace": 9.739409343984507,
+    "title": "10k",
+    "source": "Strava"
   },
   {
     "strava_id": 12892004198,
