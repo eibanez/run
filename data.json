@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 12996940034,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2024-11-27 18:17:26",
+    "distance": 4.008040563212249,
+    "duration": 2496,
+    "pace": 10.38015995872033,
+    "title": "Lunch Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 12980769207,
     "name": "Jessica",
     "type": "Run",
@@ -25122,6 +25133,17 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "strava_id": 12996933196,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2024-11-27 18:17:26",
+    "distance": 4.006859955012614,
+    "duration": 2494,
+    "pace": 10.372131992781645,
+    "title": "Lunch Run",
+    "source": "Strava"
   },
   {
     "strava_id": 12989245664,
