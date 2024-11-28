@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 13002541162,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2024-11-28 14:04:46",
+    "distance": 4.002572483129731,
+    "duration": 3825,
+    "pace": 15.927751385589866,
+    "title": "Family turkey trot",
+    "source": "Strava"
+  },
+  {
     "strava_id": 12996940034,
     "name": "Jessica",
     "type": "Run",
