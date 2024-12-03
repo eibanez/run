@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 13039065021,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2024-12-03 17:10:17",
+    "distance": 3.016081126424497,
+    "duration": 1813,
+    "pace": 10.019549246669156,
+    "title": "Sidewalks need another day 🧊",
+    "source": "Strava"
+  },
+  {
     "strava_id": 13010022194,
     "name": "Jessica",
     "type": "Run",
