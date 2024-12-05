@@ -25179,6 +25179,17 @@
     "source": "MapMyRun Android"
   },
   {
+    "strava_id": 13054880211,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2024-12-05 20:58:51",
+    "distance": 3.1147551170044863,
+    "duration": 1778,
+    "pace": 9.514839777698947,
+    "title": "Afternoon Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 13041652955,
     "name": "Eduardo",
     "type": "Run",
