@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 13053529787,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2024-12-05 17:16:17",
+    "distance": 3.008065418121715,
+    "duration": 1682,
+    "pace": 9.319782256196433,
+    "title": "Lost feeling in my toes within the first 5 minutes😩",
+    "source": "Strava"
+  },
+  {
     "strava_id": 13039065021,
     "name": "Jessica",
     "type": "Run",
