@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 13074856241,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2024-12-08 19:11:16",
+    "distance": 4.792834329600955,
+    "duration": 2784,
+    "pace": 9.679658366414051,
+    "title": "Shorts and T-shirt ☀️",
+    "source": "Strava"
+  },
+  {
     "strava_id": 13053529787,
     "name": "Jessica",
     "type": "Run",
