@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 13103676202,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2024-12-12 23:47:37",
+    "distance": 2.013558353113699,
+    "duration": 1128,
+    "pace": 9.336001856363847,
+    "title": "Never ever wait until after supper to get my steps 😩",
+    "source": "Strava"
+  },
+  {
     "strava_id": 13080252280,
     "name": "Jessica",
     "type": "Run",
