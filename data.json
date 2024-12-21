@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 13162587095,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2024-12-21 15:25:57",
+    "distance": 4.007046366833609,
+    "duration": 2606,
+    "pace": 10.837306397306397,
+    "title": "Took off glove to take picture; immediately regretted ",
+    "source": "Strava"
+  },
+  {
     "strava_id": 13143705242,
     "name": "Jessica",
     "type": "Run",
