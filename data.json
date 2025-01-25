@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 13451061491,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-01-25 17:56:05",
+    "distance": 4.002634620403396,
+    "duration": 2518,
+    "pace": 10.485665884805838,
+    "title": "My treadmill legs were given a big, hilly dose of reality.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 13433653049,
     "name": "Jessica",
     "type": "Run",
