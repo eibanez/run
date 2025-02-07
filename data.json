@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 13565969656,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-02-07 17:19:41",
+    "distance": 4.003380267687375,
+    "duration": 2244,
+    "pace": 9.342505514919308,
+    "title": "Underdressed 🥶",
+    "source": "Strava"
+  },
+  {
     "strava_id": 13558886944,
     "name": "Jessica",
     "type": "Run",
