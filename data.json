@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 13836719158,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-03-09 17:48:30",
+    "distance": 3.0424894677321137,
+    "duration": 1807,
+    "pace": 9.897539975399754,
+    "title": "60 and I still was freezing",
+    "source": "Strava"
+  },
+  {
     "strava_id": 13805803424,
     "name": "Jessica",
     "type": "Run",
@@ -25991,6 +26002,17 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "strava_id": 13836720076,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2025-03-09 17:48:30",
+    "distance": 3.007195496290405,
+    "duration": 1797,
+    "pace": 9.96001980443124,
+    "title": "Lunch Run",
+    "source": "Strava"
   },
   {
     "strava_id": 13591739103,
