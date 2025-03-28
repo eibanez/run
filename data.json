@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 14011689979,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-03-28 14:33:35",
+    "distance": 3.0068848099220804,
+    "duration": 1817,
+    "pace": 10.072224308424083,
+    "title": "Runners trifecta; Hills, wind, and heat!",
+    "source": "Strava"
+  },
+  {
     "strava_id": 13992755780,
     "name": "Jessica",
     "type": "Run",
