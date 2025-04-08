@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 14117825936,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-04-08 14:53:08",
+    "distance": 7.045061950861844,
+    "duration": 4230,
+    "pace": 10.008333333333333,
+    "title": "Terrible, terrible route😩",
+    "source": "Strava"
+  },
+  {
     "strava_id": 14101525552,
     "name": "Jessica",
     "type": "Run",
