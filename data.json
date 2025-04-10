@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 14127413534,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-04-09 14:11:13",
+    "distance": 3.0059527508171056,
+    "duration": 2073,
+    "pace": 11.49200228506141,
+    "title": "Stopped to talk to Scott and forgot to pause my run 🤷‍♀️",
+    "source": "Strava"
+  },
+  {
     "strava_id": 14117825936,
     "name": "Jessica",
     "type": "Run",
@@ -26442,6 +26453,17 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "strava_id": 14127389484,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2025-04-09 14:11:13",
+    "distance": 3.006822672648415,
+    "duration": 1894,
+    "pace": 10.497977821265492,
+    "title": "Morning Run",
+    "source": "Strava"
   },
   {
     "strava_id": 14109110751,
