@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 14138025274,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-04-10 15:41:56",
+    "distance": 4.103731964656319,
+    "duration": 2494,
+    "pace": 10.129279959718026,
+    "title": "The hills of Glynn Village",
+    "source": "Strava"
+  },
+  {
     "strava_id": 14127413534,
     "name": "Jessica",
     "type": "Run",
