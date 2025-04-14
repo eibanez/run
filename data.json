@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 14178942180,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-04-14 20:47:51",
+    "distance": 8.044539997763058,
+    "duration": 4820,
+    "pace": 9.985976669148672,
+    "title": "I was in no mood to fight the wind.",
+    "source": "Strava"
+  },
+  {
     "strava_id": 14158094869,
     "name": "Jessica",
     "type": "Run",
