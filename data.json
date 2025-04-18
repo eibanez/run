@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 14215965079,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-04-18 17:53:01",
+    "distance": 4.114792399368686,
+    "duration": 2513,
+    "pace": 10.179253636938647,
+    "title": "Should have popped in my contacts 🌧️",
+    "source": "Strava"
+  },
+  {
     "strava_id": 14205523441,
     "name": "Jessica",
     "type": "Run",
