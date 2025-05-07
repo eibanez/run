@@ -26862,6 +26862,28 @@
     "source": "MapMyRun Android"
   },
   {
+    "strava_id": 14406481797,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2025-05-07 15:36:31",
+    "distance": 2.5137634061167935,
+    "duration": 1477,
+    "pace": 9.792746744553973,
+    "title": "Watch missed an extra mile…",
+    "source": "Strava"
+  },
+  {
+    "strava_id": 14406479767,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2025-05-07 15:25:00",
+    "distance": 1.074167049846521,
+    "duration": 645,
+    "pace": 10.008333333333333,
+    "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 14354887948,
     "name": "Eduardo",
     "type": "Run",
