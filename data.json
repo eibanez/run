@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 14766133425,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-06-11 13:38:35",
+    "distance": 3.0087489281320297,
+    "duration": 1764,
+    "pace": 9.771341833636916,
+    "title": "Nursing yet another injury I blame on being over 40😬",
+    "source": "Strava"
+  },
+  {
     "strava_id": 14713022884,
     "name": "Jessica",
     "type": "Run",
