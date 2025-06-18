@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 14839324538,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-06-18 13:45:52",
+    "distance": 3.3681509190102776,
+    "duration": 1981,
+    "pace": 9.80348440545809,
+    "title": "Just doing what my watch tells me to do",
+    "source": "Strava"
+  },
+  {
     "strava_id": 14816131320,
     "name": "Jessica",
     "type": "Run",
