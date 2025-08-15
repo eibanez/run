@@ -17589,6 +17589,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 15468495452,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2025-08-15 14:41:20",
+    "distance": 2.0159817067866332,
+    "duration": 1116,
+    "pace": 9.226808852195848,
+    "title": "Dubuque!",
+    "source": "Strava"
+  },
+  {
     "strava_id": 15443665637,
     "name": "Brian",
     "type": "Run",
