@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 15592857602,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-08-26 13:46:43",
+    "distance": 2.039096772590006,
+    "duration": 1243,
+    "pace": 10.159974747474747,
+    "title": "Starting over!",
+    "source": "Strava"
+  },
+  {
     "strava_id": 14889954648,
     "name": "Jessica",
     "type": "Run",
