@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 15605214841,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-08-27 13:53:16",
+    "distance": 3.0048964171648005,
+    "duration": 1809,
+    "pace": 10.034542960468887,
+    "title": "Ran into Scott and enjoyed a break to get my heart rate down 🤪",
+    "source": "Strava"
+  },
+  {
     "strava_id": 15592857602,
     "name": "Jessica",
     "type": "Run",
