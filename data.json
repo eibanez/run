@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 15627051972,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-08-29 13:54:05",
+    "distance": 3.0053935153541205,
+    "duration": 2015,
+    "pace": 11.175972222222223,
+    "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 15605214841,
     "name": "Jessica",
     "type": "Run",
@@ -27553,6 +27564,17 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "strava_id": 15627043387,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2025-08-29 13:54:03",
+    "distance": 3.015956851877167,
+    "duration": 2013,
+    "pace": 11.124982718097607,
+    "title": "Morning Run",
+    "source": "Strava"
   },
   {
     "strava_id": 15611304782,
