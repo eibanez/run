@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 15764375071,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-09-10 13:52:35",
+    "distance": 3.0055799271751154,
+    "duration": 1831,
+    "pace": 10.152283623517537,
+    "title": "My watch said to rest. My brain said, “it’s extra hot this morning, why don’t we go find some hills!” 👎🥵 garmin is always right",
+    "source": "Strava"
+  },
+  {
     "strava_id": 15752338257,
     "name": "Jessica",
     "type": "Run",
