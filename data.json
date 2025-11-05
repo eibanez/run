@@ -27995,6 +27995,17 @@
     "source": "MapMyRun Android"
   },
   {
+    "strava_id": 16364657191,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2025-11-05 15:40:52",
+    "distance": 3.1143201560888314,
+    "duration": 1919,
+    "pace": 10.268887187340479,
+    "title": "Morning Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 16224413591,
     "name": "Eduardo",
     "type": "Run",
