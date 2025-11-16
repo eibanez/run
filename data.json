@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 16478653857,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-11-16 17:38:53",
+    "distance": 4.00480942498167,
+    "duration": 2521,
+    "pace": 10.489766653630557,
+    "title": "Training for the turkey trot. 🦃",
+    "source": "Strava"
+  },
+  {
     "strava_id": 16447709183,
     "name": "Jessica",
     "type": "Run",
