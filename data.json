@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 16564019814,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-11-25 16:54:51",
+    "distance": 3.0081896926690446,
+    "duration": 1895,
+    "pace": 10.497977821265492,
+    "title": "Probably the last run in shorts for 5 months 🤪",
+    "source": "Strava"
+  },
+  {
     "strava_id": 16552800877,
     "name": "Jessica",
     "type": "Run",
@@ -28147,6 +28158,17 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "strava_id": 16563952637,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2025-11-25 16:54:51",
+    "distance": 3.010550909068314,
+    "duration": 1898,
+    "pace": 10.50620185402794,
+    "title": "Morning Run",
+    "source": "Strava"
   },
   {
     "strava_id": 16517491564,
