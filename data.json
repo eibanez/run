@@ -7,7 +7,7 @@
     "distance": 4.006362856823294,
     "duration": 3065,
     "pace": 12.748257287705956,
-    "title": "Morning Run",
+    "title": "Daniel did so amazing!!!",
     "source": "Strava"
   },
   {
@@ -28180,6 +28180,17 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "strava_id": 16582629246,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2025-11-27 14:02:50",
+    "distance": 4.024879764375458,
+    "duration": 3613,
+    "pace": 14.959472020821714,
+    "title": "Morning Run",
+    "source": "Strava"
   },
   {
     "strava_id": 16563952637,
