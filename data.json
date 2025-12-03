@@ -18029,6 +18029,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 16638417775,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2025-12-03 13:02:39",
+    "distance": 0.0,
+    "duration": 1200,
+    "pace": 0.0,
+    "title": "20 min Pop Punk Run with Becs Gentry",
+    "source": "Strava"
+  },
+  {
     "strava_id": 16583209256,
     "name": "Brian",
     "type": "Run",
