@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 16697464773,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-12-09 19:58:12",
+    "distance": 3.0048964171648005,
+    "duration": 1853,
+    "pace": 10.27675606641124,
+    "title": "Roads are dry! Sidewalk still patchy 🧊",
+    "source": "Strava"
+  },
+  {
     "strava_id": 16666469258,
     "name": "Jessica",
     "type": "Run",
