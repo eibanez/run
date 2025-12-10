@@ -18062,6 +18062,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 16702753843,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2025-12-10 11:42:41",
+    "distance": 0.0,
+    "duration": 1211,
+    "pace": 0.0,
+    "title": "20 min 2010s Run with Kirsten Ferguson",
+    "source": "Strava"
+  },
+  {
     "strava_id": 16638417775,
     "name": "Brian",
     "type": "Run",
