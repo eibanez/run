@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 16796502909,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-12-20 19:23:13",
+    "distance": 4.012514446916128,
+    "duration": 2742,
+    "pace": 11.389525831564049,
+    "title": "Probably needed more fuel than a coffee and half a donut 😩",
+    "source": "Strava"
+  },
+  {
     "strava_id": 16777637043,
     "name": "Jessica",
     "type": "Run",
