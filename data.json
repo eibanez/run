@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 16806141416,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-12-21 20:14:37",
+    "distance": 4.012514446916128,
+    "duration": 2576,
+    "pace": 10.698976199973407,
+    "title": "Running for my immune system!",
+    "source": "Strava"
+  },
+  {
     "strava_id": 16796502909,
     "name": "Jessica",
     "type": "Run",
