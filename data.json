@@ -18106,6 +18106,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 16829710733,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2025-12-24 13:43:12",
+    "distance": 0.0,
+    "duration": 1256,
+    "pace": 0.0,
+    "title": "20 min Intervals Run with Jess Sims",
+    "source": "Strava"
+  },
+  {
     "strava_id": 16702753843,
     "name": "Brian",
     "type": "Run",
