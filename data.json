@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 16887716590,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2025-12-30 19:57:16",
+    "distance": 4.273801682677371,
+    "duration": 2584,
+    "pace": 10.076008014024543,
+    "title": "Stepiversary: 10k steps every day for 7 years",
+    "source": "Strava"
+  },
+  {
     "strava_id": 16831815161,
     "name": "Jessica",
     "type": "Run",
