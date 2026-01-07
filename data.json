@@ -18150,6 +18150,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 16967205311,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2026-01-07 12:13:07",
+    "distance": 0.0,
+    "duration": 1244,
+    "pace": 0.0,
+    "title": "20 min Intervals Run with Jermaine Johnson",
+    "source": "Strava"
+  },
+  {
     "strava_id": 16829710733,
     "name": "Brian",
     "type": "Run",
