@@ -18172,6 +18172,17 @@
     "source": "MapMyRun iPhone"
   },
   {
+    "strava_id": 17046555103,
+    "name": "Brian",
+    "type": "Run",
+    "date": "2026-01-14 12:28:59",
+    "distance": 0.0,
+    "duration": 809,
+    "pace": 0.0,
+    "title": "20 min 90s Run with Becs Gentry",
+    "source": "Strava"
+  },
+  {
     "strava_id": 16967205311,
     "name": "Brian",
     "type": "Run",
