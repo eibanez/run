@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 17206694975,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2026-01-28 15:18:15",
+    "distance": 3.0067605353747497,
+    "duration": 1993,
+    "pace": 11.047089511257552,
+    "title": "Just the run my body needed!",
+    "source": "Strava"
+  },
+  {
     "strava_id": 17183164701,
     "name": "Jessica",
     "type": "Run",
