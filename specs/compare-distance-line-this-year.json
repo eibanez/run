@@ -141,7 +141,7 @@
       ]
     },
     {
-      "filter": "year(datum.date)>="
+      "filter": "year(datum.date)>=2026"
     }
   ],
   "width": 475
