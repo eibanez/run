@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 17254452576,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2026-02-01 20:21:09",
+    "distance": 3.0061391626381,
+    "duration": 1960,
+    "pace": 10.868044300378173,
+    "title": "Afternoon Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 17221721716,
     "name": "Jessica",
     "type": "Run",
@@ -28422,6 +28433,17 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "strava_id": 17254451360,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2026-02-01 20:21:14",
+    "distance": 3.007816869027055,
+    "duration": 1954,
+    "pace": 10.828556048983986,
+    "title": "Afternoon Run",
+    "source": "Strava"
   },
   {
     "strava_id": 17221715924,
