@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 17343337885,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2026-02-09 19:27:14",
+    "distance": 6.293263076789243,
+    "duration": 3681,
+    "pace": 9.750030292015024,
+    "title": "In shorts!!",
+    "source": "Strava"
+  },
+  {
     "strava_id": 17320649324,
     "name": "Jessica",
     "type": "Run",
