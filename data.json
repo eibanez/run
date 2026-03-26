@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 17865616824,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2026-03-26 13:04:50",
+    "distance": 4.02015733157692,
+    "duration": 2450,
+    "pace": 10.15612772939543,
+    "title": "My cute pacer",
+    "source": "Strava"
+  },
+  {
     "strava_id": 17854597189,
     "name": "Jessica",
     "type": "Run",
