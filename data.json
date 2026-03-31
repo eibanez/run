@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 17925464934,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2026-03-31 13:48:46",
+    "distance": 3.013657772751563,
+    "duration": 1809,
+    "pace": 10.004600273529777,
+    "title": "🥶",
+    "source": "Strava"
+  },
+  {
     "strava_id": 17924857606,
     "name": "Jessica",
     "type": "Run",
