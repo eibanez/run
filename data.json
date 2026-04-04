@@ -7,7 +7,7 @@
     "distance": 2.5776405234443938,
     "duration": 1780,
     "pace": 11.506792506792507,
-    "title": "Afternoon Run",
+    "title": "Our Easter run ✝️",
     "source": "Strava"
   },
   {
@@ -28796,6 +28796,39 @@
     "pace": 11.832637265061141,
     "title": "0:37:59 Run",
     "source": "MapMyRun Android"
+  },
+  {
+    "strava_id": 17979798161,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2026-04-04 19:23:12",
+    "distance": 2.5887009581567604,
+    "duration": 1792,
+    "pace": 11.53648745519713,
+    "title": "Afternoon Run",
+    "source": "Strava"
+  },
+  {
+    "strava_id": 17979794692,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2026-03-31 21:16:59",
+    "distance": 2.021698335963811,
+    "duration": 1227,
+    "pace": 10.114002011060833,
+    "title": "Afternoon Run",
+    "source": "Strava"
+  },
+  {
+    "strava_id": 17979794700,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2026-03-25 15:11:37",
+    "distance": 3.0084382417637046,
+    "duration": 1860,
+    "pace": 10.304392367780764,
+    "title": "Morning Run",
+    "source": "Strava"
   },
   {
     "strava_id": 17713256567,
