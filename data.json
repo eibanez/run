@@ -1,5 +1,16 @@
 [
   {
+    "strava_id": 18212146094,
+    "name": "Jessica",
+    "type": "Run",
+    "date": "2026-04-22 13:10:46",
+    "distance": 3.517093963985236,
+    "duration": 2089,
+    "pace": 9.897539975399754,
+    "title": "5-6 in spotting Lyons!",
+    "source": "Strava"
+  },
+  {
     "strava_id": 18197967670,
     "name": "Jessica",
     "type": "Run",
