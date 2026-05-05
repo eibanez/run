@@ -28941,6 +28941,28 @@
     "source": "MapMyRun Android"
   },
   {
+    "strava_id": 18389293099,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2026-05-05 16:14:15",
+    "distance": 3.5140492375756525,
+    "duration": 2081,
+    "pace": 9.868408143242581,
+    "title": "Lunch Run",
+    "source": "Strava"
+  },
+  {
+    "strava_id": 18389285866,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2026-05-04 17:04:30",
+    "distance": 3.1159357252041215,
+    "duration": 1989,
+    "pace": 10.639561020758958,
+    "title": "Lunch Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 18337669435,
     "name": "Eduardo",
     "type": "Run",
