@@ -29139,6 +29139,17 @@
     "source": "MapMyRun Android"
   },
   {
+    "strava_id": 18833718670,
+    "name": "Eduardo",
+    "type": "Run",
+    "date": "2026-05-29 03:24:25",
+    "distance": 5.601861632719003,
+    "duration": 3548,
+    "pace": 10.555817919454283,
+    "title": "Night Run",
+    "source": "Strava"
+  },
+  {
     "strava_id": 18665707905,
     "name": "Eduardo",
     "type": "Run",
